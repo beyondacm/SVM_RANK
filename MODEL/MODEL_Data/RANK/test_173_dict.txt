@@ -1,0 +1,14 @@
+A_0_score:1
+A_10_score:-13
+A_11_score:13
+A_12_score:9
+A_13_score:-11
+A_1_score:5
+A_2_score:-9
+A_3_score:3
+A_4_score:-1
+A_5_score:-3
+A_6_score:11
+A_7_score:-5
+A_8_score:7
+A_9_score:-7
