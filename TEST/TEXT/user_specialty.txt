@@ -10028,2623 +10028,2655 @@
 10027,family medicine
 10028,orthopedic surgery
 10029,orthopedic surgery
-10030,orthopedic surgery
-10031,hand surgery
-10032,orthopedic reconstructive surgery
-10033,sports medicine
-10034,orthopedic surgery
-10035,orthopedic reconstructive surgery
-10036,orthopedic surgery
-10037,orthopedic surgery
-10038,orthopedic spine surgery
-10039,orthopedic surgery
-10040,orthopedic surgery
-10041,geriatrics
-10042,orthopedic surgery
-10043,family medicine
-10044,orthopedic surgery
-10045,orthopedic reconstructive surgery
-10046,orthopedic surgery
-10047,podiatry
-10048,sports medicine
-10049,general surgery
-10050,family medicine
-10051,anesthesiology
-10052,psychiatry
-10053,podiatry
-10054,internal medicine
-10055,gynecology
-10056,urogynecology
-10057,infectious disease
-10058,family medicine
-10059,obstetrics and gynecology
-10060,prosthodontics
-10061,maternalfetal medicine
-10062,pediatrics
-10063,family medicine
-10064,family medicine
-10065,pathology
-10066,internal medicine
-10067,allergy and immunology
-10068,family medicine
-10069,internal medicine
-10070,rheumatology
-10071,rheumatology
-10072,rheumatology
-10073,family medicine
-10074,rheumatology
-10075,allergy and immunology
-10076,pathology
-10077,infectious disease
-10078,allergy and immunology
-10079,internal medicine
-10080,internal medicine
-10081,internal medicine
-10082,rheumatology
-10083,rheumatology
-10084,internal medicine
-10085,ent and head and neck surgery
+10030,pediatric cardiology
+10031,cardiology
+10032,cardiac electrophysiology
+10033,cardiology
+10034,cardiology
+10035,pathology
+10036,endocrinology
+10037,cardiology
+10038,orthopedic surgery
+10039,rheumatology
+10040,general practice
+10041,orthopedic surgery
+10042,orthopedic reconstructive surgery
+10043,rheumatology
+10044,gastroenterology
+10045,clinical psychology
+10046,psychiatry
+10047,pediatric gastroenterology
+10048,internal medicine
+10049,colon and rectal surgery
+10050,dentistry
+10051,dentistry
+10052,dentistry
+10053,pain management
+10054,dentistry
+10055,pain management
+10056,pediatric dentistry
+10057,oral and maxillofacial surgery
+10058,pediatrics
+10059,dentistry
+10060,pathology
+10061,pathology
+10062,obstetrics and gynecology
+10063,pathology
+10064,obstetrics and gynecology
+10065,internal medicine
+10066,general practice
+10067,psychiatry
+10068,internal medicine
+10069,pediatrics
+10070,family medicine
+10071,facial plastic surgery
+10072,urology
+10073,orthopedic surgery
+10074,orthopedic surgery
+10075,internal medicine
+10076,orthopedic surgery
+10077,orthopedic surgery
+10078,pediatrics
+10079,anesthesiology
+10080,pediatrics
+10081,general practice
+10082,obstetrics and gynecology
+10083,internal medicine
+10084,family medicine
+10085,internal medicine
 10086,internal medicine
-10087,pediatrics
-10088,infectious disease
-10089,vascular surgery
-10090,rheumatology
-10091,pediatrics
-10092,psychiatry
-10093,ent and head and neck surgery
-10094,pathology
-10095,general practice
-10096,infectious disease
-10097,developmental and behavioral pediatrics
-10098,plastic surgery
-10099,urgent care
-10100,infectious disease
-10101,pediatric gastroenterology
-10102,preventive medicine
-10103,family medicine
-10104,urgent care
-10105,obstetrics and gynecology
-10106,family medicine
-10107,obstetrics and gynecology
-10108,pathology
-10109,obstetrics and gynecology
-10110,gynecology
-10111,general practice
-10112,family medicine
-10113,pathology
-10114,obstetrics and gynecology
-10115,obstetrics and gynecology
-10116,pain management
-10117,dentistry
-10118,cosmetic dentistry
-10119,internal medicine and pediatrics
-10120,dentistry
-10121,dentistry
-10122,ent and head and neck surgery
-10123,family medicine
-10124,general surgery
-10125,family medicine
+10087,podiatry
+10088,plastic surgery
+10089,family medicine
+10090,podiatry
+10091,family medicine
+10092,cardiology
+10093,general practice
+10094,neurology
+10095,internal medicine
+10096,rheumatology
+10097,hospitalbased practice
+10098,podiatry
+10099,podiatry
+10100,obstetrics and gynecology
+10101,diagnostic radiology
+10102,general surgery
+10103,gynecology
+10104,obstetrics and gynecology
+10105,surgical oncology
+10106,radiology
+10107,radiology
+10108,psychiatry
+10109,endocrinology
+10110,internal medicine
+10111,rheumatology
+10112,psychiatry
+10113,psychiatry
+10114,addiction medicine
+10115,family medicine
+10116,general surgery
+10117,pediatric pulmonology
+10118,pulmonary critical care
+10119,family medicine
+10120,internal medicine
+10121,holistic medicine
+10122,psychiatry
+10123,orthodontics
+10124,orthodontics
+10125,neurology
 10126,family medicine
-10127,cosmetic dentistry
-10128,cosmetic dentistry
-10129,cosmetic dentistry
-10130,anesthesiology
-10131,emergency medicine
-10132,cardiology
-10133,cardiology
-10134,dentistry
-10135,dentistry
-10136,ent and head and neck surgery
-10137,orthopedic surgery
+10127,internal medicine
+10128,pain management
+10129,family medicine
+10130,gynecology
+10131,obstetrics and gynecology
+10132,obstetrics and gynecology
+10133,emergency medicine
+10134,obstetrics and gynecology
+10135,general practice
+10136,obstetrics and gynecology
+10137,obstetrics and gynecology
 10138,internal medicine
-10139,general surgery
-10140,orthopedic surgery
+10139,family medicine
+10140,family medicine
 10141,internal medicine
-10142,urology
-10143,neurology
-10144,obstetrics and gynecology
-10145,ophthalmology
-10146,dentistry
-10147,gastroenterology
-10148,orthopedic surgery
-10149,podiatry
-10150,orthopedic surgery
-10151,psychiatry
-10152,pediatrics
-10153,neurology
-10154,neurosurgery
-10155,pain management
-10156,rheumatology
-10157,podiatry
-10158,rheumatology
-10159,pathology
-10160,internal medicine
-10161,nephrology and dialysis
-10162,allergy and immunology
-10163,dermatology
-10164,internal medicine
-10165,internal medicine
-10166,allergy and immunology
-10167,rheumatology
-10168,allergy and immunology
+10142,pathology
+10143,medical oncology
+10144,general surgery
+10145,psychiatry
+10146,general surgery
+10147,orthopedic surgery
+10148,family medicine
+10149,obstetrics and gynecology
+10150,obstetrics and gynecology
+10151,ent and head and neck surgery
+10152,psychiatry
+10153,obstetrics and gynecology
+10154,internal medicine
+10155,colon and rectal surgery
+10156,medical oncology
+10157,internal medicine
+10158,internal medicine
+10159,ent and head and neck surgery
+10160,family medicine
+10161,urogynecology
+10162,psychiatry
+10163,family medicine
+10164,gynecology
+10165,obstetrics and gynecology
+10166,obstetrics and gynecology
+10167,psychiatry
+10168,psychiatry
 10169,rheumatology
-10170,clinical psychology
-10171,hematology and oncology
-10172,pediatrics
-10173,pathology
-10174,pathology
-10175,pathology
-10176,pathology
-10177,family medicine
-10178,general surgery
-10179,hematology and oncology
-10180,neurology
-10181,hematology
-10182,internal medicine
-10183,family medicine
-10184,internal medicine
-10185,family medicine
-10186,psychiatry
-10187,ent and head and neck surgery
-10188,neurology
-10189,infectious disease
-10190,anesthesiology
-10191,neurosurgery
-10192,cosmetic dentistry
+10170,urology
+10171,infectious disease
+10172,pediatric infectious disease
+10173,internal medicine
+10174,family medicine
+10175,sports medicine
+10176,hand surgery
+10177,radiation oncology
+10178,integrative medicine
+10179,wound care
+10180,general practice
+10181,internal medicine
+10182,family medicine
+10183,pediatrics
+10184,infectious disease
+10185,internal medicine
+10186,ent and head and neck surgery
+10187,obstetrics and gynecology
+10188,fertility medicine
+10189,obstetrics and gynecology
+10190,general surgery
+10191,obstetrics and gynecology
+10192,family medicine
 10193,internal medicine
-10194,pediatrics
-10195,internal medicine
-10196,general practice
-10197,pathology
-10198,preventive medicine
-10199,dermatology
-10200,general surgery
-10201,general surgery
-10202,general surgery
-10203,colon and rectal surgery
-10204,family medicine
-10205,infectious disease
-10206,neurosurgery
-10207,physical medicine and rehabilitation
-10208,orthopedic surgery
-10209,neurology
-10210,family medicine
-10211,internal medicine
-10212,pain management
-10213,family medicine
-10214,family medicine
-10215,family medicine
-10216,family medicine
-10217,orthopedic surgery
-10218,cardiology
-10219,internal medicine
-10220,pediatrics
-10221,psychiatry
-10222,urgent care
+10194,pain management
+10195,orthopedic spine surgery
+10196,orthopedic spine surgery
+10197,orthopedic spine surgery
+10198,neurology
+10199,emergency medicine
+10200,nan
+10201,neurosurgery
+10202,obstetrics and gynecology
+10203,internal medicine
+10204,psychiatry
+10205,gynecology
+10206,gastroenterology
+10207,emergency medicine
+10208,family medicine
+10209,family medicine
+10210,ent and head and neck surgery
+10211,psychiatry
+10212,allergy and immunology
+10213,cardiology
+10214,cardiology
+10215,internal medicine
+10216,orthopedic surgery
+10217,ophthalmology
+10218,ophthalmology
+10219,pain management
+10220,pulmonary critical care
+10221,pain management
+10222,nan
 10223,family medicine
-10224,fertility medicine
-10225,gynecology
-10226,obstetrics and gynecology
-10227,obstetrics and gynecology
-10228,pediatrics
-10229,orthopedic surgery
-10230,general practice
-10231,neurology
-10232,pediatrics
-10233,internal medicine
-10234,ent and head and neck surgery
-10235,endocrinology
-10236,cardiology
-10237,internal medicine
-10238,hospitalbased practice
-10239,pediatrics
-10240,dermatology
-10241,internal medicine
-10242,emergency medicine
-10243,internal medicine
-10244,wound care
-10245,internal medicine
-10246,infectious disease
-10247,medical oncology
-10248,obstetrics and gynecology
-10249,endodontics
-10250,family medicine
-10251,hematology and oncology
-10252,nan
-10253,general practice
-10254,ophthalmology
-10255,hematology and oncology
-10256,internal medicine
-10257,pediatric nephrology and dialysis
-10258,general practice
-10259,allergy and immunology
-10260,surgical oncology
-10261,pediatrics
-10262,gynecology
-10263,family medicine
-10264,family medicine
-10265,family medicine
-10266,obstetrics and gynecology
-10267,pathology
-10268,pathology
-10269,obstetrics and gynecology
-10270,obstetrics and gynecology
-10271,obstetrics and gynecology
-10272,pathology
-10273,family medicine
-10274,obstetrics and gynecology
-10275,obstetrics and gynecology
-10276,family medicine
-10277,dermatology
-10278,pediatrics
+10224,family medicine
+10225,dentistry
+10226,internal medicine
+10227,pediatrics
+10228,ophthalmology
+10229,general surgery
+10230,medical oncology
+10231,medical oncology
+10232,oral and maxillofacial surgery
+10233,general surgery
+10234,diagnostic radiology
+10235,preventive medicine
+10236,dermatology
+10237,general practice
+10238,family medicine
+10239,dermatology
+10240,pediatric urology
+10241,dermatology
+10242,retinal surgery
+10243,pathology
+10244,rheumatology
+10245,family medicine
+10246,orthopedic surgery
+10247,general practice
+10248,family medicine
+10249,internal medicine
+10250,hematology and oncology
+10251,internal medicine
+10252,pathology
+10253,pediatrics
+10254,diagnostic radiology
+10255,diagnostic radiology
+10256,pediatrics
+10257,diagnostic radiology
+10258,pathology
+10259,general surgery
+10260,radiology
+10261,diagnostic radiology
+10262,orthopedic surgery
+10263,hospitalbased practice
+10264,orthopedic surgery
+10265,orthopedic surgery
+10266,pathology
+10267,internal medicine
+10268,hospitalbased practice
+10269,internal medicine
+10270,child psychiatry
+10271,clinical psychology
+10272,clinical psychology
+10273,psychiatry
+10274,psychiatry
+10275,psychiatry
+10276,general practice
+10277,ophthalmology
+10278,obstetrics and gynecology
 10279,internal medicine
-10280,obstetrics and gynecology
-10281,internal medicine
-10282,ent and head and neck surgery
-10283,infectious disease
-10284,pediatric emergency medicine
+10280,internal medicine
+10281,psychiatry
+10282,family medicine
+10283,obstetrics and gynecology
+10284,internal medicine
 10285,family medicine
-10286,obstetrics and gynecology
-10287,cardiology
-10288,internal medicine
-10289,hospitalbased practice
+10286,pain management
+10287,internal medicine
+10288,radiology
+10289,neurology
 10290,pediatrics
-10291,family medicine
-10292,internal medicine
-10293,general practice
+10291,urology
+10292,podiatry
+10293,allergy and immunology
 10294,general surgery
-10295,internal medicine
-10296,pain management
-10297,urgent care
-10298,cardiology
+10295,endocrinology
+10296,cardiology
+10297,internal medicine
+10298,family medicine
 10299,family medicine
-10300,dermatology
-10301,pediatric emergency medicine
-10302,ent and head and neck surgery
-10303,infectious disease
-10304,internal medicine
-10305,internal medicine
-10306,dermatology
+10300,urgent care
+10301,urology
+10302,pediatrics
+10303,family medicine
+10304,family medicine
+10305,physical medicine and rehabilitation
+10306,developmental and behavioral pediatrics
 10307,dermatology
-10308,pediatrics
-10309,infectious disease
-10310,internal medicine
+10308,allergy and immunology
+10309,internal medicine
+10310,lasik surgery
 10311,family medicine
-10312,oral and maxillofacial surgery
-10313,family medicine
-10314,pathology
-10315,pathology
+10312,obstetrics and gynecology
+10313,geriatrics
+10314,obstetrics and gynecology
+10315,general practice
 10316,internal medicine
-10317,internal medicine
-10318,pediatrics
-10319,pathology
-10320,podiatry
-10321,radiology
-10322,fertility medicine
-10323,psychiatry
-10324,orthopedic surgery
-10325,internal medicine
-10326,family medicine
-10327,obstetrics and gynecology
-10328,family medicine
-10329,internal medicine
-10330,pediatrics
-10331,infectious disease
-10332,pathology
-10333,family medicine
-10334,infectious disease
-10335,family medicine
-10336,obstetrics and gynecology
-10337,pathology
-10338,sports medicine
-10339,psychiatry
-10340,internal medicine
-10341,pediatrics
-10342,radiation oncology
-10343,general surgery
-10344,general surgery
-10345,internal medicine
-10346,general practice
-10347,pathology
-10348,internal medicine
-10349,pediatrics
-10350,infectious disease
-10351,preventive medicine
-10352,hospitalbased practice
-10353,pediatrics
-10354,family medicine
-10355,allergy and immunology
-10356,allergy and immunology
-10357,pediatrics
-10358,internal medicine
-10359,pulmonology
-10360,general surgery
-10361,family medicine
-10362,allergy and immunology
-10363,gastroenterology
-10364,pediatrics
-10365,gastroenterology
-10366,family medicine
+10317,family medicine
+10318,holistic medicine
+10319,pulmonary critical care
+10320,pediatric allergy and asthma
+10321,internal medicine
+10322,pediatric emergency medicine
+10323,internal medicine
+10324,general practice
+10325,nephrology and dialysis
+10326,orthopedic surgery
+10327,bariatrics
+10328,general surgery
+10329,endocrinology
+10330,psychiatry
+10331,psychiatry
+10332,dentistry
+10333,dentistry
+10334,dentistry
+10335,podiatry
+10336,family medicine
+10337,infectious disease
+10338,gastroenterology
+10339,internal medicine
+10340,family medicine
+10341,infectious disease
+10342,gastroenterology
+10343,family medicine
+10344,family medicine
+10345,obstetrics and gynecology
+10346,obstetrics and gynecology
+10347,pediatrics
+10348,pain management
+10349,dentistry
+10350,dentistry
+10351,ent and head and neck surgery
+10352,periodontics
+10353,dentistry
+10354,dentistry
+10355,dentistry
+10356,internal medicine
+10357,orthopedic surgery
+10358,podiatry
+10359,orthopedic surgery
+10360,podiatry
+10361,rheumatology
+10362,orthopedic surgery
+10363,orthopedic reconstructive surgery
+10364,orthopedic surgery
+10365,orthopedic reconstructive surgery
+10366,orthopedic surgery
 10367,internal medicine
-10368,internal medicine
-10369,rheumatology
-10370,family medicine
-10371,cardiology
-10372,family medicine
-10373,obstetrics and gynecology
-10374,general surgery
-10375,family medicine
-10376,family medicine
-10377,clinical psychology
-10378,rheumatology
-10379,infectious disease
-10380,orthopedic surgery
-10381,family medicine
-10382,pediatrics
-10383,pediatrics
-10384,ent and head and neck surgery
-10385,internal medicine
+10368,podiatry
+10369,orthopedic surgery
+10370,orthopedic surgery
+10371,infectious disease
+10372,pathology
+10373,rheumatology
+10374,allergy and immunology
+10375,hospitalbased practice
+10376,rheumatology
+10377,neurology
+10378,internal medicine
+10379,rheumatology
+10380,wilderness medicine
+10381,general surgery
+10382,family medicine
+10383,radiology
+10384,family medicine
+10385,family medicine
 10386,family medicine
-10387,pediatrics
-10388,hematology and oncology
-10389,hematology and oncology
-10390,general surgery
-10391,surgical oncology
-10392,cardiology
-10393,obstetrics and gynecology
-10394,family medicine
-10395,general surgery
-10396,hematology and oncology
-10397,breast surgery
-10398,breast surgery
-10399,medical oncology
-10400,hematology and oncology
-10401,general surgery
-10402,pediatrics
-10403,surgical oncology
-10404,hematology and oncology
-10405,hematology and oncology
-10406,family medicine
-10407,lasik surgery
-10408,pediatrics
+10387,pathology
+10388,gynecology
+10389,pediatrics
+10390,urology
+10391,general surgery
+10392,orthopedic surgery
+10393,family medicine
+10394,orthopedic reconstructive surgery
+10395,orthopedic surgery
+10396,family medicine
+10397,orthopedic surgery
+10398,orthopedic surgery
+10399,podiatry
+10400,podiatry
+10401,rheumatology
+10402,geriatrics
+10403,orthopedic foot and ankle surgery
+10404,gastroenterology
+10405,infectious disease
+10406,pediatrics
+10407,adolescent medicine
+10408,urology
 10409,pediatrics
-10410,facial plastic surgery
-10411,allergy and immunology
-10412,allergy and immunology
-10413,family medicine
-10414,pediatrics
-10415,allergy and immunology
-10416,internal medicine and pediatrics
-10417,pediatrics
-10418,pediatrics
-10419,ent and head and neck surgery
-10420,pediatrics
-10421,infectious disease
-10422,allergy and immunology
-10423,family medicine
-10424,internal medicine
-10425,allergy and immunology
-10426,infectious disease
-10427,family medicine
-10428,allergy and immunology
-10429,internal medicine
-10430,urgent care
-10431,allergy and immunology
-10432,plastic surgery
-10433,pediatrics
-10434,adolescent medicine
-10435,allergy and immunology
-10436,pediatrics
-10437,hematology and oncology
-10438,oral and maxillofacial surgery
-10439,psychiatry
-10440,pediatrics
-10441,adolescent medicine
-10442,infectious disease
-10443,internal medicine
-10444,pediatrics
-10445,ent and head and neck surgery
-10446,psychiatry
-10447,internal medicine
-10448,dermatology
-10449,wound care
-10450,ophthalmology
-10451,psychiatry
-10452,wound care
-10453,psychiatry
-10454,pathology
-10455,dermatology
-10456,psychiatry
-10457,dermatology
-10458,psychiatry
-10459,dentistry
-10460,oral and maxillofacial surgery
-10461,neurology
-10462,internal medicine
-10463,general surgery
-10464,neurology
-10465,pain management
-10466,general surgery
-10467,physical medicine and rehabilitation
-10468,family medicine
-10469,orthopedic surgery
-10470,orthopedic surgery
-10471,orthopedic surgery
-10472,neurology
-10473,internal medicine
-10474,internal medicine
-10475,psychiatry
-10476,neurosurgery
-10477,pediatrics
-10478,family medicine
-10479,pathology
-10480,general surgery
-10481,dermatology
-10482,orthopedic surgery
-10483,urology
-10484,radiology
-10485,family medicine
-10486,dentistry
-10487,orthopedic surgery
-10488,cardiology
-10489,vascular surgery
-10490,cardiology
-10491,family medicine
+10410,dentistry
+10411,family medicine
+10412,family medicine
+10413,podiatry
+10414,orthopedic surgery
+10415,pain management
+10416,pediatric emergency medicine
+10417,orthopedic surgery
+10418,holistic medicine
+10419,nan
+10420,obstetrics and gynecology
+10421,family medicine
+10422,oral and maxillofacial surgery
+10423,pediatric hematology and oncology
+10424,endocrinology
+10425,internal medicine
+10426,psychiatry
+10427,neurology
+10428,pediatrics
+10429,cardiology
+10430,rheumatology
+10431,podiatry
+10432,podiatry
+10433,podiatry
+10434,physical medicine and rehabilitation
+10435,physical medicine and rehabilitation
+10436,family medicine
+10437,emergency medicine
+10438,family medicine
+10439,pediatrics
+10440,emergency medicine
+10441,obstetrics and gynecology
+10442,family medicine
+10443,neurology
+10444,neurology
+10445,podiatry
+10446,podiatry
+10447,thoracic surgery
+10448,cardiology
+10449,endocrinology
+10450,psychiatry
+10451,allergy and immunology
+10452,colon and rectal surgery
+10453,family medicine
+10454,medical oncology
+10455,internal medicine
+10456,infectious disease
+10457,family medicine
+10458,hand surgery
+10459,pediatric urology
+10460,urology
+10461,obstetrics and gynecology
+10462,gastroenterology
+10463,urology
+10464,adolescent medicine
+10465,neurology
+10466,psychiatry
+10467,psychiatry
+10468,clinical psychology
+10469,psychiatry
+10470,internal medicine and pediatrics
+10471,diagnostic radiology
+10472,family medicine
+10473,family medicine
+10474,obstetrics and gynecology
+10475,gynecology
+10476,obstetrics and gynecology
+10477,family medicine
+10478,obstetrics and gynecology
+10479,geriatrics
+10480,pharmacology
+10481,psychiatry
+10482,emergency medicine
+10483,allergy and immunology
+10484,adolescent medicine
+10485,internal medicine
+10486,infectious disease
+10487,urology
+10488,adolescent medicine
+10489,urology
+10490,infectious disease
+10491,pediatrics
 10492,infectious disease
-10493,emergency medicine
-10494,family medicine
-10495,general surgery
-10496,family medicine
-10497,pediatrics
-10498,pain management
-10499,pediatric dentistry
-10500,pain management
-10501,pain management
-10502,urgent care
-10503,obstetrics and gynecology
-10504,internal medicine
-10505,internal medicine
-10506,ent and head and neck surgery
-10507,internal medicine
-10508,general surgery
-10509,family medicine
-10510,ent and head and neck surgery
-10511,internal medicine
+10493,general surgery
+10494,radiation oncology
+10495,pathology
+10496,obstetrics and gynecology
+10497,facial plastic surgery
+10498,pediatrics
+10499,medical oncology
+10500,pediatrics
+10501,infectious disease
+10502,internal medicine
+10503,pediatrics
+10504,podiatry
+10505,obstetrics and gynecology
+10506,pediatric surgery
+10507,family medicine
+10508,family medicine
+10509,gynecology
+10510,obstetrics and gynecology
+10511,orthopedic surgery
 10512,allergy and immunology
-10513,ent and head and neck surgery
-10514,ophthalmology
-10515,addiction medicine
-10516,ent and head and neck surgery
-10517,lasik surgery
-10518,general surgery
-10519,obstetrics and gynecology
-10520,family medicine
-10521,neurology
-10522,neurology
-10523,radiology
-10524,obstetrics and gynecology
-10525,gynecology
-10526,obstetrics and gynecology
-10527,gastroenterology
-10528,internal medicine
-10529,family medicine
-10530,family medicine
-10531,allergy and immunology
-10532,obstetrics and gynecology
-10533,pediatrics
-10534,psychiatry
-10535,internal medicine
-10536,cosmetic dentistry
-10537,dentistry
-10538,general surgery
-10539,neurology
-10540,addiction medicine
-10541,cardiology
-10542,cardiology
-10543,interventional radiology
-10544,family medicine
-10545,neurosurgery
-10546,cardiology
-10547,rheumatology
-10548,neurosurgery
-10549,cardiology
-10550,radiology
-10551,oral and maxillofacial surgery
-10552,urology
-10553,fertility medicine
-10554,internal medicine
-10555,family medicine
-10556,clinical psychology
-10557,cardiac electrophysiology
-10558,endocrinology
-10559,pediatrics
-10560,infectious disease
-10561,urology
+10513,periodontics
+10514,ent and head and neck surgery
+10515,general practice
+10516,family medicine
+10517,pathology
+10518,cardiac electrophysiology
+10519,pediatrics
+10520,nan
+10521,family medicine
+10522,dermatology
+10523,family medicine
+10524,general surgery
+10525,cardiology
+10526,clinical psychology
+10527,internal medicine
+10528,neurology
+10529,physical medicine and rehabilitation
+10530,obstetrics and gynecology
+10531,cardiac electrophysiology
+10532,radiology
+10533,pathology
+10534,pathology
+10535,general practice
+10536,pathology
+10537,infectious disease
+10538,cardiology
+10539,pathology
+10540,family medicine
+10541,family medicine
+10542,pathology
+10543,obstetrics and gynecology
+10544,rheumatology
+10545,obstetrics and gynecology
+10546,internal medicine
+10547,general practice
+10548,cardiology
+10549,internal medicine
+10550,nephrology and dialysis
+10551,psychiatry
+10552,psychiatry
+10553,plastic surgery
+10554,dermatology
+10555,dermatology
+10556,internal medicine
+10557,allergy and immunology
+10558,internal medicine
+10559,general practice
+10560,obstetrics and gynecology
+10561,general practice
 10562,family medicine
-10563,obstetrics and gynecology
-10564,podiatry
-10565,vascular surgery
+10563,pathology
+10564,dentistry
+10565,pain management
 10566,family medicine
-10567,vascular surgery
-10568,general surgery
-10569,general practice
-10570,general practice
-10571,pain management
-10572,family medicine
-10573,vascular surgery
-10574,radiology
-10575,thoracic surgery
-10576,pain management
-10577,pulmonary critical care
-10578,fertility medicine
-10579,urogynecology
-10580,obstetrics and gynecology
-10581,obstetrics and gynecology
-10582,fertility medicine
-10583,obstetrics and gynecology
-10584,obstetrics and gynecology
-10585,vascular surgery
-10586,vascular surgery
-10587,obstetrics and gynecology
-10588,obstetrics and gynecology
-10589,fertility medicine
-10590,dentistry
-10591,dentistry
-10592,general practice
-10593,pediatric infectious disease
-10594,internal medicine
+10567,nephrology and dialysis
+10568,family medicine
+10569,oral and maxillofacial surgery
+10570,neurology
+10571,internal medicine
+10572,internal medicine
+10573,emergency medicine
+10574,internal medicine
+10575,internal medicine
+10576,neurology
+10577,cardiology
+10578,pediatrics
+10579,podiatry
+10580,cardiology
+10581,pediatric pulmonology
+10582,psychiatry
+10583,dentistry
+10584,family medicine
+10585,psychiatry
+10586,pediatrics
+10587,dermatology
+10588,pain management
+10589,family medicine
+10590,cardiology
+10591,hand surgery
+10592,obstetrics and gynecology
+10593,pediatrics
+10594,pulmonary critical care
 10595,internal medicine
-10596,infectious disease
-10597,urogynecology
-10598,dermatology
-10599,allergy and immunology
-10600,internal medicine
-10601,podiatry
-10602,dentistry
-10603,dentistry
+10596,internal medicine
+10597,family medicine
+10598,infectious disease
+10599,ent and head and neck surgery
+10600,pediatric emergency medicine
+10601,allergy and immunology
+10602,internal medicine
+10603,allergy and immunology
 10604,pediatrics
-10605,infectious disease
-10606,addiction medicine
-10607,ent and head and neck surgery
-10608,vascular surgery
-10609,pediatric hematology and oncology
-10610,pain management
-10611,infectious disease
-10612,family medicine
-10613,pediatrics
-10614,pain management
-10615,nephrology and dialysis
-10616,general surgery
-10617,interventional radiology
-10618,neurosurgery
-10619,ent and head and neck surgery
-10620,neurology
-10621,diagnostic radiology
-10622,neurosurgery
-10623,medical oncology
-10624,radiology
-10625,cardiology
-10626,allergy and immunology
-10627,adolescent medicine
-10628,radiology
-10629,neurosurgery
-10630,allergy and immunology
-10631,pediatrics
-10632,internal medicine
-10633,pediatrics
-10634,allergy and immunology
-10635,ent and head and neck surgery
-10636,pediatric neurology
-10637,emergency medicine
-10638,family medicine
-10639,ent and head and neck surgery
-10640,internal medicine
-10641,pediatrics
-10642,nan
-10643,general practice
-10644,ent and head and neck surgery
-10645,neurology
-10646,addiction medicine
-10647,pain management
-10648,rheumatology
-10649,allergy and immunology
-10650,cardiac electrophysiology
-10651,infectious disease
+10605,orthopedic surgery
+10606,podiatry
+10607,orthopedic surgery
+10608,podiatry
+10609,ophthalmology
+10610,podiatry
+10611,pediatrics
+10612,maternalfetal medicine
+10613,family medicine
+10614,pediatrics
+10615,obstetrics and gynecology
+10616,internal medicine
+10617,urology
+10618,infectious disease
+10619,pediatrics
+10620,psychiatry
+10621,general practice
+10622,internal medicine
+10623,family medicine
+10624,family medicine
+10625,allergy and immunology
+10626,ent and head and neck surgery
+10627,facial plastic surgery
+10628,facial plastic surgery
+10629,hospitalbased practice
+10630,ent and head and neck surgery
+10631,facial plastic surgery
+10632,ent and head and neck surgery
+10633,ent and head and neck surgery
+10634,orthopedic surgery
+10635,family medicine
+10636,orthopedic surgery
+10637,anesthesiology
+10638,internal medicine
+10639,psychiatry
+10640,oral and maxillofacial surgery
+10641,dermatology
+10642,internal medicine
+10643,podiatry
+10644,internal medicine
+10645,ent and head and neck surgery
+10646,family medicine
+10647,infectious disease
+10648,infectious disease
+10649,obstetrics and gynecology
+10650,gynecology
+10651,psychiatry
 10652,obstetrics and gynecology
-10653,ent and head and neck surgery
-10654,family medicine
-10655,pediatrics
-10656,family medicine
-10657,allergy and immunology
-10658,general practice
-10659,family medicine
-10660,obstetrics and gynecology
-10661,infectious disease
-10662,pediatrics
-10663,infectious disease
-10664,obstetrics and gynecology
-10665,pediatrics
-10666,facial plastic surgery
-10667,pathology
+10653,allergy and immunology
+10654,pain management
+10655,neurology
+10656,ophthalmology
+10657,neurosurgery
+10658,urgent care
+10659,oral and maxillofacial surgery
+10660,family medicine
+10661,internal medicine
+10662,hand surgery
+10663,pediatric neurology
+10664,dentistry
+10665,family medicine
+10666,internal medicine
+10667,internal medicine
 10668,obstetrics and gynecology
-10669,neurology
-10670,pain management
-10671,pain management
-10672,medical oncology
-10673,general practice
-10674,preventive medicine
-10675,pain management
-10676,general surgery
-10677,anesthesiology
-10678,holistic medicine
-10679,internal medicine
-10680,infectious disease
-10681,holistic medicine
-10682,family medicine
-10683,dermatology
-10684,internal medicine
-10685,gynecology
-10686,family medicine
-10687,internal medicine
-10688,family medicine
-10689,psychiatry
-10690,obstetrics and gynecology
-10691,emergency medicine
-10692,infectious disease
-10693,infectious disease
-10694,family medicine
-10695,internal medicine
-10696,internal medicine
+10669,dermatology
+10670,dermatopathology
+10671,family medicine
+10672,family medicine
+10673,family medicine
+10674,dermatology
+10675,internal medicine
+10676,dermatology
+10677,urology
+10678,family medicine
+10679,medical oncology
+10680,internal medicine
+10681,neurology
+10682,pediatrics
+10683,family medicine
+10684,neurology
+10685,radiology
+10686,podiatry
+10687,fertility medicine
+10688,psychiatry
+10689,obstetrics and gynecology
+10690,gynecology
+10691,family medicine
+10692,obstetrics and gynecology
+10693,obstetrics and gynecology
+10694,obstetrics and gynecology
+10695,obstetrics and gynecology
+10696,family medicine
 10697,general surgery
-10698,pain management
-10699,oral and maxillofacial surgery
-10700,infectious disease
-10701,family medicine
-10702,allergy and immunology
-10703,urology
-10704,urology
-10705,dentistry
-10706,medical oncology
-10707,internal medicine
-10708,internal medicine
-10709,pathology
-10710,preventive medicine
-10711,pathology
-10712,radiology
-10713,internal medicine
-10714,rheumatology
-10715,internal medicine
-10716,internal medicine
-10717,family medicine
-10718,internal medicine
-10719,orthopedic surgery
-10720,rheumatology
+10698,internal medicine
+10699,obstetrics and gynecology
+10700,gynecologic oncology
+10701,internal medicine
+10702,psychiatry
+10703,pain management
+10704,infectious disease
+10705,infectious disease
+10706,family medicine
+10707,emergency medicine
+10708,radiation oncology
+10709,family medicine
+10710,medical oncology
+10711,emergency medicine
+10712,family medicine
+10713,pediatrics
+10714,pediatrics
+10715,obstetrics and gynecology
+10716,dentistry
+10717,psychiatry
+10718,ophthalmology
+10719,radiology
+10720,orthopedic surgery
 10721,family medicine
-10722,rheumatology
+10722,cardiology
 10723,rheumatology
-10724,internal medicine
-10725,podiatry
-10726,family medicine
-10727,internal medicine
-10728,family medicine
-10729,physical medicine and rehabilitation
-10730,antiaging medicine
-10731,family medicine
-10732,family medicine
-10733,obstetrics and gynecology
-10734,obstetrics and gynecology
+10724,general surgery
+10725,neurology
+10726,addiction medicine
+10727,cardiology
+10728,interventional radiology
+10729,general practice
+10730,medical oncology
+10731,cosmetic dentistry
+10732,dentistry
+10733,pulmonary critical care
+10734,emergency medicine
 10735,family medicine
-10736,obstetrics and gynecology
-10737,pediatrics
-10738,obstetrics and gynecology
-10739,obstetrics and gynecology
-10740,internal medicine
-10741,obstetrics and gynecology
-10742,internal medicine
-10743,developmental and behavioral pediatrics
-10744,internal medicine
-10745,orthopedic surgery
-10746,orthopedic surgery
-10747,child psychiatry
-10748,psychiatry
-10749,obstetrics and gynecology
-10750,family medicine
-10751,internal medicine
-10752,pediatrics
-10753,pediatrics
-10754,pediatrics
-10755,gynecology
+10736,general practice
+10737,pain management
+10738,internal medicine
+10739,preventive medicine
+10740,podiatry
+10741,physical medicine and rehabilitation
+10742,podiatry
+10743,podiatry
+10744,neurology
+10745,internal medicine
+10746,endocrinology
+10747,allergy and immunology
+10748,geriatrics
+10749,pediatrics
+10750,cardiology
+10751,cardiology
+10752,family medicine
+10753,nuclear medicine
+10754,urology
+10755,family medicine
 10756,family medicine
-10757,general practice
-10758,obstetrics and gynecology
-10759,general practice
-10760,obstetrics and gynecology
-10761,family medicine
-10762,family medicine
-10763,obstetrics and gynecology
-10764,maternalfetal medicine
-10765,developmental and behavioral pediatrics
-10766,preventive medicine
-10767,podiatry
-10768,hand surgery
-10769,orthopedic foot and ankle surgery
-10770,family medicine
-10771,internal medicine
-10772,emergency medicine
-10773,orthopedic surgery
-10774,orthopedic surgery
-10775,orthopedic surgery
-10776,emergency medicine
-10777,orthopedic foot and ankle surgery
-10778,hand surgery
-10779,urology
-10780,general practice
-10781,general practice
-10782,endocrinology
-10783,travel medicine
-10784,neurology
-10785,sleep medicine
-10786,pathology
-10787,obstetrics and gynecology
-10788,pathology
-10789,endocrinology
-10790,internal medicine
-10791,bariatrics
-10792,dermatology
-10793,gynecology
-10794,medical oncology
-10795,obstetrics and gynecology
-10796,radiation oncology
-10797,obstetrics and gynecology
-10798,general surgery
-10799,general surgery
-10800,family medicine
-10801,emergency medicine
-10802,obstetrics and gynecology
-10803,family medicine
-10804,gynecology
-10805,gynecology
-10806,hematology and oncology
-10807,family medicine
-10808,pediatrics
-10809,family medicine
-10810,physical medicine and rehabilitation
-10811,radiology
-10812,pathology
-10813,pathology
-10814,pulmonology
-10815,neurology
-10816,pain management
-10817,neurology
-10818,internal medicine
-10819,neurology
-10820,internal medicine
-10821,neurology
-10822,pediatrics
-10823,radiology
-10824,radiology
-10825,psychiatry
-10826,rheumatology
-10827,psychiatry
-10828,orthopedic surgery
-10829,internal medicine
-10830,neurology
-10831,pain management
+10757,obstetrics and gynecology
+10758,dermatology
+10759,obstetrics and gynecology
+10760,internal medicine
+10761,nan
+10762,geriatrics
+10763,hematology and oncology
+10764,medical oncology
+10765,internal medicine
+10766,antiaging medicine
+10767,pulmonary critical care
+10768,cardiology
+10769,internal medicine
+10770,infectious disease
+10771,gynecology
+10772,podiatry
+10773,podiatry
+10774,urgent care
+10775,cardiology
+10776,pathology
+10777,family medicine
+10778,infectious disease
+10779,allergy and immunology
+10780,internal medicine
+10781,family medicine
+10782,urology
+10783,endocrinology
+10784,cardiology
+10785,cardiology
+10786,cardiology
+10787,emergency medicine
+10788,psychiatry
+10789,psychiatry
+10790,psychiatry
+10791,pediatric cardiology
+10792,psychiatry
+10793,pediatrics
+10794,infectious disease
+10795,family medicine
+10796,pediatrics
+10797,vascular surgery
+10798,wound care
+10799,diagnostic radiology
+10800,internal medicine
+10801,allergy and immunology
+10802,oral and maxillofacial surgery
+10803,nuclear medicine
+10804,ophthalmology
+10805,ophthalmology
+10806,pain management
+10807,internal medicine
+10808,ent and head and neck surgery
+10809,allergy and immunology
+10810,internal medicine
+10811,clinical psychology
+10812,internal medicine
+10813,cosmetic dentistry
+10814,orthopedic surgery
+10815,orthopedic surgery
+10816,dermatology
+10817,urology
+10818,hematology
+10819,hematology and oncology
+10820,urology
+10821,general practice
+10822,obstetrics and gynecology
+10823,urology
+10824,pathology
+10825,internal medicine
+10826,dermatology
+10827,hematology and oncology
+10828,family medicine
+10829,family medicine
+10830,psychiatry
+10831,urology
 10832,general practice
-10833,ent and head and neck surgery
-10834,pain management
-10835,addiction medicine
-10836,clinical psychology
+10833,infectious disease
+10834,psychiatry
+10835,gastroenterology
+10836,family medicine
 10837,family medicine
-10838,psychiatry
-10839,family medicine
-10840,psychiatry
-10841,infectious disease
-10842,dentistry
-10843,dermatology
-10844,dermatology
-10845,infectious disease
-10846,internal medicine
-10847,infectious disease
-10848,family medicine
-10849,psychiatry
-10850,rheumatology
-10851,internal medicine
-10852,family medicine
-10853,obstetrics and gynecology
-10854,family medicine
-10855,family medicine
-10856,family medicine
+10838,colon and rectal surgery
+10839,pathology
+10840,rheumatology
+10841,family medicine
+10842,pediatrics
+10843,ent and head and neck surgery
+10844,podiatry
+10845,anesthesiology
+10846,urgent care
+10847,internal medicine
+10848,internal medicine
+10849,dentistry
+10850,internal medicine
+10851,ent and head and neck surgery
+10852,ent and head and neck surgery
+10853,internal medicine
+10854,pain management
+10855,oral and maxillofacial surgery
+10856,pediatrics
 10857,general surgery
-10858,pathology
-10859,obstetrics and gynecology
-10860,nephrology and dialysis
-10861,family medicine
-10862,dermatology
-10863,internal medicine
-10864,pediatrics
-10865,pediatrics
-10866,cardiology
-10867,ent and head and neck surgery
-10868,pediatrics
-10869,pediatrics
-10870,pediatrics
-10871,internal medicine
-10872,infectious disease
-10873,pediatrics
-10874,family medicine
-10875,pediatrics
-10876,family medicine
-10877,pediatrics
-10878,family medicine
-10879,obstetrics and gynecology
-10880,internal medicine
-10881,infectious disease
-10882,general practice
-10883,general surgery
+10858,pulmonary critical care
+10859,family medicine
+10860,cardiology
+10861,internal medicine
+10862,ent and head and neck surgery
+10863,orthopedic surgery
+10864,emergency medicine
+10865,family medicine
+10866,family medicine
+10867,oral and maxillofacial surgery
+10868,pain management
+10869,pain management
+10870,general practice
+10871,holistic medicine
+10872,podiatry
+10873,podiatry
+10874,anesthesiology
+10875,pain management
+10876,anesthesiology
+10877,neurosurgery
+10878,orthopedic surgery
+10879,neurology
+10880,pain management
+10881,internal medicine
+10882,orthopedic surgery
+10883,emergency medicine
 10884,family medicine
-10885,pediatrics
-10886,general practice
-10887,internal medicine
-10888,interventional radiology
-10889,family medicine
-10890,nan
-10891,cosmetic dentistry
-10892,cosmetic dentistry
-10893,adolescent medicine
-10894,infectious disease
-10895,adolescent medicine
-10896,urology
-10897,obstetrics and gynecology
-10898,family medicine
-10899,dentistry
-10900,allergy and immunology
-10901,dermatology
-10902,allergy and immunology
-10903,dermatology
-10904,dermatology
-10905,pediatrics
-10906,pediatrics
-10907,plastic surgery
-10908,infectious disease
-10909,urology
-10910,obstetrics and gynecology
-10911,family medicine
-10912,pediatrics
-10913,internal medicine
+10885,gastroenterology
+10886,family medicine
+10887,dentistry
+10888,neurology
+10889,podiatry
+10890,general surgery
+10891,general surgery
+10892,oral and maxillofacial surgery
+10893,obstetrics and gynecology
+10894,obstetrics and gynecology
+10895,pediatrics
+10896,internal medicine
+10897,antiaging medicine
+10898,pediatric endocrinology
+10899,internal medicine
+10900,general surgery
+10901,family medicine
+10902,general practice
+10903,gastroenterology
+10904,family medicine
+10905,ophthalmology
+10906,general surgery
+10907,neurology
+10908,neurology
+10909,general practice
+10910,nephrology and dialysis
+10911,internal medicine
+10912,obstetrics and gynecology
+10913,pediatrics
 10914,family medicine
-10915,infectious disease
-10916,obstetrics and gynecology
-10917,general practice
-10918,gynecology
-10919,psychiatry
+10915,pathology
+10916,family medicine
+10917,internal medicine
+10918,family medicine
+10919,neurology
 10920,family medicine
-10921,orthopedic surgery
-10922,infectious disease
-10923,internal medicine
-10924,internal medicine
-10925,urogynecology
-10926,obstetrics and gynecology
-10927,geriatrics
-10928,allergy and immunology
-10929,facial plastic surgery
-10930,internal medicine
-10931,pediatrics
-10932,allergy and immunology
-10933,psychiatry
-10934,pulmonary critical care
-10935,family medicine
-10936,ent and head and neck surgery
-10937,pediatrics
-10938,orthopedic surgery
-10939,psychiatry
-10940,family medicine
-10941,neurology
-10942,sports medicine
-10943,oral and maxillofacial surgery
-10944,infectious disease
+10921,rheumatology
+10922,pain management
+10923,clinical psychology
+10924,pathology
+10925,holistic medicine
+10926,internal medicine
+10927,obstetrics and gynecology
+10928,pediatrics
+10929,pain management
+10930,family medicine
+10931,family medicine
+10932,general practice
+10933,gynecology
+10934,obstetrics and gynecology
+10935,obstetrics and gynecology
+10936,neurology
+10937,pain management
+10938,neurosurgery
+10939,rheumatology
+10940,anesthesiology
+10941,neurosurgery
+10942,clinical lipidology
+10943,psychiatry
+10944,family medicine
 10945,family medicine
-10946,psychiatry
-10947,pediatric neurology
-10948,developmental and behavioral pediatrics
-10949,neurology
-10950,pathology
-10951,cardiology
-10952,wound care
-10953,pain management
-10954,family medicine
-10955,pain management
-10956,rheumatology
-10957,family medicine
-10958,endodontics
-10959,dentistry
-10960,general surgery
-10961,allergy and immunology
+10946,internal medicine
+10947,internal medicine
+10948,family medicine
+10949,infectious disease
+10950,hematology
+10951,allergy and immunology
+10952,cosmetic surgery
+10953,pediatrics
+10954,infectious disease
+10955,nan
+10956,pediatrics
+10957,pediatrics
+10958,infectious disease
+10959,general practice
+10960,general practice
+10961,pathology
 10962,family medicine
-10963,ophthalmology
-10964,occupational medicine
-10965,ent and head and neck surgery
-10966,allergy and immunology
-10967,psychiatry
-10968,ophthalmology
-10969,ophthalmology
-10970,psychiatry
-10971,pain management
-10972,retinal surgery
-10973,orthopedic surgery
-10974,cardiology
-10975,cardiology
-10976,cardiology
-10977,general surgery
-10978,pathology
-10979,allergy and immunology
-10980,cardiology
-10981,pediatric cardiology
-10982,psychiatry
-10983,cardiology
-10984,obstetrics and gynecology
-10985,fertility medicine
-10986,fertility medicine
-10987,psychiatry
-10988,family medicine
-10989,fertility medicine
-10990,fertility medicine
-10991,fertility medicine
-10992,infectious disease
-10993,internal medicine and pediatrics
-10994,pathology
-10995,family medicine
-10996,neurology
-10997,internal medicine
-10998,neurology
-10999,family medicine
-11000,podiatry
-11001,podiatry
-11002,thoracic surgery
-11003,cardiology
-11004,diagnostic radiology
-11005,physical medicine and rehabilitation
-11006,psychiatry
-11007,cardiology
-11008,cardiology
-11009,pediatrics
-11010,urology
-11011,infectious disease
-11012,pathology
-11013,cosmetic surgery
+10963,gynecology
+10964,general practice
+10965,obstetrics and gynecology
+10966,pediatrics
+10967,general practice
+10968,obstetrics and gynecology
+10969,internal medicine
+10970,pediatrics
+10971,psychiatry
+10972,ent and head and neck surgery
+10973,ent and head and neck surgery
+10974,neurology
+10975,pulmonology
+10976,dermatology
+10977,internal medicine
+10978,rheumatology
+10979,rheumatology
+10980,rheumatology
+10981,rheumatology
+10982,obstetrics and gynecology
+10983,obstetrics and gynecology
+10984,family medicine
+10985,obstetrics and gynecology
+10986,obstetrics and gynecology
+10987,infectious disease
+10988,pediatrics
+10989,family medicine
+10990,family medicine
+10991,urology
+10992,general surgery
+10993,family medicine
+10994,family medicine
+10995,orthopedic surgery
+10996,obstetrics and gynecology
+10997,pediatrics
+10998,family medicine
+10999,bariatrics
+11000,pharmacy
+11001,neurology
+11002,general practice
+11003,endocrinology
+11004,dentistry
+11005,hand surgery
+11006,neurology
+11007,child psychiatry
+11008,oral and maxillofacial surgery
+11009,dentistry
+11010,clinical psychology
+11011,pediatrics
+11012,infectious disease
+11013,ent and head and neck surgery
 11014,allergy and immunology
-11015,obstetrics and gynecology
-11016,adolescent medicine
-11017,pathology
-11018,pathology
-11019,dermatology
-11020,obstetrics and gynecology
+11015,ent and head and neck surgery
+11016,urgent care
+11017,gynecology
+11018,family medicine
+11019,internal medicine
+11020,family medicine
 11021,family medicine
-11022,family medicine
-11023,obstetrics and gynecology
-11024,general practice
-11025,cardiology
-11026,family medicine
-11027,cardiology
-11028,pediatrics
-11029,cardiology
-11030,psychiatry
-11031,cardiology
+11022,obstetrics and gynecology
+11023,general practice
+11024,neurosurgery
+11025,pathology
+11026,obstetrics and gynecology
+11027,general practice
+11028,pain management
+11029,internal medicine
+11030,internal medicine
+11031,medical oncology
 11032,internal medicine
-11033,family medicine
-11034,ent and head and neck surgery
-11035,addiction medicine
-11036,neurology
-11037,family medicine
-11038,psychiatry
-11039,gynecology
+11033,pediatric hematology and oncology
+11034,endocrinology
+11035,pediatrics
+11036,family medicine
+11037,internal medicine
+11038,family medicine
+11039,family medicine
 11040,family medicine
-11041,orthopedic surgery
-11042,internal medicine
-11043,family medicine
-11044,oral and maxillofacial surgery
-11045,antiaging medicine
-11046,internal medicine
-11047,general surgery
-11048,family medicine
-11049,obstetrics and gynecology
-11050,medical oncology
-11051,oral and maxillofacial surgery
-11052,pain management
-11053,dentistry
-11054,pain management
-11055,pain management
-11056,family medicine
-11057,cardiology
-11058,physical medicine and rehabilitation
-11059,family medicine
-11060,internal medicine and pediatrics
-11061,family medicine
-11062,neurosurgery
+11041,neurology
+11042,thoracic surgery
+11043,pulmonary critical care
+11044,neurology
+11045,developmental and behavioral pediatrics
+11046,addiction medicine
+11047,neurology
+11048,neurology
+11049,family medicine
+11050,ophthalmology
+11051,ophthalmology
+11052,ophthalmology
+11053,ophthalmology
+11054,podiatry
+11055,ophthalmology
+11056,pediatrics
+11057,dentistry
+11058,internal medicine
+11059,internal medicine
+11060,orthopedic surgery
+11061,emergency medicine
+11062,internal medicine
 11063,family medicine
-11064,hand surgery
-11065,general surgery
-11066,rheumatology
-11067,orthopedic spine surgery
-11068,neurosurgery
-11069,pain management
-11070,aesthetic medicine
-11071,general practice
-11072,holistic medicine
-11073,cosmetic dentistry
-11074,obstetrics and gynecology
-11075,internal medicine
-11076,hematology and oncology
-11077,pediatrics
-11078,pediatric emergency medicine
-11079,allergy and immunology
+11064,endocrinology
+11065,dentistry
+11066,ophthalmology
+11067,infectious disease
+11068,family medicine
+11069,family medicine
+11070,family medicine
+11071,endocrinology
+11072,psychiatry
+11073,emergency medicine
+11074,family medicine
+11075,psychiatry
+11076,urology
+11077,sleep medicine
+11078,pediatrics
+11079,clinical psychology
 11080,infectious disease
-11081,family medicine
-11082,allergy and immunology
-11083,pediatrics
-11084,radiation oncology
-11085,pediatrics
-11086,urology
-11087,internal medicine
-11088,family medicine
-11089,pain management
-11090,pain management
-11091,dentistry
-11092,family medicine
-11093,pain management
-11094,internal medicine
-11095,oral and maxillofacial surgery
-11096,cosmetic dentistry
-11097,pediatric emergency medicine
-11098,internal medicine
-11099,dentistry
-11100,pain management
-11101,pain management
-11102,dentistry
-11103,psychiatry
-11104,gastroenterology
-11105,dentistry
-11106,dentistry
-11107,neurosurgery
-11108,anesthesiology
-11109,orthopedic surgery
-11110,ent and head and neck surgery
-11111,physical medicine and rehabilitation
-11112,orthopedic surgery
-11113,psychiatry
-11114,internal medicine
-11115,orthopedic surgery
-11116,orthopedic surgery
-11117,hand surgery
-11118,family medicine
+11081,adolescent medicine
+11082,pain management
+11083,pain management
+11084,neurology
+11085,neurology
+11086,pain management
+11087,pain management
+11088,neurology
+11089,family medicine
+11090,endocrinology
+11091,internal medicine
+11092,cardiology
+11093,cardiology
+11094,cardiology
+11095,nan
+11096,neurosurgery
+11097,orthopedic spine surgery
+11098,psychiatry
+11099,family medicine
+11100,neurology
+11101,orthopedic surgery
+11102,allergy and immunology
+11103,neurosurgery
+11104,internal medicine
+11105,obstetrics and gynecology
+11106,family medicine
+11107,family medicine
+11108,psychiatry
+11109,cardiology
+11110,adolescent medicine
+11111,psychiatry
+11112,psychiatry
+11113,child psychiatry
+11114,psychiatry
+11115,clinical psychology
+11116,psychiatry
+11117,clinical psychology
+11118,nan
 11119,family medicine
-11120,family medicine
-11121,family medicine
-11122,pediatrics
-11123,nephrology and dialysis
-11124,infectious disease
+11120,internal medicine
+11121,nan
+11122,neurology
+11123,pediatrics
+11124,pediatrics
 11125,family medicine
-11126,internal medicine
-11127,nan
-11128,neurology
-11129,family medicine
-11130,obstetrics and gynecology
-11131,pediatrics
-11132,internal medicine
+11126,obstetrics and gynecology
+11127,internal medicine
+11128,clinical psychology
+11129,internal medicine
+11130,neurology
+11131,cardiology
+11132,cardiology
 11133,family medicine
-11134,oral and maxillofacial surgery
-11135,family medicine
-11136,internal medicine
-11137,pediatric endocrinology
-11138,family medicine
-11139,obstetrics and gynecology
-11140,internal medicine
-11141,pediatrics
-11142,family medicine
-11143,family medicine
-11144,gynecology
-11145,maternalfetal medicine
+11134,cardiology
+11135,ophthalmology
+11136,dentistry
+11137,oral and maxillofacial surgery
+11138,dermatology
+11139,lasik surgery
+11140,dermatology
+11141,gynecology
+11142,general practice
+11143,obstetrics and gynecology
+11144,pediatrics
+11145,allergy and immunology
 11146,neurology
 11147,addiction medicine
-11148,ent and head and neck surgery
-11149,ent and head and neck surgery
-11150,internal medicine
-11151,dentistry
-11152,internal medicine
-11153,emergency medicine
-11154,infectious disease
-11155,dentistry
-11156,dentistry
-11157,dentistry
-11158,ent and head and neck surgery
-11159,family medicine
-11160,orthopedic surgery
-11161,family medicine
-11162,hematology and oncology
+11148,family medicine
+11149,pediatric allergy and asthma
+11150,rheumatology
+11151,rheumatology
+11152,neurology
+11153,neurology
+11154,physical medicine and rehabilitation
+11155,pediatric emergency medicine
+11156,ent and head and neck surgery
+11157,family medicine
+11158,pediatrics
+11159,pediatrics
+11160,family medicine
+11161,allergy and immunology
+11162,allergy and immunology
 11163,infectious disease
-11164,obstetrics and gynecology
-11165,pediatrics
-11166,family medicine
-11167,pathology
-11168,family medicine
-11169,obstetrics and gynecology
-11170,gynecology
-11171,psychiatry
-11172,general practice
-11173,psychiatry
-11174,orthopedic surgery
-11175,radiology
-11176,orthopedic surgery
-11177,radiology
-11178,orthopedic reconstructive surgery
-11179,orthopedic spine surgery
-11180,orthopedic surgery
-11181,orthopedic surgery
-11182,family medicine
-11183,pain management
-11184,family medicine
-11185,anesthesiology
-11186,diagnostic radiology
-11187,family medicine
-11188,gastroenterology
-11189,urgent care
-11190,gastroenterology
-11191,general surgery
-11192,internal medicine
-11193,gastroenterology
-11194,colon and rectal surgery
-11195,infectious disease
-11196,developmental and behavioral pediatrics
-11197,family medicine
-11198,family medicine
-11199,general practice
-11200,emergency medicine
-11201,infectious disease
-11202,family medicine
-11203,psychiatry
-11204,family medicine
-11205,internal medicine
-11206,preventive medicine
-11207,ent and head and neck surgery
-11208,general surgery
-11209,dermatology
-11210,addiction medicine
-11211,family medicine
-11212,gynecology
-11213,dermatology
+11164,oral and maxillofacial surgery
+11165,medical oncology
+11166,hematology and oncology
+11167,hematology and oncology
+11168,psychiatry
+11169,radiation oncology
+11170,pediatrics
+11171,medical oncology
+11172,hematology and oncology
+11173,general surgery
+11174,medical oncology
+11175,psychiatry
+11176,hematology and oncology
+11177,orthodontics
+11178,pediatrics
+11179,orthodontics
+11180,rheumatology
+11181,family medicine
+11182,neurology
+11183,general surgery
+11184,radiology
+11185,radiology
+11186,podiatry
+11187,podiatry
+11188,endocrinology
+11189,hand surgery
+11190,family medicine
+11191,family medicine
+11192,family medicine
+11193,plastic surgery
+11194,rheumatology
+11195,physical medicine and rehabilitation
+11196,orthopedic surgery
+11197,dentistry
+11198,oral and maxillofacial surgery
+11199,orthodontics
+11200,oral and maxillofacial surgery
+11201,endodontics
+11202,obstetrics and gynecology
+11203,dentistry
+11204,dentistry
+11205,diagnostic radiology
+11206,hematology
+11207,dermatology
+11208,medical oncology
+11209,diagnostic radiology
+11210,orthopedic surgery
+11211,diagnostic radiology
+11212,surgical oncology
+11213,internal medicine
 11214,dermatology
-11215,nan
-11216,gynecology
-11217,dermatology
-11218,internal medicine
-11219,internal medicine
-11220,obstetrics and gynecology
-11221,family medicine
-11222,family medicine
-11223,urogynecology
-11224,family medicine
-11225,family medicine
-11226,orthopedic surgery
-11227,orthopedic surgery
-11228,general practice
-11229,family medicine
-11230,family medicine
-11231,internal medicine
-11232,urgent care
+11215,cosmetic surgery
+11216,pathology
+11217,plastic surgery
+11218,family medicine
+11219,orthopedic surgery
+11220,pain management
+11221,neurosurgery
+11222,medical oncology
+11223,medical oncology
+11224,radiology
+11225,pathology
+11226,obstetrics and gynecology
+11227,pediatrics
+11228,obstetrics and gynecology
+11229,internal medicine
+11230,psychiatry
+11231,gynecology
+11232,family medicine
 11233,family medicine
 11234,family medicine
-11235,family medicine
-11236,family medicine
-11237,family medicine
-11238,internal medicine
-11239,general practice
-11240,fertility medicine
-11241,psychiatry
-11242,general practice
-11243,obstetrics and gynecology
-11244,anesthesiology
-11245,obstetrics and gynecology
-11246,pediatrics
-11247,fertility medicine
-11248,pediatrics
-11249,allergy and immunology
-11250,pain management
-11251,allergy and immunology
-11252,allergy and immunology
-11253,geriatrics
-11254,family medicine
-11255,family medicine
+11235,obstetrics and gynecology
+11236,podiatry
+11237,podiatry
+11238,cardiology
+11239,orthopedic foot and ankle surgery
+11240,obstetrics and gynecology
+11241,orthopedic surgery
+11242,hand surgery
+11243,internal medicine
+11244,obstetrics and gynecology
+11245,maternalfetal medicine
+11246,family medicine
+11247,gastroenterology
+11248,general surgery
+11249,family medicine
+11250,obstetrics and gynecology
+11251,neurology
+11252,internal medicine
+11253,pediatrics
+11254,pediatrics
+11255,dermatology
 11256,allergy and immunology
-11257,family medicine
-11258,allergy and immunology
+11257,infectious disease
+11258,family medicine
 11259,internal medicine
-11260,internal medicine
-11261,allergy and immunology
-11262,allergy and immunology
-11263,pain management
-11264,radiology
-11265,internal medicine
-11266,nan
-11267,orthopedic spine surgery
-11268,interventional radiology
-11269,anesthesiology
-11270,neurosurgery
-11271,phlebology
-11272,radiology
-11273,internal medicine
-11274,diagnostic radiology
-11275,thoracic surgery
-11276,pulmonary critical care
-11277,rheumatology
-11278,diagnostic radiology
-11279,pain management
-11280,psychiatry
-11281,psychiatry
-11282,psychiatry
-11283,pain management
-11284,nan
-11285,geriatrics
-11286,family medicine
-11287,clinical psychology
-11288,psychiatry
-11289,nan
-11290,psychiatry
-11291,psychiatry
-11292,psychiatry
-11293,nan
-11294,neurology
-11295,pulmonary critical care
-11296,adolescent medicine
-11297,ent and head and neck surgery
-11298,infectious disease
+11260,dentistry
+11261,neurology
+11262,general surgery
+11263,internal medicine
+11264,family medicine
+11265,obstetrics and gynecology
+11266,pathology
+11267,urology
+11268,urology
+11269,family medicine
+11270,internal medicine
+11271,urology
+11272,pathology
+11273,dentistry
+11274,internal medicine
+11275,diagnostic radiology
+11276,surgical oncology
+11277,internal medicine
+11278,family medicine
+11279,podiatry
+11280,neurology
+11281,podiatry
+11282,podiatry
+11283,family medicine
+11284,cardiology
+11285,medical oncology
+11286,general surgery
+11287,gastroenterology
+11288,pediatrics
+11289,pediatric gastroenterology
+11290,urgent care
+11291,internal medicine
+11292,obstetrics and gynecology
+11293,internal medicine
+11294,obstetrics and gynecology
+11295,infectious disease
+11296,rheumatology
+11297,family medicine
+11298,obstetrics and gynecology
 11299,pediatrics
-11300,ent and head and neck surgery
-11301,interventional radiology
-11302,family medicine
-11303,pulmonary critical care
+11300,pediatrics
+11301,pathology
+11302,orthopedic surgery
+11303,gynecology
 11304,family medicine
-11305,infectious disease
-11306,infectious disease
-11307,infectious disease
-11308,pediatrics
-11309,internal medicine
-11310,infectious disease
-11311,infectious disease
-11312,family medicine
-11313,obstetrics and gynecology
-11314,internal medicine
-11315,general practice
-11316,obstetrics and gynecology
-11317,obstetrics and gynecology
-11318,obstetrics and gynecology
-11319,obstetrics and gynecology
-11320,family medicine
-11321,obstetrics and gynecology
-11322,psychiatry
-11323,general surgery
-11324,general surgery
-11325,general surgery
-11326,internal medicine
-11327,medical oncology
-11328,pediatrics
-11329,general surgery
-11330,radiation oncology
-11331,general surgery
-11332,family medicine
-11333,family medicine
-11334,general surgery
-11335,pediatrics
-11336,pediatrics
-11337,clinical lipidology
-11338,pediatrics
-11339,pediatrics
-11340,gastroenterology
-11341,obstetrics and gynecology
-11342,pediatrics
-11343,general practice
-11344,plastic surgery
-11345,pediatrics
-11346,pediatrics
+11305,endocrinology
+11306,surgical oncology
+11307,dentistry
+11308,pain management
+11309,dentistry
+11310,dentistry
+11311,dentistry
+11312,oral and maxillofacial surgery
+11313,oral and maxillofacial surgery
+11314,cardiology
+11315,general surgery
+11316,clinical psychology
+11317,allergy and immunology
+11318,neurology
+11319,allergy and immunology
+11320,neurology
+11321,internal medicine
+11322,rheumatology
+11323,family medicine
+11324,ent and head and neck surgery
+11325,preventive medicine
+11326,ent and head and neck surgery
+11327,preventive medicine
+11328,emergency medicine
+11329,ent and head and neck surgery
+11330,psychiatry
+11331,ent and head and neck surgery
+11332,preventive medicine
+11333,ent and head and neck surgery
+11334,preventive medicine
+11335,emergency medicine
+11336,ent and head and neck surgery
+11337,psychiatry
+11338,family medicine
+11339,family medicine
+11340,radiology
+11341,family medicine
+11342,obstetrics and gynecology
+11343,family medicine
+11344,family medicine
+11345,radiology
+11346,family medicine
 11347,obstetrics and gynecology
-11348,dermatology
-11349,allergy and immunology
-11350,family medicine
-11351,dermatology
-11352,dermatology
+11348,family medicine
+11349,internal medicine
+11350,infectious disease
+11351,nan
+11352,gynecology
 11353,family medicine
-11354,family medicine
-11355,periodontics
+11354,psychiatry
+11355,clinical psychology
 11356,psychiatry
-11357,family medicine
-11358,cosmetic dentistry
-11359,ent and head and neck surgery
-11360,family medicine
-11361,dermatology
-11362,pediatrics
-11363,family medicine
-11364,dermatology
-11365,family medicine
-11366,internal medicine
-11367,infectious disease
-11368,allergy and immunology
-11369,family medicine
-11370,ent and head and neck surgery
-11371,radiology
-11372,pediatrics
-11373,obstetrics and gynecology
-11374,pediatrics
+11357,clinical psychology
+11358,preventive medicine
+11359,geriatrics
+11360,allergy and immunology
+11361,pediatrics
+11362,family medicine
+11363,nephrology and dialysis
+11364,internal medicine
+11365,allergy and immunology
+11366,pathology
+11367,hematology
+11368,hematology
+11369,medical oncology
+11370,hematology and oncology
+11371,hematology
+11372,allergy
+11373,pediatrics
+11374,internal medicine
 11375,pediatrics
-11376,family medicine
-11377,pediatrics
-11378,family medicine
-11379,pediatrics
-11380,general surgery
-11381,obstetrics and gynecology
-11382,pediatrics
-11383,pediatrics
-11384,pediatrics
-11385,pediatrics
-11386,general practice
-11387,pediatrics
-11388,emergency medicine
-11389,obstetrics and gynecology
+11376,pediatric emergency medicine
+11377,obstetrics and gynecology
+11378,internal medicine
+11379,family medicine
+11380,family medicine
+11381,gastroenterology
+11382,pathology
+11383,internal medicine
+11384,pulmonology
+11385,pain management
+11386,general surgery
+11387,family medicine
+11388,dentistry
+11389,general surgery
 11390,internal medicine
-11391,family medicine
-11392,family medicine
-11393,dermatology
-11394,internal medicine
-11395,allergy and immunology
-11396,allergy and immunology
-11397,allergy and immunology
-11398,dermatology
-11399,endodontics
-11400,obstetrics and gynecology
-11401,dermatology
-11402,family medicine
-11403,obstetrics and gynecology
-11404,dermatology
-11405,obstetrics and gynecology
-11406,developmental and behavioral pediatrics
-11407,dermatology
-11408,gynecology
-11409,gynecology
-11410,psychiatry
-11411,obstetrics and gynecology
-11412,emergency medicine
-11413,obstetrics and gynecology
-11414,family medicine
-11415,gynecology
-11416,obstetrics and gynecology
-11417,holistic medicine
-11418,obstetrics and gynecology
-11419,obstetrics and gynecology
-11420,obstetrics and gynecology
-11421,internal medicine
-11422,gastroenterology
-11423,infectious disease
-11424,allergy and immunology
-11425,general practice
-11426,preventive medicine
-11427,family medicine
-11428,palliative care
-11429,obstetrics and gynecology
-11430,fertility medicine
-11431,internal medicine
-11432,family medicine
-11433,family medicine
-11434,cardiac electrophysiology
-11435,radiology
-11436,nan
-11437,neurosurgery
-11438,pain management
-11439,diagnostic radiology
-11440,podiatry
-11441,podiatry
-11442,family medicine
-11443,pain management
-11444,rheumatology
-11445,pathology
-11446,hospitalbased practice
-11447,pain management
-11448,dentistry
-11449,infectious disease
-11450,wound care
-11451,family medicine
-11452,diagnostic radiology
-11453,ent and head and neck surgery
-11454,pediatric hematology and oncology
-11455,diagnostic radiology
-11456,pediatrics
-11457,pediatric emergency medicine
-11458,occupational medicine
-11459,pathology
-11460,radiology
-11461,internal medicine
-11462,family medicine
-11463,preventive medicine
-11464,obstetrics and gynecology
-11465,family medicine
-11466,obstetrics and gynecology
-11467,family medicine
-11468,gynecology
-11469,gynecology
-11470,obstetrics and gynecology
-11471,internal medicine
-11472,internal medicine
-11473,obstetrics and gynecology
-11474,family medicine
+11391,dentistry
+11392,orthopedic surgery
+11393,pain management
+11394,orthopedic surgery
+11395,sports medicine
+11396,internal medicine
+11397,clinical psychology
+11398,emergency medicine
+11399,ent and head and neck surgery
+11400,pain management
+11401,family medicine
+11402,obstetrics and gynecology
+11403,pediatrics
+11404,pediatrics
+11405,pulmonary critical care
+11406,critical care
+11407,family medicine
+11408,obstetrics and gynecology
+11409,general practice
+11410,hepatology
+11411,internal medicine
+11412,podiatry
+11413,general surgery
+11414,gastroenterology
+11415,pain management
+11416,nan
+11417,maternalfetal medicine
+11418,allergy and immunology
+11419,allergy and immunology
+11420,pediatrics
+11421,gynecology
+11422,gynecology
+11423,family medicine
+11424,general surgery
+11425,addiction medicine
+11426,pediatric pulmonology
+11427,urgent care
+11428,addiction medicine
+11429,preventive medicine
+11430,orthopedic surgery
+11431,rheumatology
+11432,orthopedic reconstructive surgery
+11433,physical medicine and rehabilitation
+11434,rheumatology
+11435,rheumatology
+11436,pain management
+11437,prosthodontics
+11438,dentistry
+11439,internal medicine
+11440,internal medicine
+11441,dentistry
+11442,integrative medicine
+11443,nan
+11444,neurology
+11445,psychiatry
+11446,anesthesiology
+11447,psychiatry
+11448,orthopedic spine surgery
+11449,clinical psychology
+11450,psychiatry
+11451,general surgery
+11452,hematology and oncology
+11453,general surgery
+11454,surgical oncology
+11455,radiation oncology
+11456,neurosurgery
+11457,medical oncology
+11458,dermatology
+11459,pulmonary critical care
+11460,allergy and immunology
+11461,family medicine
+11462,pain management
+11463,family medicine
+11464,internal medicine
+11465,general practice
+11466,plastic surgery
+11467,cardiology
+11468,hand surgery
+11469,hand surgery
+11470,gastroenterology
+11471,pathology
+11472,plastic surgery
+11473,dermatology
+11474,obstetrics and gynecology
 11475,family medicine
-11476,obstetrics and gynecology
-11477,family medicine
-11478,family medicine
-11479,obstetrics and gynecology
-11480,obstetrics and gynecology
-11481,obstetrics and gynecology
-11482,radiology
-11483,clinical psychology
-11484,holistic medicine
-11485,cosmetic dentistry
-11486,emergency medicine
-11487,family medicine
-11488,pediatrics
-11489,anesthesiology
-11490,cardiology
-11491,endocrinology
-11492,general surgery
-11493,internal medicine
-11494,psychiatry
-11495,geriatric psychiatry
-11496,gastroenterology
-11497,orthopedic surgery
-11498,orthopedic surgery
-11499,family medicine
-11500,family medicine
-11501,gastroenterology
-11502,pain management
-11503,pain management
-11504,general surgery
-11505,neurology
-11506,physical medicine and rehabilitation
-11507,clinical psychology
-11508,hand surgery
-11509,hand surgery
-11510,neurosurgery
-11511,family medicine
-11512,pediatrics
-11513,allergy and immunology
-11514,pathology
-11515,anesthesiology
-11516,podiatry
-11517,pediatrics
-11518,obstetrics and gynecology
-11519,holistic medicine
-11520,nan
+11476,plastic surgery
+11477,dermatology
+11478,pain management
+11479,dentistry
+11480,internal medicine
+11481,geriatrics
+11482,physical medicine and rehabilitation
+11483,emergency medicine
+11484,pain management
+11485,nephrology and dialysis
+11486,general surgery
+11487,pathology
+11488,cardiology
+11489,hospitalbased practice
+11490,internal medicine
+11491,family medicine
+11492,nan
+11493,neurology
+11494,pain management
+11495,family medicine
+11496,family medicine
+11497,pathology
+11498,hematology
+11499,psychiatry
+11500,cardiology
+11501,pediatric neurology
+11502,infectious disease
+11503,pharmacology
+11504,gastroenterology
+11505,geriatrics
+11506,family medicine
+11507,nephrology and dialysis
+11508,gynecology
+11509,pediatric urology
+11510,general practice
+11511,obstetrics and gynecology
+11512,hematology and oncology
+11513,urology
+11514,psychiatry
+11515,pain management
+11516,neurology
+11517,rheumatology
+11518,pathology
+11519,gastroenterology
+11520,allergy and immunology
 11521,family medicine
-11522,gynecology
-11523,allergy and immunology
-11524,family medicine
-11525,endocrinology
-11526,dermatology
-11527,preventive medicine
-11528,emergency medicine
-11529,family medicine
-11530,general surgery
-11531,pediatrics
-11532,internal medicine
-11533,internal medicine
-11534,ent and head and neck surgery
-11535,clinical psychology
-11536,dentistry
-11537,medical oncology
-11538,pathology
-11539,internal medicine
+11522,dentistry
+11523,dentistry
+11524,pain management
+11525,internal medicine
+11526,dentistry
+11527,oral and maxillofacial surgery
+11528,cosmetic dentistry
+11529,dentistry
+11530,dentistry
+11531,cardiology
+11532,general practice
+11533,ent and head and neck surgery
+11534,holistic medicine
+11535,gastroenterology
+11536,gastroenterology
+11537,family medicine
+11538,psychiatry
+11539,general practice
 11540,psychiatry
-11541,oral and maxillofacial surgery
-11542,dentistry
-11543,clinical psychology
+11541,family medicine
+11542,hematology and oncology
+11543,plastic surgery
 11544,psychiatry
-11545,ent and head and neck surgery
+11545,cardiology
 11546,psychiatry
-11547,pain management
-11548,family medicine
-11549,neurology
-11550,neurology
-11551,internal medicine
-11552,orthopedic surgery
-11553,psychiatry
-11554,pediatrics
-11555,neurology
-11556,pediatrics
-11557,allergy and immunology
-11558,pediatric neurology
-11559,general practice
-11560,pain management
-11561,dentistry
-11562,periodontics
-11563,pain management
-11564,dentistry
-11565,pediatrics
-11566,pediatrics
-11567,cosmetic dentistry
-11568,dentistry
-11569,pain management
-11570,dentistry
-11571,pain management
-11572,oral and maxillofacial surgery
-11573,oral and maxillofacial surgery
-11574,dentistry
-11575,dentistry
-11576,dentistry
-11577,prosthodontics
-11578,dentistry
-11579,dentistry
-11580,dentistry
-11581,pain management
-11582,dentistry
-11583,dentistry
-11584,medical oncology
-11585,oral and maxillofacial surgery
-11586,infectious disease
-11587,pain management
-11588,dentistry
-11589,dentistry
-11590,dentistry
-11591,urology
-11592,family medicine
-11593,pathology
-11594,medical oncology
-11595,colon and rectal surgery
-11596,obstetrics and gynecology
-11597,internal medicine
-11598,internal medicine
-11599,family medicine
-11600,nan
-11601,pediatrics
-11602,medical oncology
-11603,wound care
-11604,orthopedic surgery
-11605,general surgery
-11606,internal medicine
-11607,hand surgery
-11608,hand surgery
-11609,internal medicine
-11610,internal medicine
-11611,general practice
-11612,physical medicine and rehabilitation
-11613,internal medicine
-11614,anesthesiology
-11615,internal medicine
-11616,hospitalbased practice
-11617,cardiology
-11618,pediatric nephrology and dialysis
-11619,pediatrics
-11620,pediatric neurology
-11621,neurology
-11622,neurology
-11623,family medicine
-11624,neurology
-11625,pediatric neurology
-11626,neurology
-11627,neurology
-11628,pediatric neurology
-11629,cardiology
-11630,family medicine
-11631,pediatric neurology
-11632,anesthesiology
-11633,pediatric cardiology
-11634,general practice
-11635,radiology
+11547,psychiatry
+11548,obstetrics and gynecology
+11549,pathology
+11550,endocrinology
+11551,radiology
+11552,hematology
+11553,family medicine
+11554,family medicine
+11555,nan
+11556,nan
+11557,orthopedic surgery
+11558,hand surgery
+11559,orthopedic surgery
+11560,family medicine
+11561,rheumatology
+11562,family medicine
+11563,emergency medicine
+11564,family medicine
+11565,family medicine
+11566,psychiatry
+11567,obstetrics and gynecology
+11568,neurology
+11569,endocrinology
+11570,psychiatry
+11571,podiatry
+11572,rheumatology
+11573,neurology
+11574,rheumatology
+11575,physical medicine and rehabilitation
+11576,orthopedic surgery
+11577,pediatrics
+11578,general practice
+11579,obstetrics and gynecology
+11580,obstetrics and gynecology
+11581,internal medicine
+11582,pediatrics
+11583,dermatology
+11584,urology
+11585,obstetrics and gynecology
+11586,pediatric gastroenterology
+11587,family medicine
+11588,internal medicine
+11589,family medicine
+11590,ent and head and neck surgery
+11591,prosthodontics
+11592,maternalfetal medicine
+11593,pediatrics
+11594,infectious disease
+11595,family medicine
+11596,infectious disease
+11597,family medicine
+11598,family medicine
+11599,allergy and immunology
+11600,gastroenterology
+11601,general surgery
+11602,family medicine
+11603,general practice
+11604,urology
+11605,family medicine
+11606,obstetrics and gynecology
+11607,dentistry
+11608,dentistry
+11609,dentistry
+11610,ent and head and neck surgery
+11611,general surgery
+11612,oral and maxillofacial surgery
+11613,cosmetic dentistry
+11614,dentistry
+11615,oral and maxillofacial surgery
+11616,ophthalmology
+11617,podiatry
+11618,orthopedic surgery
+11619,emergency medicine
+11620,orthopedic surgery
+11621,cardiology
+11622,podiatry
+11623,podiatry
+11624,family medicine
+11625,ent and head and neck surgery
+11626,internal medicine
+11627,family medicine
+11628,gynecology
+11629,family medicine
+11630,hematology and oncology
+11631,pathology
+11632,medical oncology
+11633,hematology and oncology
+11634,family medicine
+11635,general surgery
 11636,general surgery
-11637,pediatric cardiology
-11638,neurology
-11639,cardiac electrophysiology
-11640,radiology
-11641,cardiology
-11642,ent and head and neck surgery
-11643,cardiology
-11644,pediatric cardiology
-11645,cardiology
-11646,dentistry
-11647,oral and maxillofacial surgery
-11648,dentistry
-11649,dentistry
-11650,dentistry
-11651,pain management
-11652,dentistry
-11653,dentistry
-11654,dentistry
-11655,dermatology
-11656,oral and maxillofacial surgery
-11657,dentistry
-11658,ent and head and neck surgery
-11659,dentistry
-11660,dentistry
-11661,anesthesiology
-11662,neurosurgery
-11663,emergency medicine
-11664,orthopedic spine surgery
-11665,orthopedic spine surgery
-11666,interventional radiology
-11667,internal medicine
-11668,neurosurgery
-11669,orthopedic spine surgery
-11670,family medicine
-11671,internal medicine
-11672,nan
-11673,podiatry
-11674,podiatry
-11675,neurosurgery
-11676,neurology
-11677,neurology
-11678,orthopedic surgery
-11679,podiatry
-11680,nan
-11681,rheumatology
+11637,pathology
+11638,general surgery
+11639,nan
+11640,pediatrics
+11641,family medicine
+11642,psychiatry
+11643,psychiatry
+11644,cardiology
+11645,internal medicine
+11646,obstetrics and gynecology
+11647,obstetrics and gynecology
+11648,plastic surgery
+11649,obstetrics and gynecology
+11650,dermatology
+11651,dermatology
+11652,obstetrics and gynecology
+11653,internal medicine
+11654,pediatrics
+11655,internal medicine
+11656,internal medicine
+11657,infectious disease
+11658,pathology
+11659,hematology and oncology
+11660,surgical oncology
+11661,hematology and oncology
+11662,medical oncology
+11663,radiation oncology
+11664,pathology
+11665,radiation oncology
+11666,general surgery
+11667,breast surgery
+11668,obstetrics and gynecology
+11669,adhd and autism
+11670,infectious disease
+11671,ent and head and neck surgery
+11672,general practice
+11673,pediatric urology
+11674,pathology
+11675,psychiatry
+11676,pulmonary critical care
+11677,family medicine
+11678,pathology
+11679,pulmonology
+11680,cardiology
+11681,family medicine
 11682,family medicine
-11683,orthopedic surgery
-11684,podiatry
+11683,radiology
+11684,general surgery
 11685,orthopedic surgery
-11686,orthopedic reconstructive surgery
+11686,obstetrics and gynecology
 11687,orthopedic surgery
-11688,orthopedic surgery
-11689,orthopedic surgery
-11690,general practice
-11691,preventive medicine
-11692,family medicine
-11693,radiology
-11694,physical medicine and rehabilitation
-11695,orthopedic spine surgery
-11696,anesthesiology
-11697,rheumatology
-11698,cardiology
-11699,orthopedic spine surgery
-11700,family medicine
-11701,medical oncology
-11702,radiology
-11703,diagnostic radiology
-11704,pain management
-11705,pain management
-11706,orthopedic surgery
-11707,psychiatry
-11708,pediatrics
-11709,family medicine
-11710,family medicine
-11711,obstetrics and gynecology
-11712,gynecology
+11688,family medicine
+11689,podiatry
+11690,rheumatology
+11691,orthopedic surgery
+11692,nan
+11693,podiatry
+11694,podiatry
+11695,podiatry
+11696,podiatry
+11697,family medicine
+11698,internal medicine
+11699,endocrinology
+11700,pain management
+11701,oral and maxillofacial surgery
+11702,preventive medicine
+11703,medical oncology
+11704,gynecology
+11705,pediatrics
+11706,obstetrics and gynecology
+11707,obstetrics and gynecology
+11708,thoracic surgery
+11709,urology
+11710,internal medicine
+11711,general surgery
+11712,family medicine
 11713,psychiatry
-11714,breast surgery
-11715,obstetrics and gynecology
-11716,general practice
-11717,interventional radiology
-11718,internal medicine
-11719,pediatrics
-11720,rheumatology
-11721,pediatric nephrology and dialysis
-11722,urgent care
-11723,pain management
-11724,internal medicine
-11725,gynecology
-11726,wound care
-11727,pediatrics
-11728,surgical oncology
-11729,pathology
-11730,infectious disease
-11731,orthodontics
-11732,general surgery
-11733,orthopedic surgery
-11734,psychiatry
-11735,podiatry
-11736,orthopedic surgery
-11737,family medicine
-11738,orthopedic surgery
-11739,physical medicine and rehabilitation
-11740,anesthesiology
-11741,thoracic surgery
-11742,orthopedic surgery
-11743,family medicine
-11744,sports medicine
-11745,orthopedic surgery
-11746,orthopedic surgery
-11747,pathology
-11748,dermatology
-11749,pathology
+11714,psychiatry
+11715,allergy and immunology
+11716,family medicine
+11717,family medicine
+11718,urology
+11719,urology
+11720,family medicine
+11721,general practice
+11722,pediatric emergency medicine
+11723,infectious disease
+11724,nan
+11725,general practice
+11726,pediatrics
+11727,family medicine
+11728,dermatology
+11729,pediatrics
+11730,pediatrics
+11731,geriatrics
+11732,general practice
+11733,internal medicine
+11734,urgent care
+11735,facial plastic surgery
+11736,orthodontics
+11737,facial plastic surgery
+11738,orthodontics
+11739,rheumatology
+11740,pediatrics
+11741,surgical oncology
+11742,hospitalbased practice
+11743,infectious disease
+11744,orthodontics
+11745,american board of phlebology
+11746,infectious disease
+11747,obstetrics and gynecology
+11748,medical oncology
+11749,pediatrics
 11750,pathology
-11751,pathology
-11752,dermatology
-11753,internal medicine
-11754,plastic surgery
-11755,plastic surgery
-11756,dermatology
-11757,pediatrics
-11758,plastic surgery
+11751,urology
+11752,orthopedic surgery
+11753,podiatry
+11754,vascular surgery
+11755,cardiology
+11756,family medicine
+11757,addiction medicine
+11758,family medicine
 11759,internal medicine
-11760,cardiac electrophysiology
-11761,radiology
-11762,cardiology
-11763,cardiology
-11764,clinical psychology
-11765,psychiatry
-11766,cardiology
-11767,cardiology
-11768,cardiology
-11769,cardiology
-11770,nan
-11771,cardiology
-11772,family medicine
-11773,nan
-11774,family medicine
-11775,ent and head and neck surgery
-11776,ent and head and neck surgery
-11777,podiatry
-11778,psychiatry
-11779,plastic surgery
-11780,plastic surgery
-11781,dermatology
-11782,family medicine
-11783,family medicine
-11784,ent and head and neck surgery
-11785,dentistry
-11786,orthopedic surgery
-11787,hematology
-11788,pathology
-11789,cardiology
-11790,orthopedic foot and ankle surgery
-11791,internal medicine
-11792,podiatry
-11793,family medicine
-11794,podiatry
-11795,family medicine
-11796,nuclear medicine
-11797,diagnostic radiology
-11798,podiatry
-11799,rheumatology
-11800,cardiology
-11801,emergency medicine
-11802,ent and head and neck surgery
-11803,cardiology
-11804,pathology
-11805,psychiatry
-11806,cardiology
-11807,wound care
-11808,general surgery
-11809,neurology
-11810,pediatrics
-11811,cardiology
-11812,family medicine
-11813,obstetrics and gynecology
+11760,dermatology
+11761,family medicine
+11762,ent and head and neck surgery
+11763,urgent care
+11764,urology
+11765,obstetrics and gynecology
+11766,psychiatry
+11767,family medicine
+11768,family medicine
+11769,family medicine
+11770,nuclear medicine
+11771,pathology
+11772,endocrinology
+11773,pediatrics
+11774,dermatology
+11775,pediatric emergency medicine
+11776,family medicine
+11777,preventive medicine
+11778,allergy and immunology
+11779,neurology
+11780,orthopedic surgery
+11781,podiatry
+11782,podiatry
+11783,pulmonary critical care
+11784,podiatry
+11785,podiatry
+11786,family medicine
+11787,psychiatry
+11788,gynecology
+11789,geriatrics
+11790,family medicine
+11791,orthodontics
+11792,family medicine
+11793,general surgery
+11794,general practice
+11795,internal medicine
+11796,pathology
+11797,family medicine
+11798,colon and rectal surgery
+11799,internal medicine
+11800,surgical oncology
+11801,general surgery
+11802,family medicine
+11803,gynecologic oncology
+11804,wound care
+11805,general surgery
+11806,gynecology
+11807,breast surgery
+11808,orthopedic surgery
+11809,sports medicine
+11810,podiatry
+11811,orthopedic surgery
+11812,orthopedic surgery
+11813,addiction medicine
 11814,pediatrics
-11815,neurology
-11816,general surgery
-11817,obstetrics and gynecology
-11818,internal medicine
-11819,general practice
-11820,general practice
-11821,addiction medicine
-11822,obstetrics and gynecology
-11823,obstetrics and gynecology
-11824,general practice
-11825,internal medicine
-11826,urogynecology
-11827,dentistry
-11828,urology
-11829,obstetrics and gynecology
-11830,obstetrics and gynecology
-11831,urology
-11832,family medicine
-11833,hospitalbased practice
-11834,phlebology
-11835,pediatrics
-11836,pain management
-11837,dentistry
-11838,endocrinology
-11839,pediatrics
+11815,allergy and immunology
+11816,infectious disease
+11817,urogynecology
+11818,allergy and immunology
+11819,family medicine
+11820,family medicine
+11821,orthopedic surgery
+11822,internal medicine
+11823,nan
+11824,orthopedic surgery
+11825,ophthalmology
+11826,orthopedic surgery
+11827,orthopedic reconstructive surgery
+11828,orthopedic reconstructive surgery
+11829,infectious disease
+11830,orthopedic surgery
+11831,orthopedic reconstructive surgery
+11832,internal medicine
+11833,hand surgery
+11834,orthopedic reconstructive surgery
+11835,dermatology
+11836,family medicine
+11837,pathology
+11838,family medicine
+11839,obstetrics and gynecology
 11840,general surgery
-11841,general surgery
-11842,family medicine
+11841,obstetrics and gynecology
+11842,obstetrics and gynecology
 11843,obstetrics and gynecology
-11844,facial plastic surgery
-11845,ophthalmology
-11846,pediatrics
-11847,pediatrics
-11848,pathology
-11849,pathology
-11850,pediatrics
-11851,internal medicine
+11844,obstetrics and gynecology
+11845,obstetrics and gynecology
+11846,obstetrics and gynecology
+11847,nan
+11848,pediatrics
+11849,pediatrics
+11850,family medicine
+11851,nan
 11852,internal medicine
-11853,obstetrics and gynecology
-11854,neurology
-11855,obstetrics and gynecology
-11856,anesthesiology
-11857,colon and rectal surgery
-11858,orthopedic spine surgery
-11859,psychiatry
-11860,orthopedic surgery
-11861,neurology
-11862,psychiatry
-11863,psychiatry
-11864,pediatric neurology
-11865,psychiatry
-11866,psychiatry
-11867,psychiatry
-11868,psychiatry
-11869,cardiac electrophysiology
-11870,internal medicine
-11871,internal medicine
-11872,family medicine
-11873,child psychiatry
-11874,psychiatry
-11875,obstetrics and gynecology
-11876,pediatrics
-11877,pathology
-11878,obstetrics and gynecology
-11879,gynecology
-11880,obstetrics and gynecology
-11881,endocrinology
-11882,fertility medicine
-11883,endocrinology
-11884,obstetrics and gynecology
-11885,psychiatry
-11886,family medicine
-11887,obstetrics and gynecology
-11888,pediatrics
-11889,infectious disease
-11890,psychiatry
-11891,emergency medicine
-11892,psychiatry
-11893,gynecology
-11894,general practice
-11895,family medicine
-11896,psychiatry
-11897,urology
-11898,infectious disease
-11899,general practice
-11900,clinical psychology
-11901,internal medicine
-11902,medical oncology
-11903,dentistry
-11904,family medicine
-11905,infectious disease
-11906,family medicine
-11907,infectious disease
-11908,pediatrics
-11909,psychiatry
-11910,neurology
-11911,pain management
-11912,addiction medicine
-11913,cardiology
-11914,internal medicine
-11915,endocrinology
-11916,cardiology
-11917,cardiology
-11918,cardiology
-11919,cardiology
-11920,cardiology
-11921,urogynecology
-11922,obstetrics and gynecology
-11923,ophthalmology
-11924,urology
-11925,endocrinology
+11853,hospitalbased practice
+11854,cardiology
+11855,cardiology
+11856,nephrology and dialysis
+11857,dentistry
+11858,pediatric dentistry
+11859,dentistry
+11860,dentistry
+11861,oral and maxillofacial surgery
+11862,dentistry
+11863,oral and maxillofacial surgery
+11864,dentistry
+11865,rheumatology
+11866,rheumatology
+11867,rheumatology
+11868,orthopedic surgery
+11869,hand surgery
+11870,family medicine
+11871,orthopedic surgery  hand surgery
+11872,pain management
+11873,nan
+11874,family medicine
+11875,orthopedic spine surgery
+11876,pain management
+11877,nan
+11878,neurology
+11879,pediatrics
+11880,fertility medicine
+11881,urogynecology
+11882,obstetrics and gynecology
+11883,neurology
+11884,clinical psychology
+11885,nephrology and dialysis
+11886,fertility medicine
+11887,fertility medicine
+11888,fertility medicine
+11889,family medicine
+11890,obstetrics and gynecology
+11891,gynecology
+11892,nan
+11893,obstetrics and gynecology
+11894,obstetrics and gynecology
+11895,fertility medicine
+11896,adolescent medicine
+11897,obstetrics and gynecology
+11898,obstetrics and gynecology
+11899,family medicine
+11900,obstetrics and gynecology
+11901,family medicine
+11902,obstetrics and gynecology
+11903,internal medicine
+11904,obstetrics and gynecology
+11905,pediatrics
+11906,psychiatry
+11907,internal medicine
+11908,ent and head and neck surgery
+11909,family medicine
+11910,internal medicine
+11911,family medicine
+11912,internal medicine
+11913,general surgery
+11914,dentistry
+11915,dentistry
+11916,dentistry
+11917,cosmetic dentistry
+11918,dentistry
+11919,dentistry
+11920,pediatric dentistry
+11921,oral and maxillofacial surgery
+11922,dentistry
+11923,dentistry
+11924,obstetrics and gynecology
+11925,fertility medicine
 11926,obstetrics and gynecology
-11927,pediatrics
-11928,internal medicine
-11929,family medicine
-11930,obstetrics and gynecology
+11927,obstetrics and gynecology
+11928,obstetrics and gynecology
+11929,endocrinology
+11930,neurology
 11931,family medicine
-11932,allergy and immunology
-11933,pediatric emergency medicine
-11934,internal medicine
-11935,family medicine
-11936,obstetrics and gynecology
-11937,rheumatology
-11938,dentistry
-11939,dentistry
-11940,internal medicine
-11941,dentistry
-11942,dentistry
-11943,internal medicine
-11944,ent and head and neck surgery
-11945,cosmetic dentistry
-11946,obstetrics and gynecology
-11947,pain management
-11948,pediatrics
-11949,oral and maxillofacial surgery
-11950,pediatric dentistry
-11951,infectious disease
-11952,hospitalbased practice
-11953,general practice
-11954,family medicine
-11955,dermatology
-11956,infectious disease
-11957,gynecology
-11958,general practice
-11959,dermatology
-11960,internal medicine
-11961,plastic surgery
-11962,dermatology
-11963,infectious disease
-11964,family medicine
-11965,ophthalmology
-11966,infectious disease
-11967,general practice
-11968,gastroenterology
-11969,psychiatry
-11970,obstetrics and gynecology
-11971,internal medicine
-11972,psychiatry
-11973,internal medicine
-11974,dermatology
-11975,infectious disease
-11976,ophthalmology
-11977,pediatrics
-11978,clinical genetics
-11979,internal medicine
-11980,dermatology
-11981,medical oncology
-11982,internal medicine
-11983,obstetrics and gynecology
-11984,psychiatry
-11985,pathology
-11986,radiation oncology
-11987,family medicine
-11988,orthopedic surgery
-11989,family medicine
-11990,medical oncology
-11991,pediatrics
-11992,pediatrics
-11993,hospitalbased practice
-11994,allergy
-11995,family medicine
-11996,dentistry
-11997,dentistry
+11932,pediatrics
+11933,pediatrics
+11934,family medicine
+11935,pediatrics
+11936,pathology
+11937,family medicine
+11938,psychiatry
+11939,infectious disease
+11940,pediatric endocrinology
+11941,family medicine
+11942,family medicine
+11943,obstetrics and gynecology
+11944,obstetrics and gynecology
+11945,gastroenterology
+11946,dermatology
+11947,obstetrics and gynecology
+11948,dermatology
+11949,family medicine
+11950,obstetrics and gynecology
+11951,general surgery
+11952,family medicine
+11953,obstetrics and gynecology
+11954,psychiatry
+11955,obstetrics and gynecology
+11956,pediatrics
+11957,general surgery
+11958,ophthalmology
+11959,lasik surgery
+11960,allergy and immunology
+11961,pain management
+11962,dentistry
+11963,dentistry
+11964,pediatrics
+11965,ent and head and neck surgery
+11966,ophthalmology
+11967,rheumatology
+11968,orthopedic spine surgery
+11969,infectious disease
+11970,internal medicine
+11971,family medicine
+11972,orthopedic surgery
+11973,podiatry
+11974,internal medicine
+11975,general surgery
+11976,urology
+11977,urology
+11978,internal medicine
+11979,infectious disease
+11980,internal medicine
+11981,obstetrics and gynecology
+11982,dentistry
+11983,pulmonology
+11984,family medicine
+11985,neurosurgery
+11986,pediatrics
+11987,cardiology
+11988,family medicine
+11989,pediatrics
+11990,obstetrics and gynecology
+11991,obstetrics and gynecology
+11992,obstetrics and gynecology
+11993,general surgery
+11994,internal medicine
+11995,dermatology
+11996,allergy and immunology
+11997,infectious disease
 11998,ophthalmology
-11999,pediatrics
-12000,pulmonary critical care
-12001,medical oncology
+11999,allergy and immunology
+12000,developmental and behavioral pediatrics
+12001,pathology
 12002,internal medicine
-12003,dentistry
-12004,oral and maxillofacial surgery
-12005,surgical oncology
-12006,gastroenterology
-12007,diagnostic radiology
-12008,urology
-12009,urology
-12010,pain management
-12011,dermatology
-12012,urology
-12013,pediatrics
-12014,obstetrics and gynecology
-12015,psychiatry
-12016,orthopedic spine surgery
-12017,pain management
-12018,hematology and oncology
-12019,hematology and oncology
-12020,general surgery
-12021,hematology and oncology
-12022,breast surgery
-12023,surgical oncology
-12024,cardiology
-12025,gynecology
-12026,hematology and oncology
-12027,hematology and oncology
-12028,breast surgery
-12029,breast surgery
-12030,medical oncology
-12031,medical oncology
-12032,general surgery
-12033,bariatrics
-12034,medical oncology
-12035,general surgery
-12036,pediatric dentistry
-12037,dentistry
+12003,obstetrics and gynecology
+12004,hematology and oncology
+12005,obstetrics and gynecology
+12006,hematology and oncology
+12007,infectious disease
+12008,obstetrics and gynecology
+12009,obstetrics and gynecology
+12010,family medicine
+12011,obstetrics and gynecology
+12012,emergency medicine
+12013,neurology
+12014,thoracic surgery
+12015,preventive medicine
+12016,gastroenterology
+12017,internal medicine
+12018,psychiatry
+12019,internal medicine
+12020,internal medicine
+12021,family medicine
+12022,dermatology
+12023,orthopedic surgery
+12024,general surgery
+12025,pediatric gastroenterology
+12026,internal medicine
+12027,internal medicine
+12028,general surgery
+12029,general surgery
+12030,pulmonary critical care
+12031,rheumatology
+12032,orthopedic surgery
+12033,pain management
+12034,pain management
+12035,cardiac electrophysiology
+12036,urgent care
+12037,urgent care
 12038,internal medicine
-12039,family medicine
-12040,oral and maxillofacial surgery
-12041,periodontics
-12042,periodontics
-12043,dentistry
-12044,dermatology
-12045,general surgery
-12046,dentistry
-12047,obstetrics and gynecology
-12048,oral and maxillofacial surgery
-12049,pediatrics
-12050,urology
-12051,obstetrics and gynecology
-12052,pediatrics
-12053,general surgery
-12054,internal medicine
-12055,nan
-12056,nephrology and dialysis
-12057,internal medicine
-12058,internal medicine
-12059,pediatrics
-12060,family medicine
-12061,family medicine
-12062,family medicine
-12063,podiatry
-12064,internal medicine
-12065,family medicine
-12066,orthopedic surgery
-12067,family medicine
-12068,pediatrics
-12069,pediatrics
-12070,travel medicine
-12071,ent and head and neck surgery
-12072,family medicine
-12073,emergency medicine
-12074,pediatrics
-12075,facial plastic surgery
-12076,ent and head and neck surgery
-12077,ophthalmology
+12039,neurology
+12040,nan
+12041,cardiology
+12042,dermatology
+12043,infectious disease
+12044,gynecologic oncology
+12045,pediatrics
+12046,obstetrics and gynecology
+12047,dermatology
+12048,obstetrics and gynecology
+12049,ophthalmology
+12050,urgent care
+12051,pediatrics
+12052,anesthesiology
+12053,pediatric emergency medicine
+12054,urgent care
+12055,general surgery
+12056,orthopedic surgery
+12057,preventive medicine
+12058,family medicine
+12059,internal medicine
+12060,orthopedic spine surgery
+12061,allergy and immunology
+12062,allergy and immunology
+12063,family medicine
+12064,allergy and immunology
+12065,infectious disease
+12066,psychiatry
+12067,ent and head and neck surgery
+12068,medical oncology
+12069,hematology and oncology
+12070,pediatrics
+12071,medical oncology
+12072,ent and head and neck surgery
+12073,ophthalmology
+12074,dentistry
+12075,dentistry
+12076,general practice
+12077,plastic surgery
 12078,pain management
-12079,pediatrics
-12080,dentistry
-12081,ophthalmology
+12079,orthodontics
+12080,ent and head and neck surgery
+12081,anesthesiology
 12082,family medicine
-12083,internal medicine
-12084,addiction medicine
-12085,ent and head and neck surgery
-12086,psychiatry
-12087,ent and head and neck surgery
-12088,obstetrics and gynecology
-12089,family medicine
-12090,hematology and oncology
-12091,general surgery
-12092,radiation oncology
-12093,hematology and oncology
-12094,pathology
-12095,pulmonology
-12096,pathology
-12097,pulmonology
-12098,hematology and oncology
-12099,medical oncology
-12100,hematology and oncology
-12101,general surgery
-12102,medical oncology
-12103,medical oncology
-12104,medical oncology
-12105,hematology and oncology
-12106,breast surgery
-12107,obstetrics and gynecology
-12108,fertility medicine
-12109,psychiatry
-12110,general surgery
-12111,general surgery
-12112,family medicine
-12113,family medicine
-12114,pain management
-12115,pediatrics
-12116,urgent care
-12117,pain management
-12118,nephrology and dialysis
-12119,cardiology
-12120,cardiology
-12121,pathology
-12122,internal medicine
-12123,hematology
-12124,family medicine
-12125,general surgery
-12126,preventive medicine
-12127,hematology and oncology
-12128,pathology
-12129,internal medicine
-12130,pediatric hematology and oncology
-12131,nan
-12132,pediatric hematology and oncology
-12133,pathology
-12134,sports medicine
-12135,orthopedic surgery
-12136,emergency medicine
-12137,orthopedic surgery
-12138,orthopedic surgery
-12139,rheumatology
-12140,general surgery
-12141,pain management
-12142,family medicine
-12143,orthopedic surgery
-12144,thoracic surgery
-12145,family medicine
-12146,podiatry
-12147,podiatry
-12148,family medicine
-12149,general practice
-12150,rheumatology
-12151,allergy and immunology
-12152,allergy and immunology
-12153,dermatology
-12154,internal medicine
-12155,podiatry
-12156,obstetrics and gynecology
-12157,orthopedic surgery
-12158,pediatric orthopedic surgery
-12159,orthopedic reconstructive surgery
+12083,plastic surgery
+12084,wound care
+12085,oral and maxillofacial surgery
+12086,plastic surgery
+12087,pathology
+12088,plastic surgery
+12089,plastic surgery
+12090,anesthesiology
+12091,orthopedic spine surgery
+12092,orthopedic spine surgery
+12093,pain management
+12094,neurosurgery
+12095,orthopedic surgery
+12096,infectious disease
+12097,family medicine
+12098,periodontics
+12099,periodontics
+12100,family medicine
+12101,cosmetic dentistry
+12102,infectious disease
+12103,infectious disease
+12104,pediatrics
+12105,pulmonary critical care
+12106,general surgery
+12107,dermatology
+12108,emergency medicine
+12109,pathology
+12110,family medicine
+12111,pain management
+12112,internal medicine
+12113,preventive medicine
+12114,podiatry
+12115,general practice
+12116,pain management
+12117,family medicine
+12118,internal medicine
+12119,gynecology
+12120,general practice
+12121,obstetrics and gynecology
+12122,obstetrics and gynecology
+12123,pediatrics
+12124,internal medicine
+12125,cardiology
+12126,physical medicine and rehabilitation
+12127,dermatology
+12128,neurology
+12129,psychiatry
+12130,internal medicine
+12131,plastic surgery
+12132,plastic surgery
+12133,ent and head and neck surgery
+12134,plastic surgery
+12135,cardiology
+12136,psychiatry
+12137,child psychiatry
+12138,pediatrics
+12139,allergy and immunology
+12140,family medicine
+12141,internal medicine
+12142,endocrinology
+12143,endocrinology
+12144,urology
+12145,dermatology
+12146,psychiatry
+12147,pediatrics
+12148,infectious disease
+12149,family medicine
+12150,ophthalmology
+12151,emergency medicine
+12152,obstetrics and gynecology
+12153,obstetrics and gynecology
+12154,obstetrics and gynecology
+12155,obstetrics and gynecology
+12156,family medicine
+12157,rheumatology
+12158,pain management
+12159,family medicine
 12160,orthopedic surgery
-12161,rheumatology
-12162,pain management
-12163,orthopedic surgery
-12164,orthopedic surgery
-12165,family medicine
-12166,orthopedic surgery
-12167,pain management
-12168,orthopedic surgery
-12169,orthopedic surgery
-12170,neurology
-12171,anesthesiology
+12161,orthopedic surgery
+12162,pediatric hematology and oncology
+12163,allergy and immunology
+12164,allergy and immunology
+12165,internal medicine
+12166,family medicine
+12167,dermatology
+12168,pediatrics
+12169,internal medicine
+12170,ophthalmology
+12171,ophthalmology
 12172,family medicine
-12173,hematology and oncology
-12174,internal medicine
-12175,ent and head and neck surgery
-12176,ent and head and neck surgery
-12177,rheumatology
-12178,general surgery
-12179,ent and head and neck surgery
-12180,hematology and oncology
-12181,medical oncology
-12182,medical oncology
-12183,general surgery
-12184,infectious disease
-12185,family medicine
-12186,infectious disease
-12187,pain management
-12188,pediatrics
-12189,family medicine
+12173,physical medicine and rehabilitation
+12174,addiction medicine
+12175,pediatric pulmonology
+12176,psychiatry
+12177,fertility medicine
+12178,internal medicine
+12179,internal medicine
+12180,psychiatry
+12181,obstetrics and gynecology
+12182,obstetrics and gynecology
+12183,infectious disease
+12184,pathology
+12185,rheumatology
+12186,rheumatology
+12187,orthopedic surgery
+12188,general surgery
+12189,wound care
 12190,family medicine
-12191,obstetrics and gynecology
-12192,family medicine
-12193,urology
-12194,obstetrics and gynecology
-12195,obstetrics and gynecology
-12196,pediatrics
-12197,pediatrics
-12198,dentistry
-12199,family medicine
-12200,oral and maxillofacial surgery
-12201,pediatrics
-12202,rheumatology
-12203,medical oncology
-12204,ent and head and neck surgery
-12205,pediatrics
-12206,internal medicine
-12207,ophthalmology
-12208,ophthalmology
-12209,psychiatry
-12210,pediatrics
-12211,neurology
-12212,allergy and immunology
-12213,dentistry
-12214,interventional radiology
-12215,pain management
-12216,family medicine
-12217,dentistry
-12218,dentistry
-12219,podiatry
+12191,rheumatology
+12192,gastroenterology
+12193,nephrology and dialysis
+12194,ophthalmology
+12195,internal medicine
+12196,ophthalmology
+12197,ophthalmology
+12198,podiatry
+12199,general practice
+12200,obstetrics and gynecology
+12201,obstetrics and gynecology
+12202,obstetrics and gynecology
+12203,family medicine
+12204,general practice
+12205,fertility medicine
+12206,allergy and immunology
+12207,dentistry
+12208,family medicine
+12209,infectious disease
+12210,general practice
+12211,family medicine
+12212,family medicine
+12213,nephrology and dialysis
+12214,internal medicine
+12215,internal medicine
+12216,general surgery
+12217,endocrinology
+12218,pediatrics
+12219,orthopedic spine surgery
 12220,internal medicine
-12221,addiction medicine
-12222,fertility medicine
-12223,psychiatry
-12224,internal medicine
-12225,psychiatry
-12226,pathology
-12227,obstetrics and gynecology
-12228,psychiatry
-12229,obstetrics and gynecology
-12230,family medicine
-12231,fertility medicine
-12232,pain management
-12233,oral and maxillofacial surgery
-12234,pulmonology
-12235,internal medicine
-12236,psychiatry
-12237,holistic medicine
-12238,oral and maxillofacial surgery
-12239,infectious disease
-12240,anesthesiology
-12241,pediatrics
-12242,internal medicine
-12243,allergy and immunology
-12244,ent and head and neck surgery
-12245,general surgery
-12246,general surgery
-12247,family medicine
-12248,family medicine
-12249,pediatric pulmonology
-12250,hand surgery
-12251,internal medicine
-12252,obstetrics and gynecology
-12253,urgent care
-12254,plastic surgery
-12255,dermatology
-12256,general practice
-12257,clinical psychology
-12258,endocrinology
+12221,family medicine
+12222,internal medicine
+12223,holistic medicine
+12224,cardiology
+12225,diagnostic radiology
+12226,neurology
+12227,pulmonary critical care
+12228,pathology
+12229,pathology
+12230,medical oncology
+12231,pathology
+12232,pathology
+12233,hematology and oncology
+12234,radiology
+12235,infectious disease
+12236,wound care
+12237,cardiology
+12238,podiatry
+12239,gastroenterology
+12240,internal medicine
+12241,urology
+12242,family medicine
+12243,internal medicine
+12244,obstetrics and gynecology
+12245,obstetrics and gynecology
+12246,family medicine
+12247,general practice
+12248,cardiology
+12249,general surgery
+12250,internal medicine
+12251,pediatric cardiology
+12252,thoracic surgery
+12253,pediatrics
+12254,cardiology
+12255,cardiology
+12256,gynecology
+12257,internal medicine
+12258,obstetrics and gynecology
 12259,obstetrics and gynecology
-12260,fertility medicine
-12261,psychiatry
-12262,family medicine
-12263,family medicine
-12264,obstetrics and gynecology
-12265,family medicine
-12266,emergency medicine
+12260,pediatrics
+12261,obstetrics and gynecology
+12262,obstetrics and gynecology
+12263,neurology
+12264,family medicine
+12265,cardiology
+12266,cardiology
 12267,internal medicine
-12268,internal medicine
-12269,psychiatry
+12268,general practice
+12269,internal medicine
 12270,obstetrics and gynecology
-12271,internal medicine
-12272,surgical oncology
-12273,psychiatry
-12274,family medicine
-12275,internal medicine
-12276,ent and head and neck surgery
-12277,pathology
-12278,general surgery
-12279,medical oncology
-12280,plastic surgery
-12281,internal medicine
-12282,internal medicine
-12283,psychiatry
-12284,orthodontics
-12285,oral and maxillofacial surgery
-12286,wound care
-12287,psychiatry
-12288,dentistry
-12289,plastic surgery
-12290,dermatology
-12291,orthopedic surgery
-12292,orthopedic surgery
-12293,internal medicine
-12294,internal medicine
-12295,rheumatology
-12296,rheumatology
-12297,internal medicine
-12298,pain management
+12271,obstetrics and gynecology
+12272,podiatry
+12273,family medicine
+12274,obstetrics and gynecology
+12275,psychiatry
+12276,infectious disease
+12277,geriatrics
+12278,family medicine
+12279,orthodontics
+12280,gynecology
+12281,psychiatry
+12282,dentistry
+12283,obstetrics and gynecology
+12284,family medicine
+12285,psychiatry
+12286,internal medicine
+12287,internal medicine
+12288,internal medicine
+12289,occupational medicine
+12290,internal medicine
+12291,general surgery
+12292,general surgery
+12293,general surgery
+12294,dermatology
+12295,pain management
+12296,internal medicine
+12297,occupational medicine
+12298,neurosurgery
 12299,internal medicine
-12300,hand surgery
+12300,ophthalmology
 12301,orthopedic surgery
-12302,orthopedic spine surgery
-12303,orthopedic surgery
-12304,internal medicine
-12305,general surgery
-12306,family medicine
-12307,pain management
-12308,pediatrics
-12309,general practice
-12310,neurology
-12311,neurosurgery
-12312,hematology and oncology
-12313,family medicine
-12314,internal medicine
-12315,gastroenterology
-12316,pathology
-12317,pathology
-12318,gastroenterology
-12319,family medicine
-12320,orthopedic surgery
-12321,orthopedic surgery
-12322,obstetrics and gynecology
-12323,general surgery
-12324,pediatrics
-12325,pediatrics
-12326,adolescent medicine
-12327,internal medicine
-12328,obstetrics and gynecology
-12329,family medicine
-12330,obstetrics and gynecology
-12331,obstetrics and gynecology
-12332,dermatology
-12333,periodontics
-12334,pediatrics
-12335,allergy
-12336,internal medicine
-12337,family medicine
-12338,pediatrics
-12339,facial plastic surgery
-12340,ent and head and neck surgery
-12341,dentistry
-12342,oral and maxillofacial surgery
-12343,orthopedic surgery
-12344,nan
-12345,bariatrics
-12346,hospitalbased practice
-12347,cardiology
+12302,pathology
+12303,psychiatry
+12304,radiology
+12305,internal medicine
+12306,internal medicine
+12307,radiation oncology
+12308,cardiology
+12309,diagnostic radiology
+12310,orthodontics
+12311,dentistry
+12312,internal medicine
+12313,pediatrics
+12314,family medicine
+12315,internal medicine
+12316,pediatrics
+12317,family medicine
+12318,family medicine
+12319,pain management
+12320,ent and head and neck surgery
+12321,ent and head and neck surgery
+12322,periodontics
+12323,periodontics
+12324,orthopedic spine surgery
+12325,internal medicine
+12326,addiction medicine
+12327,obstetrics and gynecology
+12328,orthopedic surgery
+12329,podiatry
+12330,rheumatology
+12331,colon and rectal surgery
+12332,internal medicine
+12333,family medicine
+12334,general surgery
+12335,general surgery
+12336,general surgery
+12337,nan
+12338,general surgery
+12339,internal medicine
+12340,pediatrics
+12341,obstetrics and gynecology
+12342,general practice
+12343,family medicine
+12344,obstetrics and gynecology
+12345,pediatrics
+12346,internal medicine
+12347,geriatrics
 12348,cardiology
-12349,general practice
-12350,cardiology
-12351,pediatrics
-12352,general surgery
-12353,radiology
-12354,preventive medicine
-12355,cardiology
-12356,pediatric cardiology
-12357,general practice
+12349,pediatrics
+12350,internal medicine
+12351,family medicine
+12352,pediatrics
+12353,family medicine
+12354,pediatric emergency medicine
+12355,pulmonary critical care
+12356,integrative medicine
+12357,radiology
 12358,internal medicine
-12359,family medicine
-12360,dermatology
-12361,obstetrics and gynecology
-12362,obstetrics and gynecology
+12359,internal medicine
+12360,family medicine
+12361,general practice
+12362,gynecology
 12363,obstetrics and gynecology
-12364,obstetrics and gynecology
-12365,obstetrics and gynecology
-12366,family medicine
-12367,gynecology
-12368,obstetrics and gynecology
-12369,internal medicine
-12370,dermatology
-12371,gynecology
-12372,family medicine
-12373,gastroenterology
-12374,general surgery
-12375,general practice
-12376,psychiatry
-12377,internal medicine
-12378,gastroenterology
-12379,colon and rectal surgery
-12380,internal medicine
-12381,preventive medicine
-12382,psychiatry
-12383,internal medicine
-12384,family medicine
-12385,fertility medicine
-12386,pharmacology
-12387,orthopedic surgery
-12388,obstetrics and gynecology
-12389,obstetrics and gynecology
+12364,gynecology
+12365,nan
+12366,gynecology
+12367,internal medicine
+12368,psychiatry
+12369,infectious disease
+12370,general practice
+12371,clinical psychology
+12372,clinical psychology
+12373,psychiatry
+12374,infectious disease
+12375,gynecology
+12376,dermatology
+12377,dermatology
+12378,pediatrics
+12379,family medicine
+12380,family medicine
+12381,family medicine
+12382,family medicine
+12383,hospitalbased practice
+12384,ent and head and neck surgery
+12385,anesthesiology
+12386,obstetrics and gynecology
+12387,internal medicine
+12388,general practice
+12389,family medicine
 12390,obstetrics and gynecology
-12391,gynecology
+12391,internal medicine
 12392,family medicine
-12393,general practice
-12394,pediatrics
-12395,hand surgery
-12396,hand surgery
-12397,rheumatology
-12398,neurology
-12399,physical medicine and rehabilitation
-12400,hand surgery
+12393,psychiatry
+12394,addiction medicine
+12395,infectious disease
+12396,internal medicine
+12397,urgent care
+12398,podiatry
+12399,internal medicine
+12400,family medicine
 12401,orthopedic surgery
-12402,neurology
-12403,family medicine
+12402,pain management
+12403,obstetrics and gynecology
 12404,obstetrics and gynecology
-12405,hand surgery
-12406,family medicine
-12407,neurology
-12408,orthopedic foot and ankle surgery
-12409,physical medicine and rehabilitation
-12410,podiatry
-12411,podiatry
-12412,podiatry
-12413,podiatry
-12414,hematology and oncology
-12415,podiatry
-12416,podiatry
-12417,family medicine
-12418,podiatry
-12419,internal medicine
-12420,podiatry
-12421,wound care
-12422,podiatry
-12423,ent and head and neck surgery
-12424,family medicine
-12425,gynecology
-12426,infectious disease
-12427,family medicine
-12428,obstetrics and gynecology
-12429,general practice
-12430,emergency medicine
-12431,obstetrics and gynecology
+12405,general surgery
+12406,gynecology
+12407,nan
+12408,fertility medicine
+12409,gynecology
+12410,orthopedic spine surgery
+12411,neurology
+12412,family medicine
+12413,emergency medicine
+12414,family medicine
+12415,surgical oncology
+12416,pediatric urology
+12417,pediatric urology
+12418,nephrology and dialysis
+12419,pediatric urology
+12420,pediatric urology
+12421,preventive medicine
+12422,fertility medicine
+12423,lasik surgery
+12424,neurology
+12425,ophthalmology
+12426,internal medicine
+12427,urgent care
+12428,cardiology
+12429,vascular surgery
+12430,cardiology
+12431,ent and head and neck surgery
 12432,family medicine
-12433,obstetrics and gynecology
-12434,internal medicine
-12435,allergy and immunology
-12436,family medicine
-12437,pain management
-12438,pulmonology
-12439,pain management
-12440,pain management
-12441,obstetrics and gynecology
-12442,lasik surgery
-12443,allergy and immunology
-12444,emergency medicine
-12445,ophthalmology
-12446,nan
-12447,clinical psychology
-12448,pediatric endocrinology
-12449,family medicine
-12450,pediatric endocrinology
-12451,internal medicine
-12452,family medicine
-12453,cardiac electrophysiology
-12454,gynecology
-12455,endocrinology
+12433,family medicine
+12434,family medicine
+12435,pediatrics
+12436,dentistry
+12437,pediatrics
+12438,podiatry
+12439,podiatry
+12440,wound care
+12441,pain management
+12442,orthodontics
+12443,gynecologic oncology
+12444,cardiology
+12445,orthopedic spine surgery
+12446,fertility medicine
+12447,endocrinology
+12448,general surgery
+12449,urology
+12450,obstetrics and gynecology
+12451,fertility medicine
+12452,infectious disease
+12453,obstetrics and gynecology
+12454,pediatrics
+12455,family medicine
 12456,internal medicine
-12457,obstetrics and gynecology
-12458,internal medicine
-12459,endocrinology
-12460,endocrinology
-12461,endocrinology
-12462,dentistry
-12463,pain management
-12464,dentistry
-12465,dentistry
-12466,dentistry
-12467,cosmetic dentistry
-12468,dentistry
-12469,ent and head and neck surgery
-12470,dentistry
-12471,dentistry
-12472,dentistry
-12473,dentistry
-12474,dentistry
-12475,dentistry
-12476,dentistry
-12477,dentistry
-12478,pain management
-12479,oral and maxillofacial surgery
-12480,pediatrics
-12481,internal medicine
-12482,family medicine
-12483,colon and rectal surgery
+12457,ophthalmology
+12458,ophthalmology
+12459,obstetrics and gynecology
+12460,pediatrics
+12461,general practice
+12462,ophthalmology
+12463,pediatrics
+12464,obstetrics and gynecology
+12465,gynecology
+12466,family medicine
+12467,emergency medicine
+12468,pathology
+12469,radiation oncology
+12470,orthopedic spine surgery
+12471,interventional radiology
+12472,retinal surgery
+12473,facial plastic surgery
+12474,radiology
+12475,neurology
+12476,family medicine
+12477,gynecology
+12478,emergency medicine
+12479,dermatology
+12480,addiction medicine
+12481,urogynecology
+12482,obstetrics and gynecology
+12483,general surgery
 12484,internal medicine
-12485,infectious disease
-12486,family medicine
-12487,psychiatry
-12488,general surgery
-12489,internal medicine
-12490,family medicine
-12491,internal medicine
-12492,psychiatry
-12493,family medicine
-12494,medical oncology
-12495,pathology
-12496,internal medicine
-12497,hematology and oncology
-12498,pathology
-12499,nuclear medicine
-12500,medical oncology
-12501,radiation oncology
-12502,orthopedic spine surgery
-12503,internal medicine
-12504,radiation oncology
-12505,neurosurgery
-12506,interventional radiology
-12507,neurology
-12508,ophthalmology
-12509,ent and head and neck surgery
-12510,endocrinology
-12511,ophthalmology
-12512,internal medicine
-12513,family medicine
-12514,rheumatology
-12515,rheumatology
-12516,psychiatry
-12517,orthopedic surgery
-12518,podiatry
-12519,family medicine
-12520,obstetrics and gynecology
-12521,family medicine
-12522,general practice
-12523,obstetrics and gynecology
-12524,obstetrics and gynecology
-12525,obstetrics and gynecology
-12526,psychiatry
-12527,pathology
-12528,general practice
-12529,general practice
-12530,psychiatry
-12531,cardiology
-12532,pediatric pulmonology
-12533,emergency medicine
-12534,general surgery
-12535,rheumatology
-12536,pediatrics
-12537,neurosurgery
-12538,internal medicine
-12539,clinical psychology
-12540,addiction medicine
-12541,pediatric pulmonology
-12542,clinical psychology
-12543,orthopedic spine surgery
+12485,pediatrics
+12486,internal medicine
+12487,pediatrics
+12488,pediatrics
+12489,ent and head and neck surgery
+12490,infectious disease
+12491,orthodontics
+12492,orthopedic surgery
+12493,pain management
+12494,infectious disease
+12495,psychiatry
+12496,emergency medicine
+12497,pain management
+12498,physical medicine and rehabilitation
+12499,physical medicine and rehabilitation
+12500,podiatry
+12501,rheumatology
+12502,orthopedic surgery
+12503,family medicine
+12504,pathology
+12505,radiology
+12506,vascular surgery
+12507,hematology
+12508,cardiology
+12509,general surgery
+12510,hematology and oncology
+12511,psychiatry
+12512,thoracic surgery
+12513,ophthalmology
+12514,ophthalmology
+12515,pediatrics
+12516,pediatrics
+12517,general surgery
+12518,pediatrics
+12519,ophthalmology
+12520,radiology
+12521,plastic surgery
+12522,obstetrics and gynecology
+12523,radiology
+12524,urology
+12525,radiation oncology
+12526,urology
+12527,physical medicine and rehabilitation
+12528,pain management
+12529,neurology
+12530,orthopedic surgery
+12531,orthopedic spine surgery
+12532,internal medicine
+12533,orthopedic surgery  hand surgery
+12534,dentistry
+12535,dentistry
+12536,dentistry
+12537,internal medicine and pediatrics
+12538,dermatology
+12539,dermatology
+12540,dentistry
+12541,surgical oncology
+12542,medical oncology
+12543,general surgery
 12544,internal medicine
-12545,family medicine
-12546,internal medicine
-12547,family medicine
-12548,urgent care
-12549,family medicine
-12550,general surgery
-12551,cardiology
-12552,cardiology
-12553,pathology
-12554,dermatology
-12555,physical medicine and rehabilitation
-12556,hematology and oncology
-12557,emergency medicine
-12558,rheumatology
-12559,pediatrics
-12560,general surgery
+12545,medical oncology
+12546,preventive medicine
+12547,general surgery
+12548,internal medicine
+12549,general surgery
+12550,internal medicine
+12551,colon and rectal surgery
+12552,dentistry
+12553,general practice
+12554,obstetrics and gynecology
+12555,obstetrics and gynecology
+12556,internal medicine
+12557,obstetrics and gynecology
+12558,obstetrics and gynecology
+12559,pediatric emergency medicine
+12560,infectious disease
 12561,infectious disease
 12562,family medicine
-12563,podiatry
-12564,orthopedic surgery
-12565,pain management
-12566,pain management
-12567,orthopedic surgery
-12568,hematology and oncology
-12569,hematology and oncology
-12570,pathology
-12571,pathology
-12572,pathology
-12573,cardiology
-12574,pediatrics
-12575,family medicine
-12576,family medicine
-12577,infectious disease
-12578,pathology
-12579,obstetrics and gynecology
-12580,general surgery
-12581,hematology
-12582,pediatrics
-12583,podiatry
-12584,podiatry
-12585,pediatrics
-12586,family medicine
-12587,internal medicine
-12588,podiatry
-12589,orthopedic surgery
-12590,internal medicine
-12591,orthopedic surgery
-12592,podiatry
-12593,podiatry
-12594,podiatry
-12595,endocrinology
-12596,internal medicine
-12597,endocrinology
-12598,endocrinology
-12599,cardiology
-12600,internal medicine
-12601,internal medicine
-12602,pathology
-12603,pathology
-12604,allergy and immunology
-12605,holistic medicine
-12606,general practice
-12607,endocrinology
-12608,endocrinology
-12609,pediatrics
-12610,general practice
-12611,pathology
-12612,hematology and oncology
-12613,pathology
-12614,family medicine
-12615,pathology
-12616,pathology
-12617,hematology
-12618,geriatrics
-12619,hematology and oncology
-12620,pathology
+12563,infectious disease
+12564,neurology
+12565,pediatrics
+12566,family medicine
+12567,radiology
+12568,addiction medicine
+12569,obstetrics and gynecology
+12570,obstetrics and gynecology
+12571,family medicine
+12572,addiction medicine
+12573,fertility medicine
+12574,allergy and immunology
+12575,ophthalmology
+12576,general practice
+12577,rheumatology
+12578,pediatrics
+12579,internal medicine
+12580,family medicine
+12581,urology
+12582,urology
+12583,family medicine
+12584,obstetrics and gynecology
+12585,general practice
+12586,general surgery
+12587,family medicine
+12588,pediatrics
+12589,pediatric urology
+12590,obstetrics and gynecology
+12591,family medicine
+12592,gastroenterology
+12593,infectious disease
+12594,gastroenterology
+12595,internal medicine
+12596,family medicine
+12597,dentistry
+12598,family medicine
+12599,hospitalbased practice
+12600,family medicine
+12601,family medicine
+12602,allergy and immunology
+12603,pediatric pulmonology
+12604,neurology
+12605,emergency medicine
+12606,cardiology
+12607,cardiology
+12608,cardiology
+12609,ent and head and neck surgery
+12610,cardiology
+12611,internal medicine
+12612,internal medicine
+12613,family medicine
+12614,preventive medicine
+12615,hematology and oncology
+12616,ent and head and neck surgery
+12617,family medicine
+12618,pediatrics
+12619,pediatrics
+12620,pediatrics
 12621,family medicine
-12622,pathology
-12623,hematology and oncology
-12624,general surgery
-12625,pathology
-12626,pathology
-12627,hematology and oncology
-12628,pediatric hematology and oncology
-12629,radiation oncology
-12630,hematology and oncology
-12631,medical oncology
-12632,diagnostic radiology
-12633,general surgery
-12634,general surgery
-12635,medical oncology
-12636,hematology and oncology
-12637,radiation oncology
-12638,family medicine
-12639,allergy and immunology
-12640,dentistry
-12641,retinal surgery
-12642,pediatrics
-12643,adhd and autism
-12644,family medicine
-12645,ophthalmology
-12646,obstetrics and gynecology
-12647,podiatry
-12648,pediatrics
-12649,internal medicine and pediatrics
+12622,pediatrics
+12623,allergy and immunology
+12624,pediatrics
+12625,allergy
+12626,oral and maxillofacial surgery
+12627,infectious disease
+12628,dentistry
+12629,dentistry
+12630,ent and head and neck surgery
+12631,ophthalmology
+12632,ophthalmology
+12633,ophthalmology
+12634,lasik surgery
+12635,neurology
+12636,cardiology
+12637,gynecologic oncology
+12638,internal medicine
+12639,obstetrics and gynecology
+12640,internal medicine
+12641,family medicine
+12642,infectious disease
+12643,infectious disease
+12644,dermatology
+12645,emergency medicine
+12646,nephrology and dialysis
+12647,preventive medicine
+12648,nephrology and dialysis
+12649,urogynecology
+12650,pediatrics
+12651,hematology
+12652,general surgery
+12653,nephrology and dialysis
+12654,nephrology and dialysis
+12655,obstetrics and gynecology
+12656,internal medicine
+12657,psychiatry
+12658,rheumatology
+12659,podiatry
+12660,psychiatry
+12661,family medicine
+12662,physical medicine and rehabilitation
+12663,family medicine
+12664,fertility medicine
+12665,fertility medicine
+12666,obstetrics and gynecology
+12667,obstetrics and gynecology
+12668,fertility medicine
+12669,medical oncology
+12670,neurosurgery
+12671,psychiatry
+12672,pediatric neurology
+12673,family medicine
+12674,pediatric neurology
+12675,neurology
+12676,pediatrics
+12677,family medicine
+12678,family medicine
+12679,general practice
+12680,general surgery
+12681,infectious disease

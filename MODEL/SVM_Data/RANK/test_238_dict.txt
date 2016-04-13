@@ -1,0 +1,6 @@
+A_0_score:1
+A_1_score:-5
+A_2_score:-1
+A_3_score:-3
+A_4_score:5
+A_5_score:3

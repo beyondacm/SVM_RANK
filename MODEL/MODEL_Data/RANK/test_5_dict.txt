@@ -1,9 +1,5 @@
 A_0_score:2
-A_1_score:-4
-A_2_score:8
-A_3_score:-6
-A_4_score:6
-A_5_score:4
-A_6_score:0
-A_7_score:-2
-A_8_score:-8
+A_1_score:0
+A_2_score:-4
+A_3_score:4
+A_4_score:-2
