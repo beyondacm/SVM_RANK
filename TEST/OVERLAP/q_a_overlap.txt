@@ -466,7 +466,7 @@
 465,xanax,1
 466,,0
 467,pregnancy hcg ectopic,3
-468,2 ear infections amoxil,4
+468,ear 2 infections amoxil,4
 469,,0
 470,ear infection,2
 471,surgeon mesh,2
@@ -831,7 +831,7 @@
 830,anxiety health,2
 831,pain neck,2
 832,things filling crunchy tooth normal,5
-833,heart pounding pain chest sharp,5
+833,heart chest pain pounding sharp,5
 834,scan prior 3 nodule small x ct,7
 835,,0
 836,sometimes,1
@@ -1009,7 +1009,7 @@
 1008,penicillin infection,2
 1009,could pregnant,2
 1010,,0
-1011,ointment d face,3
+1011,ointment face,2
 1012,bleeding stop,2
 1013,,0
 1014,herpes,1
@@ -1445,7 +1445,7 @@
 1444,emphysema clear asthma copd lungs,5
 1445,cancer show chest regular breast ray,6
 1446,,0
-1447,anxiety d level vitamin deficiency fatigue cause depression,8
+1447,anxiety level vitamin deficiency fatigue cause depression,7
 1448,throat strep,2
 1449,,0
 1450,cough,1
@@ -1470,7 +1470,7 @@
 1469,,0
 1470,,0
 1471,take alcohol blood,3
-1472,re fever contagious,3
+1472,fever contagious,2
 1473,supplement vitamin son,3
 1474,cheek tissue teeth,3
 1475,safe,1
@@ -1763,7 +1763,7 @@
 1762,quit blood smoking doc,4
 1763,,0
 1764,sleep use apnea,3
-1765,re deviated nose,3
+1765,deviated nose,2
 1766,body head achy sore dizzy throat,6
 1767,sinus infection,2
 1768,cough prednisone advair,3
@@ -2206,7 +2206,7 @@
 2205,murmur heart know aorta tortuous,5
 2206,chest,1
 2207,scans cancer ct,3
-2208,deficiency cause d vitamin,4
+2208,deficiency cause vitamin,3
 2209,beer wine,2
 2210,amoxicillin,1
 2211,,0
@@ -2310,7 +2310,7 @@
 2309,swelling surgery toes,3
 2310,node behind lymph swollen,4
 2311,feel bone tooth,3
-2312,re fever contagious,3
+2312,fever contagious,2
 2313,pain area,2
 2314,,0
 2315,stone urine kidney,3
@@ -2361,7 +2361,7 @@
 2360,,0
 2361,swelling wisdom tooth,3
 2362,liver,1
-2363,10 000 d,3
+2363,10 000,2
 2364,effect side,2
 2365,one teeth wisdom,3
 2366,removal tooth wisdom,3
@@ -2369,7 +2369,7 @@
 2368,tobi,1
 2369,,0
 2370,chlamydia get,2
-2371,chemotherapy vitamin take,3
+2371,chemotherapy take vitamin,3
 2372,spray nasal 3,3
 2373,symptoms fever alcohol,3
 2374,discharge smell,2
@@ -2412,7 +2412,7 @@
 2411,pain,1
 2412,,0
 2413,ankle,1
-2414,test positive c d pregnancy,5
+2414,test positive c pregnancy,4
 2415,shoulder upper arm also,4
 2416,dont ra,2
 2417,psoriasis arthritis psoriatic,3
@@ -2686,7 +2686,7 @@
 2685,foot pain,2
 2686,mri,1
 2687,drinking cancer,2
-2688,dvt d,2
+2688,dvt,1
 2689,warts,1
 2690,colored related symptoms stools hernia pale hiatal,7
 2691,gall,1
@@ -2949,7 +2949,7 @@
 2948,need lasik surgery eye glasses,5
 2949,lasik get,2
 2950,c problems cirrhosis chemoembolization liver clotting advanced blood,8
-2951,dry make eye eyes,4
+2951,dry eyes eye make,4
 2952,would best,2
 2953,intolerance lactose allergy blood babies baby,6
 2954,would cancer,2
@@ -3014,7 +3014,7 @@
 3013,numb,1
 3014,chest lung cancer,3
 3015,see eye bulging,3
-3016,2 ear infections amoxil,4
+3016,ear 2 infections amoxil,4
 3017,,0
 3018,allergies heartburn ppis gerd,4
 3019,urine treat kidney macrobid,4
@@ -3071,7 +3071,7 @@
 3070,fibroids cause blood,3
 3071,dots sudden mouth red roof,5
 3072,thyroid gland dominant,3
-3073,25 d ekg see cardiologist blood low,7
+3073,25 ekg see cardiologist blood low,6
 3074,facet,1
 3075,,0
 3076,stones kidney diabetes,3
@@ -4093,7 +4093,7 @@
 4092,biopsy breast radiologists concordant follow size,6
 4093,callous,1
 4094,,0
-4095,dvt d dimer,3
+4095,dvt dimer,2
 4096,temp teething,2
 4097,neutrophil wbc,2
 4098,cancer,1
@@ -4217,7 +4217,7 @@
 4216,brown sputum bronchitis nasal yellow cough,6
 4217,cause hygiene oral bad,4
 4218,need teeth wisdom,3
-4219,tingling d burning vitamin feet low cause,7
+4219,tingling burning vitamin feet low cause,6
 4220,swollen eat area,3
 4221,anxiety,1
 4222,,0
@@ -5282,7 +5282,7 @@
 5281,pain breast,2
 5282,chest lung cancer scan,4
 5283,fluid bloating,2
-5284,re chlamydia infection dose,4
+5284,chlamydia infection dose,3
 5285,night muscle asthma fever leg,5
 5286,another ms mri,3
 5287,symptoms brain neurologist mri ms,5
@@ -5701,7 +5701,7 @@
 5700,cold,1
 5701,wisdom,1
 5702,resilient changes lifestyle liver,4
-5703,units taking d vitamin,4
+5703,units taking vitamin,3
 5704,bleeding,1
 5705,teeth filled wisdom,3
 5706,,0
@@ -5709,7 +5709,7 @@
 5708,tobi,1
 5709,,0
 5710,doc pid chlamydia know,4
-5711,chemotherapy breast d cancer vitamin,5
+5711,chemotherapy breast cancer vitamin,4
 5712,allergies ent nasal,3
 5713,alcohol,1
 5714,,0
@@ -5752,7 +5752,7 @@
 5751,molar dry pain socket normal infection extraction signs still,9
 5752,wait swollen,2
 5753,ankle checked,2
-5754,tests d positive c 5 test got,7
+5754,tests positive c 5 test got,6
 5755,shoulder also left massage tingling,5
 5756,methotrexate ra,2
 5757,psoriasis arthritis,2
@@ -5984,7 +5984,7 @@
 5983,brain head fatigue trauma headaches,5
 5984,throat cause back,3
 5985,best,1
-5986,d embolism clot test pulmonary dimer,6
+5986,clot test pulmonary dimer embolism,5
 5987,thyroid hashimotos,2
 5988,pregnant negative test contact 5 hcg 6 nothing weeks ultrasound,10
 5989,x ray,2
@@ -6026,7 +6026,7 @@
 6025,pain,1
 6026,mri ms something,3
 6027,always liver cancer cirrhosis,4
-6028,dimer dvt d rule,4
+6028,dvt dimer rule,3
 6029,havent warts,2
 6030,symptoms hernias hiatal,3
 6031,scan,1
@@ -6354,7 +6354,7 @@
 6353,removed teeth normal,3
 6354,x chest detect lung echo,5
 6355,see,1
-6356,high irritability ear amoxil fever,5
+6356,irritability high ear fever amoxil,5
 6357,cancer,1
 6358,asthma gerd,2
 6359,doesnt macrobid kidney,3
@@ -6398,7 +6398,7 @@
 6397,work,1
 6398,ankle hematoma surgery acl,4
 6399,clots ibs diarrhea bloody,4
-6400,seafood fish milk d vitamin,5
+6400,fish milk seafood vitamin,4
 6401,infected tooth,2
 6402,iui test period pregnancy blood,5
 6403,2 leg,2
@@ -7146,7 +7146,7 @@
 7145,root valerian xanax,3
 7146,started away couple,3
 7147,week hcg,2
-7148,high irritability ear amoxil fever,5
+7148,irritability high ear fever amoxil,5
 7149,,0
 7150,could,1
 7151,wall bridge mesh hernia,4
@@ -7303,7 +7303,7 @@
 7302,,0
 7303,pain groin,2
 7304,,0
-7305,14 tsh level vitamin ferritin levels palpitations low fatigue d,10
+7305,14 tsh level vitamin ferritin levels palpitations low fatigue,9
 7306,cramps,1
 7307,mg,1
 7308,pain,1
@@ -7433,7 +7433,7 @@
 7432,follow,1
 7433,toe,1
 7434,black melanoma mole,3
-7435,dvt d dimer,3
+7435,dvt dimer,2
 7436,,0
 7437,trait rbc wbc low,4
 7438,thyroid nodule breast cancer,4
@@ -7689,7 +7689,7 @@
 7688,throat infection tooth,3
 7689,,0
 7690,heart see pressure attack still dr,6
-7691,try d,2
+7691,try,1
 7692,,0
 7693,,0
 7694,herpes,1
@@ -8150,7 +8150,7 @@
 8149,call,1
 8150,sleep cetirizine take benadryl,4
 8151,alcohol,1
-8152,re fever eval contagious,4
+8152,fever eval contagious,3
 8153,vitamin,1
 8154,biting cheek well,3
 8155,mg syndrome together 60 buspar duloxetine take,7
@@ -8566,7 +8566,7 @@
 8565,hiv,1
 8566,node biopsy lymph,3
 8567,breathing difficulty tori remove large swallowing,6
-8568,ultrasound d dimer,3
+8568,ultrasound dimer,2
 8569,cancer pet colon mammo worry ct,6
 8570,nasal congestion,2
 8571,inanimate,1
@@ -8914,7 +8914,7 @@
 8913,concussion headache tired,3
 8914,status nodal true,3
 8915,teeth normal,2
-8916,r o,2
+8916,r,1
 8917,instability acl,2
 8918,,0
 8919,mri findings,2
@@ -8990,7 +8990,7 @@
 8989,swelling permanent wrinkles,3
 8990,lymph swollen,2
 8991,could tooth,2
-8992,re fever eval contagious,4
+8992,fever eval contagious,3
 8993,pain,1
 8994,dentist biopsy,2
 8995,,0
@@ -9041,7 +9041,7 @@
 9040,,0
 9041,wisdom normal,2
 9042,supplements liver recommend,3
-9043,deficiency taking vitamin d neuropathy,5
+9043,deficiency taking vitamin neuropathy,4
 9044,bleeding,1
 9045,teeth wisdom,2
 9046,,0
@@ -9049,7 +9049,7 @@
 9048,,0
 9049,tooth wisdom,2
 9050,std get,2
-9051,chemotherapy breast d cancer vitamin,5
+9051,chemotherapy breast cancer vitamin,4
 9052,allergies,1
 9053,symptoms alcohol drunk,3
 9054,,0
@@ -9092,7 +9092,7 @@
 9091,pain infection extraction still bone graft,6
 9092,wisdom pain tooth,3
 9093,ankle still get,3
-9094,c d,2
+9094,c,1
 9095,,0
 9096,methotrexate ra,2
 9097,psoriasis arthritis psoriatic,3
@@ -9324,7 +9324,7 @@
 9323,,0
 9324,,0
 9325,best,1
-9326,clot d dimer blood,4
+9326,clot blood dimer,3
 9327,hashimotos dermatologists,2
 9328,sure,1
 9329,small nodule lung cancer,4
@@ -9738,7 +9738,7 @@
 9737,spread arm hand,3
 9738,,0
 9739,diarrhea bloody,2
-9740,seafood milk d vitamin,4
+9740,seafood vitamin milk,3
 9741,tooth,1
 9742,iui pregnant pregnancy 2 test weeks,6
 9743,stripping stocking,2
@@ -9751,7 +9751,7 @@
 9750,fibroids cause blood,3
 9751,,0
 9752,thyroid heterogeneous,2
-9753,cardiologist d vitamin,3
+9753,cardiologist vitamin,2
 9754,surgeon neuro,2
 9755,elevation,1
 9756,esophagus eat,2
@@ -10051,1862 +10051,1242 @@
 10050,knee,1
 10051,go knee,2
 10052,,0
-10053,surgery,1
-10054,,0
-10055,,0
-10056,swelling surgery,2
-10057,,0
-10058,surgery,1
+10053,chest pain causes left,4
+10054,chest pain causes left,4
+10055,chest pain,2
+10056,,0
+10057,heartburn pain chest,3
+10058,chest,1
 10059,,0
-10060,knee surgery,2
-10061,surgery,1
-10062,go knee,2
-10063,surgery,1
-10064,knee replacement,2
-10065,right,1
-10066,,0
-10067,,0
+10060,,0
+10061,pain,1
+10062,chest pain,2
+10063,,0
+10064,,0
+10065,,0
+10066,chest pain,2
+10067,chest pain,2
 10068,,0
-10069,,0
-10070,also,1
-10071,last days,2
-10072,away days,2
-10073,also needles burning numbness,4
-10074,,0
-10075,numbness,1
-10076,arm,1
-10077,,0
-10078,also numbness,2
+10069,chest pain left,3
+10070,heartburn pain chest causes left,5
+10071,chest pain,2
+10072,chest pain,2
+10073,,0
+10074,chest pain,2
+10075,,0
+10076,chest pain causes,3
+10077,throat pain,2
+10078,flu shot,2
 10079,,0
-10080,numbness,1
-10081,,0
-10082,arm,1
+10080,flu,1
+10081,throat,1
+10082,cough,1
 10083,,0
 10084,,0
-10085,numbness,1
-10086,,0
-10087,also right days,3
+10085,,0
+10086,flu,1
+10087,,0
 10088,,0
-10089,,0
-10090,,0
-10091,,0
-10092,,0
-10093,numbness,1
-10094,,0
-10095,,0
-10096,burning,1
-10097,right,1
-10098,,0
+10089,cough flu,2
+10090,cough flu,2
+10091,throat,1
+10092,throat sore headache,3
+10093,flu,1
+10094,flu,1
+10095,cough lungs,2
+10096,,0
+10097,,0
+10098,headache,1
 10099,,0
-10100,,0
+10100,throat cough,2
 10101,,0
 10102,,0
 10103,,0
 10104,,0
 10105,,0
-10106,,0
-10107,,0
+10106,chronic problems,2
+10107,dizziness,1
 10108,,0
 10109,,0
 10110,,0
-10111,pressure blood,2
+10111,dizziness,1
 10112,,0
-10113,,0
+10113,diarrhea,1
 10114,,0
 10115,,0
 10116,,0
 10117,,0
-10118,,0
+10118,diarrhea problems,2
 10119,,0
-10120,pressure blood,2
-10121,pressure blood,2
-10122,,0
+10120,,0
+10121,swollen,1
+10122,fatigue extreme,2
 10123,,0
 10124,,0
-10125,,0
-10126,,0
+10125,headaches teeth wisdom,3
+10126,headaches,1
 10127,,0
-10128,pressure blood,2
-10129,,0
-10130,blood,1
+10128,,0
+10129,head,1
+10130,,0
 10131,,0
 10132,,0
-10133,,0
+10133,headaches teeth wisdom,3
 10134,,0
-10135,pressure,1
-10136,,0
-10137,,0
-10138,,0
+10135,head around headaches,3
+10136,head,1
+10137,head,1
+10138,headaches,1
 10139,,0
 10140,,0
 10141,,0
-10142,white like,2
-10143,,0
+10142,,0
+10143,severe,1
 10144,,0
-10145,throat,1
-10146,throat,1
-10147,,0
-10148,,0
-10149,,0
-10150,throat tonsillitis,2
-10151,,0
+10145,,0
+10146,wisdom,1
+10147,teeth wisdom,2
+10148,headaches,1
+10149,headaches,1
+10150,,0
+10151,head,1
 10152,,0
-10153,,0
+10153,tear knee pain,3
 10154,,0
 10155,,0
-10156,throat,1
-10157,throat,1
-10158,white,1
-10159,throat,1
-10160,,0
-10161,throat,1
-10162,,0
-10163,trouble,1
+10156,tear pop,2
+10157,,0
+10158,knee pain leg,3
+10159,knee,1
+10160,days,1
+10161,,0
+10162,leg,1
+10163,knee,1
 10164,,0
 10165,,0
-10166,red,1
+10166,pain,1
 10167,,0
-10168,,0
+10168,knee pain,2
 10169,,0
-10170,,0
+10170,tear knee behind pain leg,5
 10171,,0
-10172,throat like,2
-10173,,0
+10172,foot,1
+10173,foot,1
 10174,,0
-10175,,0
-10176,,0
-10177,throat,1
-10178,299 testosterone low,3
-10179,anxiety,1
-10180,anxiety,1
-10181,,0
+10175,knee leg,2
+10176,knee,1
+10177,knee pain leg,3
+10178,behind,1
+10179,pain pop,2
+10180,pain spider,2
+10181,ankle foot,2
 10182,,0
-10183,anxiety,1
-10184,feel anxiety,2
+10183,,0
+10184,,0
 10185,,0
-10186,low,1
-10187,anxiety sleep,2
-10188,anxiety,1
-10189,anxiety,1
-10190,male testosterone low,3
-10191,sleep low testosterone,3
-10192,dizzy,1
+10186,foot,1
+10187,swollen,1
+10188,pain,1
+10189,pain,1
+10190,,0
+10191,,0
+10192,pain,1
 10193,,0
-10194,issues related,2
-10195,anxiety,1
-10196,anxiety,1
+10194,,0
+10195,bite spider,2
+10196,,0
 10197,,0
 10198,,0
-10199,anxiety,1
-10200,sleep,1
-10201,sleep years,2
-10202,anxiety,1
-10203,anxiety,1
-10204,anxiety sleep,2
+10199,,0
+10200,,0
+10201,,0
+10202,ankle,1
+10203,pain,1
+10204,,0
 10205,,0
-10206,feel anxiety,2
-10207,anxiety,1
-10208,sleep testosterone,2
-10209,sleep testosterone low,3
+10206,,0
+10207,,0
+10208,chest feeling pain,3
+10209,,0
 10210,,0
-10211,anxiety,1
-10212,testosterone,1
+10211,heart,1
+10212,heart chest pain,3
 10213,,0
-10214,,0
-10215,anxiety sleep,2
-10216,,0
-10217,sleep,1
-10218,,0
-10219,spotting,1
-10220,period,1
-10221,spotting,1
-10222,pain period,2
-10223,sex days period,3
-10224,,0
-10225,late period ovulation,3
-10226,spotting,1
+10214,chest,1
+10215,heart pain,2
+10216,heart,1
+10217,feeling light chest dizzy headed,5
+10218,heart chest dizzy pain,4
+10219,pain,1
+10220,heart chest pain,3
+10221,heart,1
+10222,heart,1
+10223,,0
+10224,chest pain year,3
+10225,heart chest pain,3
+10226,,0
 10227,,0
-10228,period,1
-10229,spotting,1
-10230,late days day period,4
+10228,heart,1
+10229,heart,1
+10230,heart,1
 10231,,0
-10232,pain,1
-10233,late,1
-10234,late period,2
-10235,,0
-10236,period sex,2
-10237,period hpt,2
-10238,period,1
-10239,spotting,1
-10240,,0
-10241,days,1
-10242,,0
-10243,,0
+10232,heart dizzy,2
+10233,heart pain,2
+10234,year,1
+10235,week unprotected morning pill pregnant,5
+10236,,0
+10237,,0
+10238,breast,1
+10239,period day,2
+10240,unprotected sex,2
+10241,week pregnant soon period sex,5
+10242,unprotected pill sex,3
+10243,unprotected pill day sex,4
 10244,,0
-10245,late period,2
-10246,period,1
-10247,days ovulation period,3
-10248,days period,2
-10249,late period,2
-10250,late spotting days period,4
-10251,days,1
-10252,late hpt period sex,4
-10253,sex,1
-10254,help sleeve swelling decompression ulnar compression,6
-10255,release medial would,3
-10256,swelling compression,2
-10257,nerve,1
-10258,would,1
-10259,,0
-10260,,0
-10261,,0
-10262,nerve would,2
-10263,,0
-10264,would,1
-10265,,0
-10266,,0
-10267,,0
-10268,would,1
-10269,,0
-10270,would,1
-10271,,0
-10272,,0
-10273,,0
+10245,could unprotected pregnant period took,5
+10246,boyfriend sex,2
+10247,,0
+10248,could unprotected soon sex,4
+10249,pregnant,1
+10250,unprotected,1
+10251,week pregnant,2
+10252,week period,2
+10253,period pregnant,2
+10254,week period sex,3
+10255,,0
+10256,9 sore throat days doctor,5
+10257,throat sore,2
+10258,throat sore days,3
+10259,test throat,2
+10260,throat sore days,3
+10261,throat mono,2
+10262,throat wrong doctor,3
+10263,better days doctor,3
+10264,,0
+10265,better throat doctor,3
+10266,mono,1
+10267,blood doctor,2
+10268,blood,1
+10269,throat mono doctor,3
+10270,throat days,2
+10271,blood,1
+10272,blood,1
+10273,throat,1
 10274,,0
 10275,,0
-10276,,0
+10276,better sore throat doctor,4
 10277,,0
 10278,,0
-10279,nerve,1
-10280,tight sleeve,2
-10281,nerve,1
-10282,would,1
-10283,,0
+10279,,0
+10280,,0
+10281,throat doctor,2
+10282,sore,1
+10283,area,1
 10284,,0
-10285,,0
+10285,bumps,1
 10286,,0
-10287,,0
+10287,bumps,1
 10288,,0
-10289,swelling,1
+10289,,0
 10290,,0
-10291,compression,1
-10292,tylenol advil took,3
-10293,advil take,2
+10291,bumps labia,2
+10292,genital,1
+10293,,0
 10294,,0
-10295,,0
+10295,vagina area,2
 10296,,0
-10297,advil 2,2
-10298,advil take two,3
-10299,,0
-10300,tylenol advils,2
-10301,5,1
+10297,,0
+10298,sexually,1
+10299,bumps area,2
+10300,,0
+10301,,0
 10302,,0
-10303,take,1
-10304,2 5 one,3
-10305,advil,1
-10306,tylenol,1
-10307,advil,1
-10308,tylenol 2,2
-10309,tylenol advil,2
-10310,advil 2 one,3
-10311,,0
-10312,tylenol 2,2
-10313,tylenol strength 5 around one,5
-10314,take wine,2
-10315,,0
-10316,tylenol take one,3
-10317,take,1
-10318,,0
-10319,,0
-10320,tylenol,1
-10321,,0
-10322,,0
+10303,,0
+10304,,0
+10305,,0
+10306,labia,1
+10307,bumps,1
+10308,genital bumps,2
+10309,,0
+10310,pregnancy discharge milky breasts sign,5
+10311,pregnancy discharge period,3
+10312,pregnancy,1
+10313,pregnancy days,2
+10314,pregnancy,1
+10315,period,1
+10316,pregnancy,1
+10317,,0
+10318,pregnancy period,2
+10319,pregnancy breasts period,3
+10320,pregnancy,1
+10321,pregnancy discharge white milky,4
+10322,pregnancy,1
 10323,,0
-10324,,0
-10325,,0
-10326,tylenol take two,3
-10327,sore breasts hungry blood tired,5
-10328,period,1
-10329,days period,2
-10330,,0
-10331,,0
-10332,,0
-10333,blood,1
-10334,period,1
-10335,,0
-10336,period,1
-10337,,0
+10324,period,1
+10325,pregnancy,1
+10326,sore breasts period,3
+10327,pregnancy period days,3
+10328,pregnancy,1
+10329,discharge,1
+10330,pregnancy,1
+10331,soreness pregnancy period breasts sign,5
+10332,pregnancy period sign,3
+10333,well pain neck arm,4
+10334,pain arm,2
+10335,arm,1
+10336,,0
+10337,pain,1
 10338,,0
-10339,sore,1
-10340,spotting time,2
-10341,period,1
-10342,period,1
-10343,period blood,2
-10344,period,1
-10345,time period days,3
-10346,blood time,2
-10347,time period days,3
-10348,month,1
-10349,days,1
-10350,period time,2
-10351,time,1
-10352,due period days,3
-10353,period,1
-10354,period blood,2
-10355,time days blood month,4
-10356,period blood,2
+10339,,0
+10340,please help,2
+10341,pain neck arm,3
+10342,,0
+10343,,0
+10344,,0
+10345,,0
+10346,neck arm,2
+10347,please,1
+10348,,0
+10349,,0
+10350,pain,1
+10351,sore,1
+10352,pain,1
+10353,pain,1
+10354,tissue connective,2
+10355,,0
+10356,,0
 10357,,0
-10358,little,1
+10358,,0
 10359,,0
 10360,,0
-10361,charcoal gas grills,3
-10362,cant,1
+10361,leg,1
+10362,knee,1
 10363,,0
 10364,,0
-10365,causes,1
-10366,,0
-10367,,0
-10368,causes,1
-10369,,0
+10365,,0
+10366,knee,1
+10367,leg,1
+10368,,0
+10369,knee,1
 10370,,0
-10371,get,1
-10372,,0
-10373,,0
+10371,knee,1
+10372,stairs,1
+10373,overweight,1
 10374,,0
 10375,,0
-10376,dizzy,1
+10376,knee,1
 10377,,0
-10378,causes,1
-10379,several,1
-10380,,0
-10381,,0
+10378,,0
+10379,,0
+10380,head,1
+10381,right eye side headache,4
 10382,,0
-10383,,0
-10384,,0
-10385,,0
-10386,eyes several,2
+10383,neck headache,2
+10384,neck,1
+10385,head pain neck headache,4
+10386,,0
 10387,,0
 10388,,0
-10389,,0
-10390,causes headaches,2
+10389,pain,1
+10390,head pain side headache,4
 10391,,0
-10392,,0
-10393,,0
+10392,nasal right pain,3
+10393,nasal right pain,3
 10394,,0
-10395,,0
-10396,,0
-10397,,0
-10398,,0
-10399,days,1
-10400,,0
-10401,,0
+10395,jaw head pain neck side,5
+10396,pain,1
+10397,eye pain,2
+10398,headache,1
+10399,,0
+10400,pain,1
+10401,jaw pain,2
 10402,,0
-10403,dont,1
-10404,see hcg level,3
-10405,days,1
-10406,level,1
-10407,doctor dont normal,3
-10408,,0
-10409,,0
-10410,see,1
-10411,see doctor,2
-10412,,0
-10413,see,1
-10414,uterus,1
-10415,see,1
+10403,,0
+10404,,0
+10405,nasal head right eye neck,5
+10406,,0
+10407,cysts history pain ovarian nausea,5
+10408,pain abdominal nausea,3
+10409,head bad,2
+10410,history,1
+10411,cysts ovarian,2
+10412,cysts pain ovarian back,4
+10413,ovarian,1
+10414,,0
+10415,,0
 10416,,0
-10417,see doctor,2
-10418,uterus later hcg level,4
-10419,see doctor,2
-10420,tube,1
-10421,normal,1
-10422,dont,1
-10423,normal,1
-10424,see,1
-10425,uterus normal,2
-10426,uterus baby,2
-10427,normal,1
-10428,baby,1
-10429,see doctor,2
-10430,see,1
-10431,see doctor,2
-10432,see normal,2
-10433,heart,1
-10434,heart pain normal,3
-10435,breath heart shortness pain,4
-10436,pain,1
-10437,,0
-10438,normal,1
-10439,,0
-10440,heart,1
-10441,normal,1
-10442,breath 3 pain shortness,4
+10417,,0
+10418,pain back,2
+10419,,0
+10420,,0
+10421,abdominal,1
+10422,cysts history pain back ovarian,5
+10423,dizziness,1
+10424,,0
+10425,pain worse,2
+10426,sharp bad pains,3
+10427,,0
+10428,abdominal pains history,3
+10429,week weeks,2
+10430,,0
+10431,,0
+10432,uti,1
+10433,uti,1
+10434,std,1
+10435,,0
+10436,,0
+10437,std,1
+10438,uti,1
+10439,uti,1
+10440,std could,2
+10441,std,1
+10442,uti,1
 10443,,0
 10444,,0
-10445,,0
-10446,breath heart shortness,3
-10447,,0
-10448,stress still,2
-10449,stress still,2
-10450,normal,1
-10451,heart,1
-10452,pain,1
-10453,seen stress,2
-10454,2,1
-10455,breath shortness,2
-10456,breath heart shortness,3
-10457,heart stress,2
-10458,,0
-10459,breath,1
-10460,stress normal,2
-10461,,0
-10462,pain,1
-10463,,0
-10464,breath shortness,2
+10445,uti,1
+10446,could,1
+10447,std,1
+10448,std,1
+10449,std,1
+10450,std,1
+10451,std,1
+10452,,0
+10453,could,1
+10454,could,1
+10455,,0
+10456,,0
+10457,std uti,2
+10458,pressure dizziness low blood,4
+10459,pressure blood,2
+10460,pressure dizziness low blood,4
+10461,pressure low blood,3
+10462,,0
+10463,dizziness,1
+10464,,0
 10465,,0
-10466,2,1
-10467,,0
-10468,normal,1
-10469,,0
-10470,,0
+10466,pressure dizziness low blood,4
+10467,pressure low blood,3
+10468,,0
+10469,pressure blood,2
+10470,dizziness,1
 10471,,0
-10472,heart,1
-10473,breath heart shortness,3
-10474,,0
-10475,,0
-10476,sleep,1
-10477,sleep,1
-10478,sleep ativan,2
-10479,sleep help ativan,3
-10480,sleep,1
-10481,sleep,1
-10482,sleep take,2
-10483,take,1
-10484,xanax,1
-10485,take ativan xanax,3
+10472,dizziness,1
+10473,pressure blood numbness,3
+10474,low blood,2
+10475,pressure dizziness blood,3
+10476,,0
+10477,,0
+10478,pressure,1
+10479,numbness,1
+10480,blood,1
+10481,,0
+10482,,0
+10483,seizures avoid withdrawal taking xanax,5
+10484,hours withdrawal,2
+10485,seizures withdrawal,2
 10486,,0
-10487,take sleep help xanax,4
-10488,,0
-10489,,0
-10490,,0
-10491,xanax,1
+10487,withdrawal,1
+10488,seizures xanax,2
+10489,seizures avoid taking withdrawal,4
+10490,xanax,1
+10491,taking years,2
 10492,xanax,1
-10493,sleep,1
+10493,seizures,1
 10494,,0
-10495,sleep take 1mg xanax,4
-10496,sleep help,2
+10495,,0
+10496,seizures,1
 10497,,0
-10498,help,1
+10498,bad,1
 10499,,0
-10500,,0
-10501,,0
-10502,could,1
-10503,,0
-10504,sleep,1
+10500,taking,1
+10501,xanax,1
+10502,start could,2
+10503,seizures,1
+10504,,0
 10505,,0
-10506,help,1
-10507,take,1
-10508,,0
-10509,,0
-10510,,0
-10511,could,1
-10512,,0
-10513,fordyce sti,2
-10514,possible,1
-10515,,0
-10516,itchy like,2
-10517,bumps possible,2
+10506,seizures,1
+10507,,0
+10508,could,1
+10509,baby b12 iron mom folate,5
+10510,folate,1
+10511,pregnancy vitamin,2
+10512,b12 vitamin iron,3
+10513,pregnancy,1
+10514,pregnancy folate,2
+10515,b12 folate,2
+10516,b12 iron,2
+10517,baby pregnancy help iron vitamin,5
 10518,,0
-10519,,0
-10520,like,1
-10521,,0
-10522,,0
-10523,,0
-10524,,0
-10525,sti,1
-10526,,0
-10527,,0
-10528,vagina possible,2
-10529,like,1
-10530,look,1
-10531,like,1
-10532,,0
-10533,like,1
-10534,possible,1
-10535,penis,1
-10536,,0
+10519,b12 help,2
+10520,pregnancy folate,2
+10521,b12 folate,2
+10522,b12 folate,2
+10523,b12 vitamin folate,3
+10524,vitamin,1
+10525,b12 vitamin iron,3
+10526,vitamin,1
+10527,b12 vitamin,2
+10528,,0
+10529,b12,1
+10530,b12,1
+10531,b12 iron folate,3
+10532,pregnancy,1
+10533,folate,1
+10534,b12,1
+10535,,0
+10536,depression,1
 10537,,0
 10538,,0
-10539,possible,1
-10540,possible,1
-10541,bumps,1
-10542,penis,1
+10539,,0
+10540,im,1
+10541,depression,1
+10542,dose,1
 10543,,0
-10544,like,1
+10544,gad,1
 10545,,0
-10546,,0
-10547,penis,1
-10548,look possible,2
-10549,,0
-10550,like,1
-10551,saline,1
-10552,saline,1
-10553,saline spray nasal nose,4
-10554,,0
-10555,throat ear nasal nose,4
-10556,spray nose,2
+10546,zoloft,1
+10547,day,1
+10548,depression,1
+10549,depressed,1
+10550,,0
+10551,,0
+10552,,0
+10553,,0
+10554,zoloft buspar,2
+10555,,0
+10556,depression,1
 10557,,0
-10558,coughing,1
-10559,,0
-10560,throat saline spray nasal dr,5
-10561,,0
+10558,depression,1
+10559,zoloft dose,2
+10560,away uti burning azo,4
+10561,pressure uti burning,3
 10562,,0
-10563,throat saline nose,3
-10564,nose,1
-10565,spray nasal,2
-10566,throat,1
-10567,saline spray nasal,3
-10568,,0
-10569,days,1
-10570,,0
-10571,coughing night,2
+10563,,0
+10564,uti,1
+10565,uti azo,2
+10566,symptoms pressure uti bladder,4
+10567,burning,1
+10568,bladder,1
+10569,water symptoms,2
+10570,water lots uti bladder,4
+10571,,0
 10572,,0
-10573,,0
-10574,,0
-10575,,0
-10576,bleeding finally days,3
-10577,finally,1
-10578,,0
-10579,,0
-10580,,0
-10581,throat,1
-10582,,0
-10583,,0
-10584,throat,1
-10585,,0
-10586,throat nose,2
-10587,ear,1
-10588,infection yeast,2
-10589,cured yeast,2
+10573,symptoms uti bladder,3
+10574,symptoms uti,2
+10575,uti,1
+10576,symptoms,1
+10577,uti,1
+10578,uti,1
+10579,uti,1
+10580,uti took burning,3
+10581,symptoms bladder burning,3
+10582,symptoms uti,2
+10583,ago scan years tumor brain 2 ct,7
+10584,,0
+10585,tumor brain headaches,3
+10586,tumor ct im headaches,4
+10587,ct years,2
+10588,,0
+10589,ago brain 2 tumor years,5
 10590,,0
-10591,infection yeast,2
-10592,treatment yeast,2
-10593,yeast,1
-10594,treatment yeast,2
-10595,infection yeast,2
-10596,yeast,1
-10597,,0
-10598,vagina treatment yeast,3
-10599,infection yeast,2
-10600,treatment infection yeast,3
-10601,yeast,1
-10602,infection yeast,2
-10603,,0
-10604,yeast,1
-10605,infection yeast,2
-10606,,0
-10607,,0
-10608,yeast,1
-10609,infection yeast,2
-10610,vagina,1
+10591,,0
+10592,tumor brain ct,3
+10593,tumor brain ct,3
+10594,need ct,2
+10595,,0
+10596,tumor scan,2
+10597,tumor brain ct,3
+10598,,0
+10599,need brain ct scan,4
+10600,tumor brain ct,3
+10601,tumor ct scan,3
+10602,brain ct scan,3
+10603,headaches,1
+10604,headaches,1
+10605,ct,1
+10606,ago brain ct tumor years,5
+10607,tumor ct,2
+10608,tumor brain headaches years,4
+10609,tumor im,2
+10610,need,1
 10611,,0
-10612,yeast,1
-10613,infection yeast,2
+10612,corticosteroids,1
+10613,first,1
 10614,,0
-10615,days,1
+10615,,0
 10616,,0
 10617,,0
 10618,,0
-10619,treatment,1
-10620,infection,1
-10621,infection yeast,2
-10622,treatment yeast,2
+10619,,0
+10620,,0
+10621,,0
+10622,,0
 10623,,0
-10624,discharge,1
-10625,,0
-10626,one days time,3
-10627,discharge sexually,2
+10624,first,1
+10625,first,1
+10626,give,1
+10627,,0
 10628,,0
-10629,discharge sexually,2
+10629,,0
 10630,,0
-10631,active sexually,2
+10631,,0
 10632,,0
-10633,discharge,1
-10634,,0
-10635,discharge,1
+10633,,0
+10634,give,1
+10635,,0
 10636,,0
 10637,,0
 10638,,0
-10639,,0
-10640,discharge one,2
+10639,could,1
+10640,,0
 10641,,0
-10642,,0
-10643,one,1
+10642,swelling,1
+10643,swelling could,2
 10644,,0
-10645,,0
-10646,,0
+10645,could,1
+10646,swelling legs swollen,3
 10647,,0
-10648,one sexually time,3
+10648,,0
 10649,,0
 10650,,0
 10651,,0
-10652,,0
+10652,swelling swollen,2
 10653,,0
 10654,,0
-10655,,0
-10656,discharge,1
-10657,discharge,1
-10658,itchy,1
-10659,one,1
+10655,swelling,1
+10656,,0
+10657,legs,1
+10658,could legs,2
+10659,swollen,1
 10660,,0
 10661,,0
-10662,ventricle chest right,3
+10662,could,1
 10663,,0
-10664,heart,1
-10665,test,1
-10666,beat heart chest,3
-10667,heart chest,2
-10668,xray heart stress test chest,5
+10664,could,1
+10665,,0
+10666,could,1
+10667,,0
+10668,itchy bumps thighs inner,4
 10669,,0
-10670,xray test stress,3
-10671,xray test stress,3
+10670,,0
+10671,,0
 10672,,0
-10673,sob next,2
+10673,bumps itchy really,3
 10674,,0
 10675,,0
-10676,chest,1
-10677,heart chest,2
-10678,heart right oxygen,3
-10679,heart right,2
-10680,heart right,2
-10681,,0
+10676,,0
+10677,,0
+10678,,0
+10679,,0
+10680,bumps,1
+10681,sexual activity,2
 10682,,0
 10683,,0
 10684,,0
-10685,heart chest,2
-10686,heart sob,2
-10687,heart,1
-10688,,0
-10689,heart chest right next,4
-10690,damage,1
+10685,,0
+10686,,0
+10687,,0
+10688,itchy,1
+10689,watery eyes twitching redness,4
+10690,,0
 10691,,0
-10692,chest,1
-10693,test heart stress,3
+10692,,0
+10693,watery eyes,2
 10694,,0
-10695,heart,1
-10696,heart right,2
-10697,heart,1
-10698,heart,1
+10695,redness,1
+10696,,0
+10697,,0
+10698,,0
 10699,,0
-10700,heart,1
-10701,test heart stress,3
-10702,test stress chest,3
-10703,test heart stress ok,4
-10704,test stress,2
+10700,,0
+10701,,0
+10702,,0
+10703,,0
+10704,,0
 10705,,0
-10706,stress,1
-10707,heart right,2
+10706,,0
+10707,,0
 10708,,0
-10709,breath shortness,2
-10710,pft normal,2
+10709,,0
+10710,also,1
 10711,,0
 10712,,0
-10713,test,1
-10714,normal,1
-10715,breath shortness,2
-10716,normal,1
-10717,like,1
+10713,left,1
+10714,tumor poking eye,3
+10715,tumor brain help headaches,4
+10716,tumor brain,2
+10717,tumor brain,2
 10718,,0
-10719,xray breath shortness,3
-10720,,0
-10721,,0
-10722,blood normal,2
-10723,breath shortness,2
-10724,test,1
-10725,test,1
-10726,,0
-10727,,0
-10728,like,1
-10729,normal,1
-10730,,0
-10731,,0
-10732,like,1
-10733,,0
+10719,,0
+10720,tumor brain headaches,3
+10721,tumor help headaches,3
+10722,headaches,1
+10723,headaches,1
+10724,help,1
+10725,,0
+10726,deficiency,1
+10727,vit headaches,2
+10728,eye,1
+10729,brain,1
+10730,tumor brain female,3
+10731,tumor eye,2
+10732,,0
+10733,brain headaches,2
 10734,,0
 10735,,0
-10736,,0
-10737,test normal,2
-10738,normal,1
-10739,,0
-10740,mild,1
-10741,breath shortness,2
-10742,ct,1
-10743,brain likely,2
-10744,brain likely left foot ct 2011 headaches,7
-10745,brain clear 2011 ct,4
-10746,likely ct,2
-10747,foot brain ct,3
-10748,brain likely ct,3
-10749,foot,1
+10736,weeks,1
+10737,tumor,1
+10738,constipation bloating,2
+10739,could help,2
+10740,,0
+10741,could,1
+10742,,0
+10743,could gas bloating,3
+10744,,0
+10745,gas constipation,2
+10746,,0
+10747,,0
+10748,could,1
+10749,,0
 10750,,0
-10751,,0
-10752,,0
-10753,likely headaches,2
-10754,headaches,1
-10755,daily headaches,2
-10756,brain likely,2
-10757,brain likely,2
-10758,brain headaches,2
-10759,headaches,1
-10760,brain likely,2
-10761,brain likely headaches,3
+10751,gas constipation,2
+10752,gas constipation bloating,3
+10753,,0
+10754,could,1
+10755,gas,1
+10756,,0
+10757,,0
+10758,,0
+10759,could,1
+10760,,0
+10761,,0
 10762,,0
-10763,likely,1
+10763,heal ppis gastritis,3
 10764,,0
-10765,,0
-10766,headaches,1
-10767,,0
-10768,likely ct,2
-10769,brain ct,2
-10770,likely left,2
-10771,,0
-10772,ct,1
-10773,,0
-10774,likely,1
-10775,,0
-10776,headaches,1
-10777,headaches,1
-10778,,0
-10779,brain ct,2
-10780,foot leg,2
-10781,foot likely leg,3
-10782,likely,1
-10783,,0
-10784,control birth,2
-10785,control tests negative period birth pregnancy,6
-10786,pregnancy tests missed period,4
-10787,control ejaculate birth,3
-10788,control tests missed period negative birth pregnancy,7
-10789,control missed birth period,4
-10790,missed ejaculate period sex unprotected pregnancy,6
-10791,control birth,2
-10792,control birth,2
-10793,control unprotected birth,3
-10794,,0
-10795,pregnancy period sex,3
-10796,control tests birth,3
-10797,period,1
-10798,pregnancy sex,2
-10799,pregnancy period,2
-10800,pregnancy tests negative,3
-10801,pregnancy negative,2
+10765,stool,1
+10766,cause,1
+10767,tests normal,2
+10768,,0
+10769,cause hiv,2
+10770,blood,1
+10771,normal scan,2
+10772,cause,1
+10773,normal,1
+10774,could stool mild blood colonoscopy cause,6
+10775,blood hiv,2
+10776,blood hiv,2
+10777,tests cause,2
+10778,cause,1
+10779,,0
+10780,could cause gastritis,3
+10781,hiv,1
+10782,upper cause normal,3
+10783,scan,1
+10784,colonoscopy normal,2
+10785,hiv,1
+10786,hiv,1
+10787,,0
+10788,,0
+10789,magnesium,1
+10790,plus taking seroquel night,4
+10791,taking morning zoloft night,4
+10792,zoloft time,2
+10793,,0
+10794,taking time,2
+10795,,0
+10796,,0
+10797,time,1
+10798,seroquel take,2
+10799,seroquel,1
+10800,vitamins,1
+10801,magnesium,1
 10802,,0
-10803,pregnancy period,2
-10804,period,1
-10805,pregnancy,1
-10806,pregnancy tests negative period,4
-10807,pregnancy,1
-10808,control pregnancy unprotected birth sex,5
-10809,pregnancy,1
-10810,control birth,2
-10811,pregnancy sex period negative month,5
-10812,unprotected sex,2
-10813,pregnancy sex negative period,4
-10814,pregnancy missed period,3
-10815,control pregnancy stop missed birth,5
-10816,period,1
-10817,symptoms brain worse,3
-10818,brain head,2
-10819,pressure head doesnt brain,4
-10820,brain,1
-10821,symptoms tumor brain get,4
-10822,symptoms tumor head brain,4
-10823,symptoms,1
+10803,b12 vitamins,2
+10804,b12 vitamins take,3
+10805,b12,1
+10806,b12,1
+10807,,0
+10808,take,1
+10809,morning,1
+10810,taking time,2
+10811,taking vitamins,2
+10812,morning night,2
+10813,take time,2
+10814,,0
+10815,,0
+10816,pain headache,2
+10817,pain headache,2
+10818,,0
+10819,,0
+10820,normal,1
+10821,,0
+10822,severe headache,2
+10823,,0
 10824,,0
 10825,,0
-10826,,0
-10827,,0
+10826,eyes,1
+10827,headache,1
 10828,,0
-10829,brain,1
-10830,head,1
-10831,brain,1
-10832,symptoms,1
+10829,,0
+10830,,0
+10831,pain,1
+10832,,0
 10833,,0
-10834,symptoms tumor head get,4
-10835,symptoms head,2
-10836,,0
-10837,symptoms head,2
-10838,get,1
-10839,brain feeling,2
-10840,symptoms tumor brain,3
+10834,,0
+10835,bp,1
+10836,behind severe headache,3
+10837,,0
+10838,bp,1
+10839,late breast cancer,3
+10840,changes hormonal breast cancer,4
 10841,,0
-10842,side,1
-10843,,0
-10844,symptoms,1
-10845,get,1
-10846,symptoms brain head,3
+10842,cancer would breast,3
+10843,would,1
+10844,,0
+10845,changes lump cancer breast,4
+10846,period,1
 10847,,0
-10848,,0
-10849,pressure,1
-10850,,0
-10851,,0
-10852,symptoms,1
-10853,,0
-10854,top get,2
-10855,head top side,3
+10848,period,1
+10849,late period,2
+10850,cause,1
+10851,cause lump cancer breast,4
+10852,breast,1
+10853,cause,1
+10854,,0
+10855,hormonal cancer would breast,4
 10856,,0
-10857,worse,1
-10858,spinal back,2
-10859,back,1
-10860,back,1
-10861,,0
-10862,pain,1
-10863,pain back,2
-10864,upper pain back,3
-10865,,0
+10857,,0
+10858,late cause breast,3
+10859,,0
+10860,would,1
+10861,hormonal breast cancer,3
+10862,period,1
+10863,week period,2
+10864,,0
+10865,help,1
 10866,,0
-10867,sore,1
-10868,sore,1
-10869,,0
-10870,pain,1
-10871,pain back,2
-10872,back,1
+10867,,0
+10868,,0
+10869,side,1
+10870,,0
+10871,,0
+10872,help,1
 10873,,0
 10874,,0
 10875,,0
-10876,pain,1
+10876,side,1
 10877,,0
 10878,,0
 10879,,0
-10880,pain,1
+10880,,0
 10881,,0
-10882,,0
-10883,,0
-10884,,0
+10882,upset stomach,2
+10883,stomach help,2
+10884,weeks,1
 10885,,0
-10886,back,1
+10886,,0
 10887,,0
-10888,sore,1
+10888,acne,1
 10889,,0
 10890,,0
-10891,upper,1
-10892,around,1
-10893,month,1
+10891,dermatologist,1
+10892,ask acne since dermatologist,4
+10893,acne im,2
 10894,,0
-10895,like eczema,2
-10896,,0
+10895,acne,1
+10896,ive,1
 10897,,0
 10898,,0
-10899,like rash,2
-10900,rash,1
-10901,like,1
-10902,dry itching rash eczema,4
-10903,,0
-10904,,0
-10905,,0
-10906,,0
-10907,like rash,2
-10908,like,1
+10899,acne,1
+10900,acne,1
+10901,,0
+10902,acne,1
+10903,dermatologist,1
+10904,acne,1
+10905,acne,1
+10906,dermatologist,1
+10907,acne,1
+10908,acne,1
 10909,,0
-10910,,0
-10911,like eczema,2
-10912,feet top rash,3
-10913,,0
-10914,like eczema,2
+10910,acne dermatologist,2
+10911,acne,1
+10912,acne,1
+10913,acne,1
+10914,dermatologist,1
 10915,,0
 10916,,0
 10917,,0
 10918,,0
-10919,1 like rash looks,4
-10920,dry rash,2
+10919,cough nose,2
+10920,,0
 10921,,0
-10922,eczema,1
-10923,eczema,1
-10924,,0
-10925,itching,1
+10922,,0
+10923,,0
+10924,breath shortness cough,3
+10925,,0
 10926,,0
 10927,,0
-10928,rash,1
-10929,,0
+10928,,0
+10929,breath shortness causing,3
 10930,,0
-10931,,0
-10932,like,1
+10931,causing nasal drip cough,4
+10932,causing cough nasal drip,4
 10933,,0
-10934,,0
-10935,thyroid voice infection cancer lymph,5
-10936,thyroid cancer away lymph swollen nodes could,7
-10937,thyroid cancer,2
-10938,thyroid could,2
-10939,symptoms nodes infection lymph,4
-10940,thyroid symptoms could infection cancer,5
-10941,nodes could infection lymph,4
-10942,thyroid could cancer,3
-10943,cancer,1
-10944,symptoms voice,2
-10945,thyroid symptoms,2
-10946,thyroid symptoms,2
-10947,first,1
-10948,,0
-10949,swollen,1
-10950,ok,1
-10951,symptoms first,2
-10952,symptoms could,2
-10953,thyroid,1
-10954,swelling,1
-10955,symptoms,1
-10956,thyroid could,2
-10957,swelling nodes cancer lymph,4
-10958,nodes could,2
-10959,thyroid feel cancer swelling,4
-10960,nodes infection lymph,3
-10961,nodes lymph,2
-10962,symptoms,1
-10963,could infection,2
+10934,nose,1
+10935,breath shortness,2
+10936,,0
+10937,cough nasal nose,3
+10938,nasal getting,2
+10939,away temples preassure,3
+10940,sinus infection,2
+10941,,0
+10942,,0
+10943,sinus infection,2
+10944,sinus headache,2
+10945,sinus,1
+10946,,0
+10947,take,1
+10948,infection,1
+10949,infection,1
+10950,,0
+10951,take,1
+10952,,0
+10953,serious something headache,3
+10954,kind sinus take headache,4
+10955,sinus infection,2
+10956,serious,1
+10957,infection,1
+10958,,0
+10959,,0
+10960,,0
+10961,take,1
+10962,sinus,1
+10963,,0
 10964,,0
-10965,nodes lymph,2
-10966,thyroid could lymph,3
-10967,swelling could,2
-10968,,0
-10969,nodes cancer lymph,3
-10970,nodes swollen infection cancer lymph,5
-10971,first,1
-10972,thyroid,1
-10973,cancer,1
-10974,cancer,1
-10975,infection,1
+10965,extracted stomach issues tooth,4
+10966,diarrhea stomach,2
+10967,,0
+10968,diarrhea,1
+10969,diarrhea,1
+10970,diarrhea,1
+10971,,0
+10972,diarrhea stomach,2
+10973,,0
+10974,,0
+10975,,0
 10976,,0
-10977,,0
+10977,diarrhea,1
 10978,,0
 10979,,0
-10980,tests negative,2
-10981,,0
-10982,could still pregnant,3
-10983,tests days pregnant,3
-10984,negative days pregnant,3
-10985,could,1
-10986,,0
-10987,still negative,2
-10988,could,1
-10989,late tests days pregnant,4
-10990,sore tests still days,4
-10991,late tests negative,3
-10992,,0
-10993,negative,1
-10994,,0
-10995,,0
+10980,antibiotics,1
+10981,antibiotics,1
+10982,,0
+10983,stomach,1
+10984,,0
+10985,,0
+10986,diarrhea,1
+10987,,0
+10988,,0
+10989,,0
+10990,hand,1
+10991,get pregnant,2
+10992,vagina,1
+10993,vagina,1
+10994,one,1
+10995,get pregnant,2
 10996,,0
-10997,could pregnant,2
-10998,sore could nausea negative pregnant,5
-10999,negative pregnant,2
-11000,days pregnant,2
-11001,negative pregnant,2
-11002,tests,1
-11003,,0
-11004,,0
+10997,one,1
+10998,,0
+10999,vagina,1
+11000,hand,1
+11001,ejaculate,1
+11002,vagina,1
+11003,pregnant,1
+11004,pregnant,1
 11005,,0
-11006,3 days pregnant,3
-11007,,0
-11008,could pregnant,2
-11009,,0
-11010,,0
-11011,tests pregnant could negative late 3 spotting,7
-11012,days,1
-11013,vagina itchy swollen,3
-11014,vagina,1
-11015,,0
-11016,,0
-11017,,0
-11018,,0
-11019,day,1
-11020,could,1
-11021,,0
-11022,,0
-11023,,0
-11024,,0
+11006,,0
+11007,pregnant,1
+11008,vagina,1
+11009,get ejaculate pregnant,3
+11010,one,1
+11011,vagina ejaculate pregnant,3
+11012,,0
+11013,vagina ejaculate,2
+11014,one,1
+11015,hand,1
+11016,test pregnancy,2
+11017,test pregnancy,2
+11018,test,1
+11019,,0
+11020,,0
+11021,test pregnancy periods take,4
+11022,test pregnancy,2
+11023,test pregnancy,2
+11024,test pregnancy,2
 11025,,0
-11026,could day,2
-11027,,0
+11026,pregnancy test,2
+11027,test pregnancy,2
 11028,,0
-11029,could sexual intercourse,3
-11030,could,1
-11031,could,1
-11032,,0
-11033,,0
-11034,could,1
+11029,bleeding pregnancy,2
+11030,test pregnancy,2
+11031,test pregnancy,2
+11032,test pregnancy,2
+11033,pregnancy test take,3
+11034,test pregnancy take,3
 11035,,0
-11036,could sexual itchy,3
-11037,,0
-11038,,0
-11039,,0
-11040,,0
-11041,,0
+11036,,0
+11037,test pregnancy,2
+11038,pregnancy test,2
+11039,test,1
+11040,sound pressure blood whooshing,4
+11041,could,1
 11042,,0
-11043,vagina sexual intercourse,3
-11044,could,1
-11045,could,1
-11046,,0
-11047,,0
-11048,ankle,1
-11049,ankle,1
-11050,heal,1
-11051,,0
+11043,could,1
+11044,pressure head blood,3
+11045,,0
+11046,sound,1
+11047,caused could,2
+11048,head,1
+11049,,0
+11050,,0
+11051,could blood,2
 11052,,0
-11053,ankle,1
-11054,ankle leg,2
-11055,,0
-11056,bump red swollen,3
+11053,could,1
+11054,,0
+11055,pressure blood,2
+11056,,0
 11057,,0
-11058,weeks,1
+11058,,0
 11059,,0
-11060,2 red,2
-11061,,0
-11062,still,1
-11063,leg,1
+11060,caused blood pressure,3
+11061,pressure blood,2
+11062,pressure blood,2
+11063,,0
 11064,,0
-11065,leg,1
-11066,ankle,1
-11067,ago ankle weeks,3
-11068,ankle,1
-11069,leg,1
-11070,2 red,2
-11071,ankle,1
+11065,feet heaviness chest blood,4
+11066,,0
+11067,blood,1
+11068,,0
+11069,,0
+11070,,0
+11071,,0
 11072,,0
 11073,,0
-11074,,0
+11074,feel,1
 11075,,0
-11076,ago ankle weeks still leg,5
-11077,ankle swollen,2
-11078,ankle,1
-11079,,0
-11080,leg,1
-11081,,0
+11076,,0
+11077,,0
+11078,pressure,1
+11079,pressure,1
+11080,,0
+11081,blood,1
 11082,,0
 11083,,0
-11084,ankle,1
-11085,watery bowel colon stools cancer,5
+11084,,0
+11085,,0
 11086,,0
-11087,colon cancer,2
-11088,colon cancer,2
-11089,colon stools cancer,3
-11090,colon,1
-11091,colon cancer,2
-11092,colon cancer,2
-11093,bowel,1
+11087,,0
+11088,blood,1
+11089,,0
+11090,,0
+11091,,0
+11092,yeast glands infection swollen serious groin,6
+11093,infection,1
 11094,,0
-11095,,0
-11096,even also bowel stools,4
-11097,,0
+11095,glands infection,2
+11096,,0
+11097,sign,1
 11098,,0
-11099,colon cancer,2
-11100,cancer,1
-11101,,0
-11102,watery,1
-11103,also cancer,2
+11099,infection,1
+11100,groin,1
+11101,yeast,1
+11102,,0
+11103,,0
 11104,,0
-11105,cancer,1
-11106,small,1
+11105,,0
+11106,,0
 11107,,0
 11108,,0
-11109,,0
-11110,also,1
-11111,also,1
-11112,,0
-11113,colon,1
-11114,bowel,1
-11115,bowel,1
+11109,yeast,1
+11110,,0
+11111,,0
+11112,groin swollen,2
+11113,,0
+11114,arteries,1
+11115,throat cough pain,3
 11116,,0
-11117,small,1
-11118,,0
+11117,throat,1
+11118,side left,2
 11119,,0
-11120,gas eat cancer,3
-11121,,0
-11122,,0
-11123,could pregnant,2
+11120,node lymph,2
+11121,node lymph swollen,3
+11122,node lymph,2
+11123,,0
 11124,,0
-11125,,0
-11126,,0
-11127,could,1
+11125,throat ear,2
+11126,pain lymph,2
+11127,lymph swollen,2
 11128,,0
-11129,could,1
+11129,swollen,1
 11130,,0
-11131,could,1
-11132,,0
-11133,pregnant,1
-11134,,0
+11131,node ear left lymph,4
+11132,node,1
+11133,ear muscle pain swollen,4
+11134,ear pain,2
 11135,,0
 11136,,0
-11137,knee could behind,3
-11138,could,1
+11137,thyroid ln cancer lymph,4
+11138,nodes lymph,2
 11139,,0
 11140,,0
 11141,,0
-11142,left,1
-11143,hours,1
-11144,,0
-11145,could pregnant,2
-11146,,0
-11147,,0
-11148,could,1
-11149,,0
-11150,,0
-11151,could pregnant,2
+11142,nodes cancer lymph,3
+11143,neck cancer,2
+11144,lymph,1
+11145,nodes lymph,2
+11146,nodes lymph,2
+11147,neck,1
+11148,nodes cancer lymph,3
+11149,cancer,1
+11150,time,1
+11151,,0
 11152,,0
-11153,,0
-11154,,0
-11155,knee could,2
-11156,pregnant,1
+11153,nodes,1
+11154,nodes lymph,2
+11155,lymph,1
+11156,,0
 11157,,0
-11158,vulvodynia vaginal,2
-11159,vaginal yeast,2
-11160,vaginal yeast,2
+11158,,0
+11159,nodes lymph,2
+11160,,0
 11161,,0
-11162,bad,1
+11162,,0
 11163,,0
-11164,vaginal stds burning yeast,4
-11165,vaginal,1
-11166,vaginal,1
-11167,,0
-11168,yeast,1
-11169,,0
-11170,burning,1
-11171,,0
-11172,right,1
-11173,vaginal,1
-11174,yeast,1
-11175,yeast,1
-11176,,0
-11177,yeast,1
-11178,burning,1
-11179,right vaginal stds yeast,4
-11180,,0
-11181,,0
-11182,,0
-11183,vaginal yeast,2
-11184,,0
-11185,,0
+11164,,0
+11165,test negative,2
+11166,test pregnancy negative days period,5
+11167,test pregnancy period,3
+11168,pregnancy days period,3
+11169,test pregnancy days period,4
+11170,test pregnancy,2
+11171,test pregnancy days period,4
+11172,,0
+11173,test days,2
+11174,pregnancy days,2
+11175,test pregnancy negative,3
+11176,pregnancy,1
+11177,test pregnancy period negative,4
+11178,test days period,3
+11179,test,1
+11180,test pregnancy negative days period,5
+11181,test pregnancy negative days period,5
+11182,test pregnancy,2
+11183,test pregnancy negative days period,5
+11184,late test period pregnancy,4
+11185,late pregnancy days period,4
 11186,,0
-11187,go,1
-11188,go yeast,2
+11187,wearing stretch equinus calf,4
+11188,,0
 11189,,0
-11190,vaginal,1
-11191,,0
-11192,vaginal burning yeast,3
+11190,,0
+11191,foot calf,2
+11192,foot keep,2
 11193,,0
-11194,think yeast,2
-11195,burning vaginal,2
-11196,coughing blood,2
-11197,smoker,1
+11194,,0
+11195,,0
+11196,,0
+11197,,0
 11198,,0
-11199,coughing pain,2
+11199,keeps,1
 11200,,0
-11201,chest,1
-11202,chest pain smoker,3
-11203,smoker,1
-11204,chest fever pain cough,4
+11201,,0
+11202,,0
+11203,,0
+11204,,0
 11205,,0
-11206,chest pain,2
-11207,chest pain take,3
-11208,chest pain,2
+11206,,0
+11207,,0
+11208,,0
 11209,,0
 11210,,0
-11211,,0
-11212,chest pain,2
-11213,chest pain,2
-11214,pain,1
-11215,chest pain,2
+11211,foot,1
+11212,,0
+11213,discharge fibroid,2
+11214,cause pill,2
+11215,period,1
 11216,,0
-11217,chest,1
-11218,take,1
-11219,chest pain,2
-11220,chest pain care,3
-11221,chest pain,2
-11222,take,1
-11223,fever pain,2
-11224,chest pain,2
+11217,cause,1
+11218,pill,1
+11219,,0
+11220,cause period,2
+11221,period,1
+11222,discharge,1
+11223,,0
+11224,period,1
 11225,,0
-11226,,0
-11227,fever blood care,3
-11228,chest pain,2
-11229,chest pain care,3
-11230,,0
-11231,,0
+11226,period,1
+11227,,0
+11228,cause,1
+11229,,0
+11230,period,1
+11231,discharge,1
 11232,,0
-11233,chest,1
-11234,,0
-11235,asthma,1
-11236,sounds,1
-11237,asthma,1
-11238,fever,1
-11239,asthma,1
-11240,fever,1
-11241,coughing chest,2
-11242,asthma,1
-11243,asthma,1
-11244,chest,1
-11245,coughing asthma chest,3
-11246,coughing asthma,2
-11247,chest,1
-11248,,0
-11249,coughing fever asthma chest,4
-11250,fever,1
-11251,coughing asthma chest sounds,4
-11252,chest,1
-11253,fever,1
-11254,sounds,1
-11255,sounds asthma,2
-11256,chest asthma,2
-11257,fever,1
-11258,sounds asthma,2
-11259,,0
-11260,,0
-11261,sounds,1
-11262,serious chest,2
-11263,asthma,1
-11264,asthma,1
-11265,coughing,1
-11266,,0
-11267,fever,1
-11268,,0
-11269,coughing asthma,2
-11270,today,1
-11271,,0
-11272,,0
-11273,,0
-11274,,0
-11275,chest pain,2
-11276,breath chest pain,3
-11277,breath chest pain today,4
-11278,feel,1
-11279,breath chest pain,3
-11280,,0
-11281,pain,1
-11282,,0
-11283,,0
-11284,chest,1
-11285,,0
-11286,,0
-11287,,0
+11233,discharge,1
+11234,wait,1
+11235,,0
+11236,go,1
+11237,go doctor,2
+11238,hospital,1
+11239,,0
+11240,,0
+11241,doctor,1
+11242,wait,1
+11243,,0
+11244,,0
+11245,go,1
+11246,,0
+11247,,0
+11248,wait,1
+11249,,0
+11250,wait,1
+11251,,0
+11252,rhogam,1
+11253,,0
+11254,,0
+11255,,0
+11256,,0
+11257,,0
+11258,doctor,1
+11259,doctor,1
+11260,need right,2
+11261,acne laser scars,3
+11262,laser,1
+11263,acne laser treatment scars,4
+11264,acne laser scars,3
+11265,acne,1
+11266,acne laser treatment,3
+11267,acne scars,2
+11268,acne treatment scars,3
+11269,laser get,2
+11270,get,1
+11271,acne laser scars,3
+11272,acne laser scars,3
+11273,acne laser scars,3
+11274,acne laser scars,3
+11275,,0
+11276,acne laser treatment scars,4
+11277,treatment,1
+11278,acne laser treatment scars,4
+11279,acne scars,2
+11280,laser,1
+11281,scars laser,2
+11282,acne laser scars,3
+11283,acne laser scars,3
+11284,acne laser,2
+11285,acne treatment scars,3
+11286,acne face,2
+11287,acne laser treatment,3
 11288,,0
-11289,,0
-11290,,0
-11291,dizzy,1
-11292,,0
-11293,,0
-11294,chest pain,2
-11295,,0
-11296,chest pain,2
-11297,chest pain,2
-11298,several,1
-11299,,0
-11300,breath,1
-11301,,0
-11302,chest pain,2
-11303,pain,1
-11304,,0
-11305,,0
-11306,breath chest pain,3
-11307,pain,1
-11308,pain,1
-11309,shoulder pain,2
-11310,pain,1
-11311,get,1
-11312,,0
-11313,shoulder pain,2
-11314,sleep arm,2
-11315,pain,1
-11316,pain left,2
-11317,shoulder female,2
-11318,arm,1
-11319,pain arm left,3
-11320,pain nausea,2
-11321,,0
-11322,sharp pain arm nausea,4
-11323,,0
-11324,pain get,2
-11325,,0
-11326,,0
-11327,,0
-11328,cant,1
-11329,shoulder pain,2
-11330,pain arm,2
-11331,shoulder pain get,3
-11332,pain arm,2
-11333,pain,1
-11334,pain,1
-11335,pain,1
-11336,pain,1
-11337,get,1
-11338,,0
-11339,sound female,2
-11340,pain,1
-11341,pain,1
-11342,,0
-11343,,0
-11344,pancytopenia marrow bone anemia,4
-11345,marrow low bone,3
-11346,low anemia,2
-11347,type low anemia,3
-11348,marrow low bone anemia,4
-11349,anemia,1
-11350,marrow low bone anemia,4
-11351,,0
-11352,anemia,1
-11353,anemia,1
-11354,anemia,1
-11355,,0
-11356,anemia,1
-11357,anemia,1
-11358,low anemia,2
-11359,anemia,1
-11360,anemia,1
-11361,marrow,1
-11362,,0
-11363,,0
-11364,,0
-11365,,0
-11366,anemia,1
-11367,anemia,1
-11368,,0
-11369,low,1
-11370,anemia,1
-11371,marrow bone anemia,3
-11372,anemia,1
-11373,anemia,1
-11374,,0
-11375,,0
-11376,anemia,1
-11377,anemia,1
-11378,anemia,1
-11379,,0
-11380,,0
-11381,marrow bone anemia,3
-11382,burning yeast itching infection vaginal discharge,6
-11383,,0
-11384,vaginal infection yeast,3
-11385,infection vaginal,2
-11386,yeast,1
-11387,infection yeast,2
-11388,discharge vaginal infection yeast,4
-11389,,0
-11390,infection yeast,2
-11391,discharge yeast,2
-11392,itching vaginal yeast,3
-11393,discharge yeast,2
-11394,discharge infection yeast,3
-11395,,0
-11396,infection yeast,2
-11397,itching discharge vaginal infection yeast,5
-11398,yeast infection else something vaginal discharge,6
-11399,discharge yeast,2
-11400,,0
-11401,discharge,1
-11402,infection yeast,2
-11403,burning yeast itching infection vaginal discharge,6
-11404,discharge,1
-11405,discharge yeast,2
-11406,discharge infection,2
-11407,itching vaginal yeast,3
-11408,discharge yeast,2
-11409,vaginal yeast,2
-11410,burning yeast itching infection vaginal discharge,6
-11411,discharge,1
-11412,itching discharge yeast,3
-11413,,0
-11414,,0
-11415,itching discharge burning vaginal,4
-11416,sound,1
-11417,sound clicking knee swelling,4
-11418,knee,1
-11419,,0
-11420,swelling,1
-11421,knee,1
-11422,knee,1
-11423,knee,1
-11424,knee,1
-11425,popping,1
-11426,,0
-11427,swelling knee,2
-11428,swelling knee,2
-11429,,0
-11430,foot swelling hurt,3
-11431,knee,1
-11432,,0
-11433,worse hurt,2
-11434,,0
-11435,,0
-11436,swelling,1
-11437,,0
-11438,,0
-11439,,0
-11440,foot swelling getting,3
-11441,knee,1
-11442,knee,1
-11443,,0
-11444,,0
-11445,,0
-11446,,0
-11447,,0
-11448,swelling,1
-11449,,0
-11450,foot swelling knee,3
-11451,swelling,1
-11452,leg,1
-11453,,0
-11454,leg,1
-11455,,0
-11456,blood,1
-11457,blood,1
-11458,,0
-11459,knee behind blood leg,4
-11460,blood,1
-11461,blood,1
-11462,knee,1
-11463,,0
-11464,,0
-11465,,0
-11466,,0
-11467,,0
-11468,,0
-11469,knee blood,2
-11470,knee behind blood,3
-11471,,0
-11472,,0
-11473,blood,1
-11474,,0
-11475,,0
-11476,vessel blood,2
-11477,,0
-11478,,0
-11479,,0
-11480,knee,1
-11481,knee,1
-11482,,0
-11483,,0
-11484,,0
-11485,knee behind,2
-11486,knee blood,2
-11487,blood,1
-11488,,0
-11489,,0
-11490,,0
-11491,fever,1
-11492,tylenol fever give,3
-11493,tylenol give,2
-11494,fever,1
-11495,tylenol fever children,3
-11496,fever,1
-11497,tylenol fever give,3
-11498,fever,1
-11499,tylenol months 15,3
-11500,fever,1
-11501,,0
-11502,son,1
-11503,months,1
-11504,,0
-11505,,0
-11506,give,1
-11507,,0
-11508,tylenol going fever give,4
-11509,tylenol 15,2
-11510,fever son,2
-11511,give,1
-11512,,0
-11513,children,1
-11514,,0
-11515,,0
-11516,give,1
-11517,fever,1
-11518,,0
-11519,fever,1
-11520,fever,1
-11521,,0
-11522,children give,2
-11523,tylenol children,2
-11524,tylenol,1
-11525,,0
-11526,,0
-11527,,0
-11528,son,1
-11529,,0
-11530,fever months give,3
-11531,son,1
-11532,easily lymph bruise swollen,4
-11533,,0
-11534,lymph,1
-11535,,0
-11536,node groin,2
-11537,go,1
-11538,,0
-11539,,0
-11540,,0
-11541,,0
-11542,node lymph,2
-11543,mouth lymph,2
-11544,swollen,1
-11545,,0
-11546,,0
-11547,lymph,1
-11548,go lymph,2
-11549,swollen,1
-11550,lymph,1
-11551,dots red,2
-11552,,0
-11553,,0
-11554,node lymph,2
-11555,go lymph,2
-11556,lymph,1
-11557,,0
-11558,,0
-11559,,0
-11560,,0
-11561,node go lymph,3
-11562,node lymph,2
-11563,,0
-11564,,0
-11565,groin lymph,2
-11566,,0
-11567,go lymph,2
-11568,lymph,1
-11569,,0
-11570,chest strep pain rash first,5
-11571,chest strep,2
-11572,antibiotics strep,2
-11573,chest strep,2
-11574,chest pain,2
-11575,,0
-11576,,0
-11577,chest pain,2
-11578,rash,1
-11579,,0
-11580,,0
-11581,,0
-11582,,0
-11583,,0
-11584,,0
-11585,,0
-11586,,0
-11587,,0
-11588,chest pain antibiotics,3
-11589,,0
-11590,time,1
-11591,first,1
-11592,,0
-11593,antibiotics,1
-11594,fatigue nose,2
-11595,nose bloody,2
-11596,,0
-11597,,0
-11598,strep,1
-11599,chest pain,2
-11600,chest pain rash first,4
-11601,,0
-11602,,0
-11603,nose,1
-11604,pain,1
-11605,,0
-11606,,0
-11607,rash,1
-11608,,0
-11609,,0
-11610,ms,1
-11611,,0
-11612,,0
-11613,,0
-11614,,0
-11615,ms,1
-11616,ms,1
-11617,ms,1
-11618,sign,1
-11619,feet,1
-11620,,0
-11621,,0
-11622,ms,1
-11623,ms,1
-11624,ms,1
-11625,,0
-11626,feet,1
-11627,,0
-11628,,0
-11629,ms,1
-11630,ms,1
-11631,tingling ms,2
-11632,,0
-11633,,0
-11634,anything,1
-11635,,0
-11636,cannot,1
-11637,,0
-11638,,0
-11639,tingling,1
-11640,,0
-11641,,0
-11642,,0
-11643,,0
-11644,months,1
-11645,,0
-11646,months,1
-11647,,0
-11648,,0
-11649,tingling herniated discs neck chiropractic,5
-11650,discs cervical,2
-11651,shoulder pain neck,3
-11652,,0
-11653,cervical,1
-11654,going pain sensation,3
-11655,tingling pain sensation,3
-11656,neck treatment,2
-11657,pain,1
-11658,shoulder pain,2
-11659,,0
-11660,tingling sensation,2
-11661,pain treatment,2
-11662,cervical,1
-11663,shoulder tingling pain neck,4
-11664,,0
-11665,,0
-11666,,0
-11667,pain,1
-11668,shoulder herniated pain neck hand,5
-11669,,0
-11670,,0
-11671,,0
-11672,,0
-11673,pain neck herniated,3
-11674,pain,1
-11675,shoulder going,2
-11676,pain treatment chiropractic,3
-11677,tingling pain neck,3
-11678,pain,1
-11679,neck,1
-11680,pain sensation,2
-11681,,0
-11682,,0
-11683,neck,1
-11684,,0
-11685,pain,1
-11686,treatment hand,2
-11687,going pain neck hand,4
-11688,,0
-11689,,0
-11690,treatment,1
-11691,,0
-11692,syndrome gb,2
-11693,,0
-11694,triglycerides,1
-11695,,0
-11696,b sgpt sgot,3
-11697,triglycerides,1
-11698,syndrome,1
-11699,,0
-11700,,0
-11701,,0
-11702,,0
-11703,,0
-11704,,0
-11705,,0
-11706,,0
-11707,,0
-11708,,0
-11709,,0
-11710,,0
-11711,,0
-11712,,0
-11713,,0
-11714,,0
-11715,b,1
-11716,b,1
-11717,,0
-11718,,0
-11719,,0
-11720,b,1
-11721,,0
-11722,,0
-11723,,0
-11724,,0
-11725,,0
-11726,,0
-11727,,0
-11728,,0
-11729,liver hepatitis normal,3
-11730,liver normal,2
-11731,liver,1
-11732,c b alcohol enzymes medicines hepatitis liver,7
-11733,liver,1
-11734,c liver,2
-11735,c liver hepatitis,3
-11736,b normal,2
-11737,alcohol liver,2
-11738,liver,1
-11739,liver,1
-11740,b alcohol hepatitis liver,4
-11741,,0
-11742,b alcohol hepatitis liver,4
-11743,,0
-11744,enzymes liver,2
-11745,,0
-11746,enzymes alcohol liver,3
-11747,liver,1
-11748,enzymes liver,2
-11749,drink alcohol liver,3
-11750,enzymes alcohol liver,3
-11751,alcohol,1
-11752,,0
-11753,liver normal,2
-11754,liver hepatitis,2
-11755,hepatitis,1
-11756,alcohol liver,2
-11757,,0
-11758,liver,1
-11759,liver hepatitis,2
-11760,alcohol liver,2
-11761,hepatitis,1
-11762,liver,1
-11763,,0
-11764,concern,1
-11765,head,1
-11766,t2,1
-11767,,0
-11768,,0
-11769,causes,1
-11770,,0
-11771,mean,1
-11772,,0
-11773,,0
-11774,,0
-11775,,0
-11776,,0
-11777,,0
-11778,,0
-11779,reason,1
-11780,,0
-11781,,0
-11782,,0
-11783,,0
-11784,,0
-11785,,0
-11786,head,1
-11787,,0
-11788,,0
-11789,,0
-11790,causes,1
-11791,,0
-11792,,0
-11793,,0
-11794,,0
-11795,,0
-11796,,0
-11797,,0
-11798,,0
-11799,,0
-11800,,0
-11801,,0
-11802,,0
-11803,,0
-11804,,0
-11805,,0
-11806,,0
-11807,discharge,1
-11808,,0
-11809,,0
-11810,,0
-11811,9 brown days discharge,4
-11812,brown period discharge,3
-11813,,0
-11814,days period,2
-11815,,0
-11816,,0
-11817,period,1
-11818,discharge,1
-11819,,0
-11820,period,1
-11821,period,1
-11822,,0
-11823,period,1
-11824,cramping period discharge,3
-11825,,0
-11826,,0
-11827,,0
-11828,period,1
-11829,period,1
-11830,,0
-11831,cramping,1
-11832,still period,2
-11833,,0
-11834,period,1
-11835,days,1
-11836,,0
-11837,days,1
-11838,still normal,2
-11839,normal days period,3
-11840,,0
-11841,discharge,1
-11842,,0
-11843,,0
-11844,period,1
-11845,bleeding weeks period,3
-11846,,0
-11847,discharge,1
-11848,bleeding,1
-11849,discharge,1
-11850,bleeding,1
-11851,,0
-11852,,0
-11853,discharge,1
-11854,weeks,1
-11855,period,1
-11856,period,1
-11857,,0
-11858,period,1
-11859,period,1
-11860,,0
-11861,,0
-11862,period birth,2
-11863,,0
-11864,,0
-11865,,0
-11866,birth,1
-11867,,0
-11868,discharge,1
-11869,period,1
-11870,discharge,1
-11871,bleeding,1
-11872,,0
-11873,,0
-11874,,0
-11875,baby stopped period,3
-11876,blood,1
-11877,blood,1
-11878,need blood,2
-11879,blood glucose,2
-11880,blood glucose,2
-11881,need blood,2
-11882,blood glucose,2
-11883,blood,1
-11884,need glucose,2
-11885,,0
-11886,glucose,1
-11887,,0
-11888,blood,1
-11889,blood,1
-11890,need,1
-11891,need blood,2
-11892,glucose,1
-11893,blood level,2
-11894,blood,1
-11895,blood glucose,2
-11896,,0
-11897,,0
-11898,,0
-11899,blood glucose,2
-11900,glucose blood level,3
-11901,need blood,2
-11902,blood glucose,2
-11903,,0
-11904,blood,1
-11905,blood,1
-11906,,0
-11907,blood,1
-11908,blood,1
-11909,glucose level,2
-11910,need,1
-11911,need blood monitor glucose,4
+11289,acne laser face,3
+11290,acne laser scars,3
+11291,acne scars,2
