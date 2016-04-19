@@ -1,4 +1,0 @@
-A_0_score:-3
-A_1_score:-1
-A_2_score:1
-A_3_score:3
